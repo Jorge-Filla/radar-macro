@@ -4,16 +4,12 @@ name: Analises de ponta
 
 on:
   schedule:
-    # Sabado 07:30 UTC = 04:30 em Brasilia (folga para atrasos do GitHub)
-    - cron: "30 7 * * 6"
+    # Sexta 07:30 UTC = 04:30 em Brasilia
+    - cron: "30 7 * * 5"
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: radar-macro-git
-  cancel-in-progress: false
 
 jobs:
   analises:
@@ -39,5 +35,8 @@ jobs:
           git add semana/analises.md estado/analises.json
           git diff --cached --quiet && exit 0
           git commit -m "Analises de ponta: $(date -u +%Y-%m-%d)"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 15
+          done
+          exit 1
