@@ -1,0 +1,23 @@
+{
+  "fronteira": [
+    {"nome": "NBER Working Papers", "tipo": "rss", "url": "https://www.nber.org/rss/new.xml", "filtro_macro": true},
+    {"nome": "BIS Working Papers", "tipo": "rss", "url": "https://www.bis.org/doclist/wppubls.rss"},
+    {"nome": "ECB Working Papers", "tipo": "rss", "url": "https://www.ecb.europa.eu/rss/wppub.html"},
+    {"nome": "Fed FEDS Papers", "tipo": "rss", "url": "https://www.federalreserve.gov/feeds/feds.xml"},
+    {"nome": "arXiv Econometria (econ.EM)", "tipo": "arxiv", "url": "https://export.arxiv.org/api/query?search_query=cat:econ.EM&sortBy=submittedDate&sortOrder=descending&max_results=100", "filtro_macro": "estrito"},
+    {"nome": "BCB Trabalhos para Discussao", "tipo": "bcb_wp", "url": "https://www.bcb.gov.br/api/search/sitebcb/buscaconteudo/workpaperseries/?querytext=*&rowlimit=15&startrow=0&SortList='DataReferenciaOWSDATE:descending'&refiners="},
+    {"nome": "Journal of Monetary Economics", "tipo": "crossref", "issn": "0304-3932"},
+    {"nome": "Quarterly Journal of Economics", "tipo": "crossref", "issn": "0033-5533", "filtro_macro": true},
+    {"nome": "Review of Economic Studies", "tipo": "crossref", "issn": "0034-6527", "filtro_macro": true},
+    {"nome": "Econometrica", "tipo": "crossref", "issn": "0012-9682", "filtro_macro": true}
+  ],
+  "analises": [
+    {"nome": "BIS Bulletin", "tipo": "rss", "url": "https://www.bis.org/doclist/bisbulletins.rss"},
+    {"nome": "Fed FEDS Notes", "tipo": "rss", "url": "https://www.federalreserve.gov/feeds/feds_notes.xml"},
+    {"nome": "NY Fed Liberty Street Economics", "tipo": "rss", "url": "https://libertystreeteconomics.newyorkfed.org/feed/"},
+    {"nome": "VoxEU (CEPR)", "tipo": "rss", "url": "https://cepr.org/rss/vox-content", "link_contem": "/voxeu/columns/"},
+    {"nome": "ECB Blog", "tipo": "rss", "url": "https://www.ecb.europa.eu/rss/blog.html"},
+    {"nome": "Blog do BC", "tipo": "rss", "url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/blogdobc"},
+    {"nome": "BCB Notas Tecnicas", "tipo": "rss", "url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notastecnicas"}
+  ]
+}
