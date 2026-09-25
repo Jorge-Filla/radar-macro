@@ -1,0 +1,43 @@
+name: Fronteira do conhecimento
+
+# Working papers e revistas de pesquisa: NBER, BIS, ECB, FEDS, arXiv econometria, BCB, JME, QJE, RES, Econometrica.
+
+on:
+  schedule:
+    # Sabado 07:00 UTC = 04:00 em Brasilia (folga para atrasos do GitHub)
+    - cron: "0 7 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-macro-git
+  cancel-in-progress: false
+
+jobs:
+  fronteira:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar papers de fronteira
+        run: python coletor.py fronteira
+
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "radar-macro-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add semana/fronteira.md estado/fronteira.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fronteira do conhecimento: $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
