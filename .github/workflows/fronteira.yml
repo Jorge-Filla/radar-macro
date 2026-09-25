@@ -4,16 +4,12 @@ name: Fronteira do conhecimento
 
 on:
   schedule:
-    # Sabado 07:00 UTC = 04:00 em Brasilia (folga para atrasos do GitHub)
-    - cron: "0 7 * * 6"
+    # Sexta 07:00 UTC = 04:00 em Brasilia
+    - cron: "0 7 * * 5"
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: radar-macro-git
-  cancel-in-progress: false
 
 jobs:
   fronteira:
@@ -39,5 +35,9 @@ jobs:
           git add semana/fronteira.md estado/fronteira.json
           git diff --cached --quiet && exit 0
           git commit -m "Fronteira do conhecimento: $(date -u +%Y-%m-%d)"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 15
+          done
+          exit 1
+
