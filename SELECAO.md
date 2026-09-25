@@ -1,6 +1,6 @@
 # Radar macro | Regras da selecao semanal
 
-Este arquivo e lido pela tarefa agendada do Cowork todo sabado de manha.
+Este arquivo e lido pela tarefa agendada do Cowork toda sexta as 11h45.
 Para mudar criterio ou formato, basta editar este arquivo no GitHub.
 
 ## Entrada
@@ -38,7 +38,7 @@ organizacao industrial de um setor), esportes, energia setorial, gestao de empre
 
 ## Envio
 - Pelo Gmail (ferramenta send_message), para jorge.filla@outlook.com.
-- Assunto: Radar macro | semana de DD/MM/AAAA (data do sabado).
+- Assunto: Radar macro | semana de DD/MM/AAAA (data da sexta).
 - Corpo em HTML simples: titulo "Radar macro", secao "Fronteira do conhecimento",
   secao "Analises de ponta", rodape curto. Sem imagens.
 - Antes de enviar, conferir que o texto nao tem travessao nem emoji. Se tiver, reescrever.
