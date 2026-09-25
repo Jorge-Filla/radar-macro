@@ -1,0 +1,43 @@
+name: Analises de ponta
+
+# Textos aplicados: BIS Bulletin, FEDS Notes, Liberty Street, VoxEU, ECB Blog, Blog do BC, Notas Tecnicas do BC.
+
+on:
+  schedule:
+    # Sabado 07:30 UTC = 04:30 em Brasilia (folga para atrasos do GitHub)
+    - cron: "30 7 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-macro-git
+  cancel-in-progress: false
+
+jobs:
+  analises:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar analises de ponta
+        run: python coletor.py analises
+
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "radar-macro-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add semana/analises.md estado/analises.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Analises de ponta: $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
