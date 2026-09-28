@@ -5,6 +5,7 @@
     {"nome": "ECB Working Papers", "tipo": "rss", "url": "https://www.ecb.europa.eu/rss/wppub.html"},
     {"nome": "Fed FEDS Papers", "tipo": "rss", "url": "https://www.federalreserve.gov/feeds/feds.xml"},
     {"nome": "arXiv Econometria (econ.EM)", "tipo": "arxiv", "url": "https://export.arxiv.org/api/query?search_query=cat:econ.EM&sortBy=submittedDate&sortOrder=descending&max_results=100", "filtro_macro": "estrito"},
+    {"nome": "IMF Working Papers", "tipo": "crossref", "issn": "1018-5941", "filtro_macro": true},
     {"nome": "BCB Trabalhos para Discussao", "tipo": "bcb_wp", "url": "https://www.bcb.gov.br/api/search/sitebcb/buscaconteudo/workpaperseries/?querytext=*&rowlimit=15&startrow=0&SortList='DataReferenciaOWSDATE:descending'&refiners="},
     {"nome": "Journal of Monetary Economics", "tipo": "crossref", "issn": "0304-3932"},
     {"nome": "Quarterly Journal of Economics", "tipo": "crossref", "issn": "0033-5533", "filtro_macro": true},
