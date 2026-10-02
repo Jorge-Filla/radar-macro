@@ -1,216 +1,360 @@
-# Radar macro | Fronteira do conhecimento | atualizado em 2026-09-25
-Itens novos dos ultimos 7 dias: 38
+# Radar macro | Fronteira do conhecimento | atualizado em 2026-10-02
+Itens novos dos ultimos 7 dias: 63
 
-## NBER Working Papers (17)
+## NBER Working Papers (30)
 
-- Fiscal Populism and Monetary Policy Rules
-  Autores: Luis I. Jácome, Nicolás E. Magud, Samuel Pienknagura, Martín Uribe
-  Link: https://www.nber.org/papers/w35758
-  Resumo: We explore the historical link between populist regimes, fiscal monetization, and inflation, and how these links affect monetary policy in the 21st century. Using data for a large set of advanced economies and emerging markets since 1960, we show that, historically, left-leaning populist regimes are linked to...
+- Price Setting During a Currency Changeover
+  Autores: Fernando E. Alvarez, David Argente, Alberto Cavallo, Francesco Lippi
+  Link: https://www.nber.org/papers/w35790
+  Resumo: We use the euro cash changeover, a large-scale and purely nominal reform that requires all firms to redenominate posted prices, to distinguish among theories of price rigidity. We develop a nonstationary menu-cost model in which firms anticipate the changeover date and may combine currency adoption with real price...
 
-- Responses to Extreme Price Changes: Evidence from the Residential Demand for Natural Gas
-  Autores: Anna Alberini, Levan Bezhanishvili, Milan Ščasný, Roberton C. Williams III
-  Link: https://www.nber.org/papers/w35759
-  Resumo: We examine the response of residential customers to an extreme price change – namely that imposed by the government in the Republic of Georgia during the pandemic lockdown in the winter of 2020 and early 2021. As of November 2020, the government paid the gas bill directly to the utility, effectively making gas free,...
+- Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK
+  Autores: Ian Burn, Melissa D. Gentry, Joanna Lahey
+  Link: https://www.nber.org/papers/w35791
+  Resumo: Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home...
 
-- Incentivizing Self-Protection From Wildfires
-  Autores: Patrick Baylis, Judson Boomhower, Bob Horton, Chris Mulverhill
-  Link: https://www.nber.org/papers/w35764
-  Resumo: Losses from natural disasters can be mitigated through investments in property protection, yet adoption of low-cost risk-reducing measures remains low. In wildfire-exposed areas, managing vegetation and other fuels next to homes decreases structure vulnerability, but few properties comply with best practices despite...
+- The Macroeconomic Effect of AI: Sizing the Software Engineering Channel
+  Autores: Alex Blumenfeld, Jonathon Hazell, Chen Lian, Andreas Schaab
+  Link: https://www.nber.org/papers/w35793
+  Resumo: We measure how artificial intelligence (AI) affects the economy through its impact on software engineering productivity. We use information from financial markets to develop a forward-looking measure that is available in real time. We estimate the sensitivity of each firm’s stock return to an AI stock market index,...
 
-- Expectations and the Term Structure of Interest Rates
-  Autores: Pooya Molavi, Alireza Tahbaz-Salehi, Andrea Vedolin
-  Link: https://www.nber.org/papers/w35766
-  Resumo: This paper studies the relationship between subjective expectations and the term structure of interest rates. Departing from rational expectations, we allow market participants to hold arbitrary beliefs about future interest rates, and derive the condition that expected and realized interest rates must satisfy...
+- Permits as Real Options: Anticipation and Regulatory Leakage
+  Autores: Anna French, Nicholas Vreugdenhil
+  Link: https://www.nber.org/papers/w35794
+  Resumo: We identify a new channel for regulatory leakage: the “permitting channel”. In many settings, permits lock in the regulatory regime at approval, allowing firms to acquire the option to invest under current rules. Unlike the conventional Green Paradox response, this channel operates without accelerating physical...
 
-- Borrowing in the Shadow of China
-  Autores: Illenin O. Kondo, César Sosa-Padilla, Zachary J. Swaziek
-  Link: https://www.nber.org/papers/w35767
-  Resumo: China's rise as a major lender to emerging economies since the early 2000s has introduced a unique form of lender power: borrowers cannot default on the subsidized loans they receive, but may still face sudden rollover demands outside their control. We argue this distinctive structure—bilateral rollover risk without...
+- Innovation, Business Cycles, and the Climate Transition
+  Autores: Diego R. Känzig, Maximilian Konradt, Lixing Wang, Donghai Zhang
+  Link: https://www.nber.org/papers/w35795
+  Resumo: We study how business cycle fluctuations shape the pace and direction of innovation. Non-green innovation is procyclical, while green innovation is countercyclical, both over the cycle and in response to economic shocks. We explain this divergence in a dynamic general equilibrium model with endogenous green and...
 
-- Money and Power: Historical Lessons for Stablecoins and U.S. Dollar Dominance
-  Autores: Michael D. Bordo, Carolyn Wilkins
-  Link: https://www.nber.org/papers/w35768
-  Resumo: This paper uses the history of private money to assess the conditions under which stablecoins could function safely at scale and what their growth may imply for U.S. monetary power. Historical systems of private money in the United Kingdom, the United States, Canada, Sweden, and Switzerland show that par circulation...
+- The Early Impacts of AI on Employment among Recent College Graduates
+  Autores: Robert W. Fairlie, Jane Wu
+  Link: https://www.nber.org/papers/w35796
+  Resumo: The impact of AI on the employment prospects of recent college graduates is hotly debated with no consensus on the magnitude of impacts nor even the timing of those potential impacts. Using CPS microdata, we provide the first estimates of the effects of AI on the unemployment of recent college graduates in June, July...
 
-- Diversification as a Process: Geographic Expansion and the Formation of National Insurers
-  Autores: Pawel Janas
-  Link: https://www.nber.org/papers/w35769
-  Resumo: Large financial intermediaries are more stable than small ones, and the largest are also the most geographically diversified. Whether that breadth is a source of stability or a byproduct of scale is difficult to establish, since intermediaries diversify by growing large. I examine how the diversified intermediary is...
+- Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market
+  Autores: Hanming Fang, Jing Wu, Vincent Yao
+  Link: https://www.nber.org/papers/w35797
+  Resumo: We examine the causal effect of uncertainty in property rights on housing prices and speculative behavior. We take advantage of a distinctive setting in Shenzhen, China, where neighboring residential units that are otherwise similar differ in the strength of their property rights protections. Some units have full...
 
-- Advertising Claims, Pricing, and Customer Evidence
-  Autores: Joshua S. Gans
-  Link: https://www.nber.org/papers/w35770
-  Resumo: Why might firms make different claims in advertising both with respect to themselves and to rivals? I study how claims direct consumers to different customer experiences, and how prices change the available evidence. Attributing successes to the advertiser requires a low price when its product is superior; attributing...
+- The Wealth of Nations: Origins of Prosperity and Seeds of Inequality
+  Autores: Oded Galor
+  Link: https://www.nber.org/papers/w35799
+  Resumo: What ignited humanity’s momentous ascent from millennia of stagnation to an era of sustained economic growth? And what are the roots of the vast disparities in the wealth of nations? These enduring mysteries, which have preoccupied scholars across generations, lie at the core of Unified Growth Theory. This...
 
-- Compound Delay: The Causes and Consequences of Later Grandmotherhood
-  Autores: Dora L. Costa, Matthew E. Kahn
-  Link: https://www.nber.org/papers/w35773
-  Resumo: We show how fertility delays compound across generations to raise age at first grandmotherhood. Under the 1960 first-birth schedule median grandmotherhood came at 44. Under the 2024 schedule it is 57, cutting the healthy years with grandchildren from 28 to 15. Longer life does not make up the loss of years when the...
+- Injury, Workload, and the Strategic Response of Coaches in the NBA
+  Autores: Kala Krishna, Sergey Lychagin, Lewis S. McLean
+  Link: https://www.nber.org/papers/w35803
+  Resumo: Worker effort increases contemporaneous output but may result in injury or burnout. Directing effort away from the workers most exposed to injury would reduce this risk, but information on the exposure is often hidden. We ask whether managers act on such private information, studying the NBA as a data-rich workplace....
 
-- The Returns to International Migration in a Free Mobility Setting: Evidence from Austria and Germany
-  Autores: Andrea Weber, David Card, Wolfgang Dauth, Wolfgang Frimmel, Julia Schmieder, Rudolf Winter-Ebmer
-  Link: https://www.nber.org/papers/w35774
-  Resumo: How big are the gains to international migration? How do they vary across migrants? We study these questions using linked administrative data for Austria and Germany, focusing on migrants who were steadily employed 2-4 years before their move and using their previous co-workers as a comparison group for a...
+- Beveridgean Phillips Curve
+  Autores: Pascal Michaillat, Emmanuel Saez
+  Link: https://www.nber.org/papers/w35804
+  Resumo: This paper develops a Beveridgean model of the Phillips curve. While the New Keynesian Phillips curve is based on monopolistic pricing under price-adjustment costs, the Beveridgean Phillips curve is based on directed-search pricing under price-adjustment costs. Under directed search, prices respond to slack instead of...
 
-- Regulating Entrepreneurship: The Case of Capital Requirements
-  Autores: Annika Bacher, Andreas Fagereng, Marius A. K. Ring, Ella Getz Wold
-  Link: https://www.nber.org/papers/w35780
-  Resumo: Governments have long imposed minimum equity requirements on new corporations. Opponents view them as barriers to entry while proponents argue that they protect stakeholders from financially unviable businesses. We study this quantity-quality trade-off using a Norwegian reform and comprehensive data linking...
+- Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects
+  Autores: Bernard Herskovic, Gill Segal
+  Link: https://www.nber.org/papers/w35807
+  Resumo: Time fixed effects are not a general-equilibrium control. In network economies, aggregate shocks do not enter firm outcomes uniformly: they propagate through equilibrium prices, costs, and demand, leaving a residual network gradient after time demeaning. When an instrument, treatment, or exposure design even partially...
 
-- Risk Premia, Firm Insurance, and Endogenous Labor Income Risk
-  Autores: Maarten Meeuwis, Dimitris Papanikolaou, Lawrence D.W. Schmidt
-  Link: https://www.nber.org/papers/w35781
-  Resumo: We study how aggregate financial conditions shape firm insurance and, through it, labor income risk. In a directed search model with dynamic wage contracts and two-sided limited commitment, firm insurance against idiosyncratic shocks erodes when risk premia rise. Using U.S. administrative data, we document new...
+- Shipping to America
+  Autores: Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Ricardo Marto, Francesco Zanetti
+  Link: https://www.nber.org/papers/w35808
+  Resumo: We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential and effective capacity for all...
 
-- Unbundling Labor
-  Autores: Chris Edmond, Simon Mongey
-  Link: https://www.nber.org/papers/w35783
-  Resumo: Why is there so much wage inequality within occupations? Why has the overall level of within-occupation wage inequality risen? Why is the rise concentrated in cognitive-intensive occupations, while inequality has fallen in manual-intensive ones? To answer these questions we develop a general equilibrium model with...
+- Evaluating the Spatial Consequences of a Climate Tipping Point
+  Autores: José-Luis Cruz, Klaus Desmet, Esteban Rossi-Hansberg
+  Link: https://www.nber.org/papers/w35811
+  Resumo: The Atlantic Meridional Overturning Circulation (AMOC) is a system of ocean currents that plays a key role in regulating global climate, including moderating temperatures in Europe and the North Atlantic. Its potential collapse due to global warming is widely considered one of the more likely climate tipping points....
 
-- The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort
-  Autores: Itzik Fadlon, Tal Gross, Alex Hoagland, Timothy Layton
-  Link: https://www.nber.org/papers/w35784
-  Resumo: We study the value of informal care from a spouse and how access to such care shapes optimal insurance coverage for long-term care. Using Medicare claims and a novel spousal crosswalk, we examine how the sudden incapacitation of a spouse affects their partner's use of formal care. A spouse's health shock increases...
+- Transportation Bottlenecks and Aggregate Shocks
+  Autores: Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou, Yixin Zhou
+  Link: https://www.nber.org/papers/w35812
+  Resumo: Do transportation disruptions affect aggregate outcomes? We develop a tractable model of the transportation sector to study its impact on prices and international trade. By casting maritime transportation as a queueing network, the model identifies where the transportation bottlenecks lie and delivers a simple and...
 
-- The Remains of the Trade: The U.S.–China Trade War and its Aftermath
-  Autores: Pol Antràs, Adrian Kulesza, Andrea F. Presbitero
-  Link: https://www.nber.org/papers/w35785
-  Resumo: We study how the U.S.-China trade war has reshaped global trade patterns, creating significant spillovers to third countries. Using recent tariff policy changes and monthly international trade flow data, we document a redirection of Chinese exports away from the U.S. market and toward third countries. To interpret the...
+- The Dynamics of Development in a Zero-Sum World
+  Autores: Augustin Bergeron, Jean-Paul Carvalho, Joseph Henrich, Nathan Nunn, Jonathan L. Weigel
+  Link: https://www.nber.org/papers/w35813
+  Resumo: This chapter examines the consequences of zero-sum environments for cultural change, innovation, and long-term economic growth. We introduce innovation into the framework developed by Bergeron et al. (forthcoming), in which zero-sum environments give rise to demotivating beliefs. Although demotivating beliefs improve...
 
-- The Macroeconomic Effect of Stimulus Checks: Evidence from Postwar Veterans’ Payments
-  Autores: Joao Guerreiro, Jonathon Hazell, Diego R. Känzig, Ed Manuel
-  Link: https://www.nber.org/papers/w35786
-  Resumo: Do stimulus checks—one-off, deficit-financed lump-sum payments to households—boost the economy? We study a natural experiment: payments to U.S. veterans after World War II that mimic stimulus checks but were plausibly exogenous to the economy. These payments led to a temporary increase in transfers and a persistent,...
+- Foreign Opportunity and Regional Revival: Evidence from the French Rust Belt
+  Autores: Antoine B. Levy, Mathilde Muñoz
+  Link: https://www.nber.org/papers/w35814
+  Resumo: This paper studies whether and how distressed regions can recover from industrial decline. We exploit differences in access to an increasingly thriving Luxembourg labor market for neighboring residents of the French “Rust Belt.” We document a three-phase expansion of treated local labor markets, driven by an initial...
 
-- Using Policy Functions to Estimate Merger Impacts: An Application to JetBlue-Spirit
-  Autores: Gautam Gowrisankaran, Christopher D. Bruegge, Alex Gross
-  Link: https://www.nber.org/papers/w35787
-  Resumo: Analyses of impacts of potential mergers in differentiated product markets often rely on non-transparent identification and strong conduct assumptions. We propose a simpler alternative: using quasi-exogenous variation in market structure to estimate equilibrium pricing policy functions. When price can appropriately...
+- The Commoditization of Labor
+  Autores: Masao Fukui, Emi Nakamura, Jón Steinsson
+  Link: https://www.nber.org/papers/w35815
+  Resumo: Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutable–or more "commoditized." Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms and can lower worker...
 
-## BIS Working Papers (1)
-
-- Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios
-  Autores: Stefan Avdjiev, Kristin J Forbes, Tsvetelina Nenova, Marjorie Santos
-  Link: https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios
-  Data: 2026-09-23
-  Resumo: This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements...
-
-## ECB Working Papers (7)
-
-- Multivariate uncertainty and distributional transmission
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3290~30ee904f1e.en.pdf
-  Data: 2026-09-25
-  Resumo: Macroeconomic policy increasingly requires assessments of risk rather than point forecasts alone. This paper develops a framework to compute impulse responses for scenario probabilities and the full predictive distribution of macroeconomic outcomes. The approach combines a regime-dependent mixture VAR with endogenous...
-
-- Monetary policy transmission by securitising banks
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf
-  Data: 2026-09-22
-  Resumo: This paper studies whether securitisation affects monetary policy transmission via banks. Using granular loan-level data from the euro area, we show that banks actively engaged in securitisation adjust credit supply more strongly in response to monetary policy shocks than a matched sample of non-securitising banks....
-
-- Artificial intelligence and financial markets
-  Link: https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf
-  Data: 2026-09-22
-  Resumo: Artificial intelligence is transforming financial markets by enabling investors and intermediaries to extract more information from increasingly abundant data through advances in algorithms and computing power. We discuss how AI changes information production and decision-making, labor demand, and financial...
-
-- Inflation narratives and risk premia
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf
-  Data: 2026-09-21
-  Resumo: Theory suggests inflation risk premia are positive when supply shocks are expected to dominate demand shocks and negative otherwise. We measure these beliefs using demand and supply narratives derived from inflation news via Causality Extraction, which identifies causal relations between inflation and its drivers....
-
-- The impact of macroprudential policy fragmentation on corporate lending – evidence from a novel indicator
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf
-  Data: 2026-09-21
-  Resumo: We construct a novel bank-level index that quantifies fragmentation in the capital buffer framework faced by euro area banks. Defined at quarterly frequency, it measures fragmentation by looking at the number of simultaneously active buffers, their geographical dispersion, and the frequency of buffer rate changes...
-
-- Out with the new, in with the old? Supranational bank supervision and the composition of firm investment
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3286~f4202ab618.en.pdf
-  Data: 2026-09-18
-  Resumo: Using exogenous variation generated by the creation of the Single Supervisory Mechanism (SSM) in the euro area, we find that relative to firms borrowing from banks subject to national supervision, firms borrowing from banks subject to supranational supervision reduce their share of intangible assets. This effect does...
-
-- Bank competition and credit risk: the conditioning role of capital
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf
-  Data: 2026-09-18
-  Resumo: This paper examines how bank capital conditions the effect of competition on credit risk in lending markets, informing the debate on banking competition, deregulation, and risk-based supervision. Using ECB supervisory data for 146 euro area banks across 19 countries over 2020Q2–2025Q3, we analyze whether this...
-
-## Fed FEDS Papers (3)
-
-- Beyond Financial Conditions: Measuring Structural Vulnerabilities in the U.S. Financial System
-  Link: https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm
-  Data: 2026-09-21
-  Resumo: Michele Modugno , Benjamin Roscoe, Sarah Zoi We introduce the Financial Vulnerability Index (FVI), a novel indicator of financial vulnerabilities in the U.S. Unlike financial condition indices, which measure current credit market conditions and spike during periods of financial turmoil, the FVI displays the gradual...
-
-- Optimal Pooling in Taylor Rule Estimation with Multiple-Horizon Forecast Panels
-  Link: https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm
-  Data: 2026-09-18
-  Resumo: Edward Herbst and Karen Page Multiple-horizon forecast panels are increasingly used to infer perceived monetary policy rules, but inference depends on how coefficients are pooled across forecasters, dates, and horizons. We treat this pooling structure as the object of inference. In a participant-date-horizon...
-
-- Premiums or Peril
-  Link: https://www.federalreserve.gov/econres/feds/premiums-or-peril.htm
-  Data: 2026-09-18
-  Resumo: Erik Heitfield , Mallick Hossain, and Katie Merritt Using fine-grained data on 465,000 Florida home sales over twelve years and semiparametric machine learning methods, we examine how home prices respond to weather-related risk factors. After controlling for geography, home characteristics, and transaction features,...
-
-## arXiv Econometria (econ.EM) (5)
-
-- Reduced-Rank Autoregressive Models for Matrix Time Series
-  Autores: Han Xiao, Yuefeng Han, Rong Chen, Ama Ampadu-Kissi
-  Link: https://arxiv.org/abs/2609.28841
-  Data: 2026-09-23
-  Resumo: Matrix time series is a series of matrix data observed over time. Analytical tools for such time series is needed in many applications in finance, economics, engineering and many other fields. To avoid the use of vectorization of the matrices which loses the column and row information, and the vector autoregression...
-
-- Nonlinear Drivers of Macroeconomic Tail Risk: A Threshold Stochastic Volatility-in-Mean VAR with Regime-Dependent Leverage
-  Autores: Haroon Mumtaz, Sofia Velasco
-  Link: https://arxiv.org/abs/2609.26994
-  Data: 2026-09-22
-  Resumo: The tails of macroeconomic outcomes can respond differently from the centre of their distribution: shocks with modest effects on median growth or inflation can shift downside growth or upside inflation risk. We develop a threshold stochastic-volatility-in-mean VAR with regime-dependent leverage to study their...
-
-- Target alignment, dilution and forecast selection when cross-sectional forecasts share a common target
-  Autores: Masoud Soleimani
-  Link: https://arxiv.org/abs/2609.26303
-  Data: 2026-09-22
-  Resumo: Forecasters often score the same units per date against one standardized realized outcome. We show that every standardized forecast splits exactly into a component aligned with this common target and a component uncorrelated with it. Three consequences follow: forecast-error correlation largely mirrors forecast...
-
-- Stealing profits: Spread-based temporal hierarchy forecasting for day-ahead electricity markets
-  Autores: Arkadiusz Lipiecki, Nikolaos Kourentzes, Rafal Weron
-  Link: https://arxiv.org/abs/2609.23223
-  Data: 2026-09-19
-  Resumo: Day-ahead electricity price forecasts support trading and storage decisions, but for battery arbitrage predicting intraday price spreads is more relevant than predicting individual hourly prices. Here we show that a temporal hierarchy forecasting (THieF) framework that jointly reconciles forecasts of hourly...
-
-- Match forecasts in UEFA club competitions: Elo ratings versus Transfermarkt valuations
-  Autores: Gergely Csurilla, László Csató
-  Link: https://arxiv.org/abs/2609.21674
-  Data: 2026-09-18
-  Resumo: The pre-season strengths of European football clubs are usually measured by two proxies in the literature. Football Club Elo Ratings provide strictly performance-based Elo ratings from the early days of the European Cups, while Transfermarkt valuations are crowd-based estimates of squad market values. This paper...
-
-## Journal of Monetary Economics (3)
+- The Great Accretion and the Great Depression
+  Autores: Harold L. Cole, Stefano Cravero, Jeremy Greenwood
+  Link: https://www.nber.org/papers/w35816
+  Resumo: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And,...
 
 - Early Results from the RESET Demonstration Project: Inflation in Food at Home
-  Autores: Steve Coffey, Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Tod Johnson, Matthew D. Shapiro
-  Link: https://doi.org/10.1016/j.jmoneco.2026.103991
-  Data: 2026-09-23
+  Autores: Steve Coffey, Gabriel Ehrlich, John C. Haltiwanger, Ron S. Jarmin, David Johnson, Tod Johnson, Matthew D. Shapiro
+  Link: https://www.nber.org/papers/w35817
+  Resumo: This paper presents early results from the RESET Demonstration Project, an initiative that constructs price and sales indices using item-level transactions data. The project’s overarching goal is to demonstrate the feasibility and advantages of leveraging modern transactions data for economic measurement by pointing...
 
-- Inflation and price dispersion: New cross-sectoral and international evidence
-  Autores: Santiago Alvarez-Blaser
-  Link: https://doi.org/10.1016/j.jmoneco.2026.103990
-  Data: 2026-09-23
+- Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection
+  Autores: Yifei Zhang, Andrew Keller, Shawn Arita, Sandro Steinbach
+  Link: https://www.nber.org/papers/w35819
+  Resumo: Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option....
 
-- Decomposing Shifts in the Beveridge Curve: Implications for Labor Market Dynamics and Inflation*
-  Autores: Katharine G. Abraham, John C. Haltiwanger, Lea E. Rendell
-  Link: https://doi.org/10.1016/j.jmoneco.2026.103989
-  Data: 2026-09-19
+- Endogenous Rigidities and Capital Misallocation: Evidence from Containerships
+  Autores: Maria Garcia-Osipenko, Nicholas Vreugdenhil, Nahim B. Zahur
+  Link: https://www.nber.org/papers/w35821
+  Resumo: We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which further amplifies...
 
-## Quarterly Journal of Economics (1)
+- Financial Innovation and the International Monetary System
+  Autores: Gordon Y. Liao, Eswar S. Prasad, Tony Zhang
+  Link: https://www.nber.org/papers/w35822
+  Resumo: We show that the dollar remains dominant in most aspects of global finance. The euro and renminbi are competing in an increasingly fragmented second tier of currencies, leaving no clear rivals to the dollar. We study how financial innovation could reshape the international monetary system. In principle, innovation...
 
-- Bringing Work Home: Flexible Work Arrangements as Gateway Jobs for Women in West Bengal
-  Autores: Lisa Ho, Suhani Jalota, Anahita Karandikar
-  Link: https://doi.org/10.1093/qje/qjag045
+- The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties
+  Autores: Edward W. Chen, Reagan L. Lengefeld, Omar Isaac Asensio
+  Link: https://www.nber.org/papers/w35825
+  Resumo: This study examines a housing program that created affordable infill developments on formerly vacant, abandoned, or disinvested properties in Savannah, Georgia. Savannah is a major economic hub anchored by the Port of Savannah, where many urban neighborhoods remain impacted by disinvestment and climate risk. Using two...
+
+- Accounting for Cross-Country Income Differences Revisited
+  Autores: David Lagakos, Todd Schoellman
+  Link: https://www.nber.org/papers/w35826
+  Resumo: Development accounting is the search for proximate sources of cross-country income differences. This article describes how knowledge in this field has evolved over the two decades since the influential work of Caselli (2005). There have been large advances in the measurement of production inputs (labor, physical...
+
+- Crime in Covid Times
+  Autores: Jens Ludwig
+  Link: https://www.nber.org/papers/w35827
+  Resumo: What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and...
+
+- Liability and Pricing of Dual-Use AI
+  Autores: Joshua S. Gans
+  Link: https://www.nber.org/papers/w35828
+  Resumo: How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack...
+
+- Importers, Market Power and Optimal Tariffs
+  Autores: Jonathan Becker, Corina Boar, Virgiliu Midrigan
+  Link: https://www.nber.org/papers/w35829
+  Resumo: Importers are few and large, have higher labor productivity and pass through cost changes to prices incompletely. We study optimal tariffs in a model consistent with these facts. Firms pay a fixed cost to import and charge markups that increase with size. Market power implies that importers are too few and too small...
+
+- Economics of Demand-Side and Supply-Side Climate Policies
+  Autores: Ryan Kellogg
+  Link: https://www.nber.org/papers/w35830
+  Resumo: Should a jurisdiction seeking to cut greenhouse gas emissions use demand-side climate policies that target fossil fuel consumption? Or should it introduce supply-side policies that target extraction? My analysis points to a policy portfolio rather than an either/or choice. ``Leakage'' of emissions to unregulated...
+
+- Subjective Models of the Macroeconomy and the Transmission of Monetary Policy
+  Autores: Francesco D’Acunto, Dimitris Georgarakos, Geoff Kenny, Michael Weber
+  Link: https://www.nber.org/papers/w35831
+  Resumo: Standard macroeconomic theories assume that representative or heterogeneous agents share a common model of how the economy operates. Yet evidence shows that households hold heterogeneous subjective models---distinct beliefs about how macroeconomic variables interact. As a result, identical shocks or policies may...
+
+- Global Temperature and Global Mortality
+  Autores: Adrien Bilal, Diego R. Känzig, Krzysztof Lisiecki
+  Link: https://www.nber.org/papers/w35832
+  Resumo: This paper documents large indirect mortality impacts of climate change. Exploiting natural global temperature variability, we find that 1°C of warming increases annual mortality by 2.5 deaths per 1,000 individuals, compared to 0.1 deaths per 1,000 due to the associated local heat exposure. Using external estimates of...
+
+## ECB Working Papers (2)
+
+- Monetary policy surprises with imperfect information
+  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf
+  Data: 2026-10-01
+  Resumo: High-frequency interest rate surprises around Fed announcements do not identify monetary policy (MP) shocks if markets are imperfectly informed. Instead, they can also reflect central bank information (CBI) shocks, when the Fed assesses the economy differently, and Fed-response-to-news (FRN) shocks, when markets...
+
+- Forecasting wages with local linear forests
+  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf
+  Data: 2026-10-01
+  Resumo: This study applies a Local Linear Forest (LLF) for wage forecasting in France. The LLF outperforms benchmarks such as Random Walk (RW), Ridge Regressions (RR) and Random Forests (RF). We also show that adding foreign predictors (i.e. measures of real activity, price and wage pressures from Germany and Italy) to French...
+
+## Fed FEDS Papers (2)
+
+- Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity
+  Link: https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm
+  Data: 2026-09-29
+  Resumo: David M. Byrne , Robert Kurtzman , and Heidi L. Williams We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry. We find that the government sources we consider face significant limitations for tracking...
+
+- How Did CECL Affect Bank Lending?
+  Link: https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm
+  Data: 2026-09-25
+  Resumo: Ben Ranish and Cindy M. Vojtech Adoption of the current expected credit losses (CECL) methodology for loan loss provisioning significantly altered how banks recognize loan losses in their capital calculations. Because capital is a more costly funding source for banks, the accounting change affects banks' cost of...
+
+## arXiv Econometria (econ.EM) (8)
+
+- A distributional modelling approach with application to electricity price forecasting
+  Autores: Aitor Ciarreta, Peru Muniain, Ainhoa Zarraga
+  Link: https://arxiv.org/abs/2610.01465
+  Data: 2026-10-01
+  Resumo: The increasing volatility of electricity prices driven by renewable energy integration, market shocks, and regulatory changes has reinforced the need for forecasting methods that go beyond point predictions and accurately describe the full conditional price distribution. This paper applies the Generalised Additive...
+
+- The Anatomy of Commodity Risk: Micro, Market, and Economy-Wide Sources
+  Autores: Nektarios Aslanidis, Aurelio Bariviera, George Kapetanios, Vasilis Sarafidis, Alexia Ventouri
+  Link: https://arxiv.org/abs/2610.00581
+  Data: 2026-09-30
+  Resumo: We study the anatomy of commodity risk by distinguishing micro, market-level, and economy-wide sources. We develop a two-stage "divide-and-conquer" framework that allows sensitivities to these risk sources to vary across commodities while treating economy-wide risk as latent. The first stage uses defactored...
+
+- Are there asymmetries in euro area monetary policy transmission?
+  Autores: Michael Pfarrhofer, Anna Stelzer
+  Link: https://arxiv.org/abs/2609.37168
+  Data: 2026-09-29
+  Resumo: We answer the question posed in the title with a nonlinear mixed-frequency vector autoregression, estimated with Bayesian additive regression trees. The model combines monthly macro-financial variables with quarterly bank lending survey data, and identifies the dynamic responses from high-frequency policy surprises....
+
+- Probabilistic Seasonality
+  Autores: Feras A. Saad, Todd B. Walker
+  Link: https://arxiv.org/abs/2609.36280
+  Data: 2026-09-28
+  Resumo: Seasonal adjustment is fundamental to economic analysis, but uncertain because seasonal components are inherently latent. This article introduces a probabilistic model discovery method that decomposes a time series into seasonal and nonseasonal components. The method returns a posterior distribution over the structure...
+
+- Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory
+  Autores: Sami Diaf
+  Link: https://arxiv.org/abs/2609.35011
+  Data: 2026-09-28
+  Resumo: Price stability remains a pillar in monetary policy practices and carries a special importance within monetary unions. Mainstream economics tried to leverage price stability using price indices and several metrics to shed light on specific dynamics and optimal macroeconomic levels. The wide availability of data led...
+
+- The Potential of Nighttime Light Imagery for Detailed Local Economic Analysis
+  Autores: Shoichi Otomo
+  Link: https://arxiv.org/abs/2609.33859
+  Data: 2026-09-27
+  Resumo: This manuscript is an English translation and extended version of a paper originally published in Japanese (2022). Driven by remarkable advances in remote sensing and big data processing, spatial technologies are increasingly leveraged in economic research. While satellite nighttime light intensity is widely...
+
+- Calibrated Order-Randomized Rosenblatt Tests
+  Autores: Mehrdad Pournaderi
+  Link: https://arxiv.org/abs/2609.37477
+  Data: 2026-09-27
+  Resumo: We test whether a multivariate vector X conforms to a specified distribution F, a problem in copula modelling and density forecasting. The Rosenblatt transform reduces it to a test of uniformity, but depends on an arbitrary coordinate ordering that strongly affects power under dependence. We study order randomization:...
+
+- An adaptive $L_2$-type test for high-dimensional white noise
+  Autores: Jinyuan Chang, Jing He, Weiming Li, Chen Lin
+  Link: https://arxiv.org/abs/2609.33418
+  Data: 2026-09-27
+  Resumo: We propose a new $L_2$-type test for white noise which allows the dimension $p$ of the time series to either (i) be a fixed constant, or (ii) diverge with the sample size $n$. The proposed test statistic exhibits an interesting phase transition, following two different regimes of behavior: $p$ is fixed, and...
+
+## IMF Working Papers (16)
+
+- What Drives Policy Responses to the 2026 Energy Shock? First Evidence from the IMF Global Policy Tracker
+  Autores: Tohid Atashbar, Yidan Cheng, Leonardo Indraccolo, Jackson Mandel, Tiffany Munoz-Zegarra, Atsushi Oshima, Noor Rahman, Sergio Rodriguez, Sahra Sakha, Christoph...
+  Link: https://doi.org/10.5089/9798229063456.001
+  Data: 2026-10-01
+  Resumo: This paper examines the determinants of policy responses to the 2026 energy shock using the newly constructed IMF Global Policy Tracker. The main analysis focuses on measures announced between end-February and early June, while preliminary data through mid-September shed light on how policy responses evolved as energy...
+
+- Domestic Revenue Mobilization Across Emerging and Developing Countries
+  Autores: Elorm Darkey, Christian Ebeke, Anh Nguyen, Oral Williams
+  Link: https://doi.org/10.5089/9798229057318.001
+  Data: 2026-09-25
+  Resumo: This paper examines whether the drivers of domestic revenue mobilization in emerging and developing economies (EMDEs) vary across levels of revenue performance, with a particular focus on non resource tax. Using panel quantile regressions for 118 countries over 1990-2022, we find substantial heterogeneity in the...
+
+- Generative AI and the Limits of Productivity Measurement in the System of National Accounts
+  Autores: Jim Tebrake, Erich Stassner
+  Link: https://doi.org/10.5089/9798229061681.001
+  Data: 2026-09-25
+  Resumo: In 1987, Robert Solow famously remarked that the computer age was visible everywhere except in the productivity statistics (Solow 1987). Nearly four decades later, the rapid diffusion of generative artificial intelligence (AI) raises related questions about whether official statistics adequately capture the...
+
+- Artificial Intelligence and Aggregate Labor Productivity
+  Autores: Kodjovi Eklou
+  Link: https://doi.org/10.5089/9798229061599.001
+  Data: 2026-09-25
+  Resumo: This paper investigates the aggregate impact of Artificial Intelligence (AI) technology on labor productivity, exploiting patent data in OECD countries during 2000-2017. We first document that after accelerating in 2000, the issuance of AI technology related patents has more than tripled by 2017 and OECD countries...
+
+- Offsetting the Demographic Drag? Endogenous Female Labor Supply in Latin American Economies
+  Autores: Camila Casas, Nicolas Gomez-Parra, Flavien Moreau
+  Link: https://doi.org/10.5089/9798229060585.001
+  Data: 2026-09-25
+  Resumo: The share of Latin America’s working-age population has begun to fall on the back of increased longevity and falling birth rates. The female participation response to falling child dependency is the largest domestic margin available to offset it. We quantify that margin, combining harmonized microdata from seven large...
+
+- Sectoral Complementarity and Political Alignment
+  Autores: Alfredo Alvarado, Ding Ding, Yue Zhou
+  Link: https://doi.org/10.5089/9798229061698.001
+  Data: 2026-09-25
+  Resumo: We examine how sectoral complementarity and geopolitical alignment jointly shape greenfield foreign direct investment (FDI) to Latin America. Using a novel project-level database of greenfield investment from 2003–2024, combined with a bilateral geopolitical distance index and sector-level revealed comparative...
+
+- Global Taxation of Agriculture and Forestry
+  Autores: Maria Coelho, Thornton Matheson, Mengxi Xie, Yomna Gaafar
+  Link: https://doi.org/10.5089/9798229059534.001
+  Data: 2026-09-25
+  Resumo: Across the globe, the agricultural sector is often the target of special fiscal policies, including tax breaks and subisidies, to promote food security and rural economic stimulus and simplify administration. Increasingly, the sector is also subject to sector-specific taxes aimed at curbing environmental...
+
+- What Matters for the Rise in Trade? Evidence from the African Continental Free Trade Area
+  Autores: Kiet Tuan Duong, Luu Duc Toan Huynh, Povilas Lastauskas, Nam Vu
+  Link: https://doi.org/10.5089/9798229062350.001
   Data: 2026-09-18
-  Resumo: There is a large latent workforce in developing countries that consists of hundreds of millions of women who prefer to have paid work and yet are out of the labor force. Often, available job opportunities are incompatible with traditional gender roles that encourage women to stay at home. In a randomized experiment...
+  Resumo: Using firm-level panel data on cross-border sales for 27 African economies (2002-2022), we study how the African Continental Free Trade Area (AfCFTA) reshaped firms’ international trade. Guided by a heterogeneous-firm model with two short-run channels, export-network history and capital adjustment frictions, linked...
+
+- How Digital Lending Shapes Bank Risk and Competition
+  Autores: Enrique Bátiz-Zuk, Anuar Bechara, Fabrizio López-Gallo, Corrado Macchiarelli
+  Link: https://doi.org/10.5089/9798229060523.001
+  Data: 2026-09-18
+  Resumo: This paper examines the effect of alternative digital lending—defined as digital credit provision by non‑bank financial intermediaries (NBFIs)—on bank and systemic risk taking and competition. The paper focuses on Sociedades Financieras Populares (SOFIPOs) which constitute a regulated and well‑documented NBFI segment...
+
+- Bonding Through Crises with NBFIs
+  Autores: Bruno Albuquerque, Melih Firat
+  Link: https://doi.org/10.5089/9798229059862.001
+  Data: 2026-09-18
+  Resumo: We study how banking crises reshape nonbank financial institutions’ (NBFIs) role in corporate debt markets using primary-market syndicated loans and corporate bonds over 1990–2025. We find that NBFI cyclicality is function-specific: NBFIs contract syndicated loans relative to banks but expand corporate bond...
+
+- Deepening EU–Western Balkans Economic Integration
+  Autores: Lev Ratnovski
+  Link: https://doi.org/10.5089/9798229056779.001
+  Data: 2026-09-18
+  Resumo: The paper examines opportunities for deeper economic integration between the EU and the Western Balkans and assesses their potential economic impact. It documents key non-tariff barriers to Western Balkan–EU industrial goods trade—covering regulatory, customs, and border-logistics frictions—amounting to around 8–14...
+
+- Ratings, Debt, and Deficits
+  Autores: Olivier Blanchard, Daniel Leigh, Prachi Mishra
+  Link: https://doi.org/10.5089/9798229062213.001
+  Data: 2026-09-18
+  Resumo: We look at the effects of debt and primary fiscal balances on sovereign credit ratings through the lens of a simple model. We find that the ratings differ from the implications of the model in three important ways. They give much more weight to debt relative to forecast primary balances. They understate the effects of...
+
+- Barriers Within Borders
+  Autores: Federico Diez, Trevor Tombe, Yuanchen Yang
+  Link: https://doi.org/10.5089/9798229059633.001
+  Data: 2026-09-18
+  Resumo: Domestic markets can be far from fully integrated within a country: Canada's interprovincial trade is half the size of its international trade. We estimate internal trade costs using bilateral flows across hundreds of products and sectors and decompose them into geographic and non-geographic components. Embedding...
+
+- Too Much Yet Not Enough
+  Autores: Estelle Liu, Jibingxin Han
+  Link: https://doi.org/10.5089/9798229059459.001
+  Data: 2026-09-18
+  Resumo: China's urban housing system is structurally segmented: market-based residential housing accounts for only about 40 percent of occupied urban dwellings, with the remainder split between rental and legacy housing acquired outside the market. Using 2000–2020 Population Censuses and the 2019 China Household Finance...
+
+- Gross National Happiness, Cultural Norms, and Macroeconomic Indicators in the Kingdom of Bhutan
+  Autores: Sriram Balasubramanian, Paul Cashin
+  Link: https://doi.org/10.5089/9798229060844.001
+  Data: 2026-09-18
+  Resumo: This paper examines the origins and evolving use of the concept of Gross National Happiness (GNH) in the Kingdom of Bhutan, and the relationship between measured well-being and macroeconomic indicators across four decades of data. The paper incorporates the 2022 GNH Survey, alongside substantially updated...
+
+- From Departure to Development
+  Autores: Ruifeng Zhang, Yue Zhou
+  Link: https://doi.org/10.5089/9798229059091.001
+  Data: 2026-09-11
+  Resumo: Emigration continues to shape the demographic and economic landscapes of Pacific Island Countries (PICs), though patterns and impacts vary widely across the region. This paper examines emigration trends in PICs and their implications on human capital and growth. We find that traditional emigration, which is largely...
+
+## Journal of Monetary Economics (2)
+
+- Supply shocks and inflation: Timely insights from financial markets
+  Autores: Maria Giulia Cassinis, Massimo Ferrari Minesso, Ine Van Robays
+  Link: https://doi.org/10.1016/j.jmoneco.2026.103993
+  Data: 2026-10-01
+
+- Optimal progressive pension systems and heterogeneous labor market risk
+  Autores: Leanne Nam
+  Link: https://doi.org/10.1016/j.jmoneco.2026.103992
+  Data: 2026-09-28
+
+## Quarterly Journal of Economics (2)
+
+- The Origin of Risk
+  Autores: Alexandr Kopytov, Mathieu Taschereau-Dumouchel, Zebang Xu
+  Link: https://doi.org/10.1093/qje/qjag048
+  Data: 2026-09-30
+  Resumo: We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select...
+
+- How Does Wage Inequality Affect the Labor Movement?
+  Autores: Barbara Biasi, Zoë Cullen, Julia Gilman, Nina Roussille
+  Link: https://doi.org/10.1093/qje/qjag046
+  Data: 2026-09-25
+  Resumo: This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the...
 
 ## Review of Economic Studies (1)
 
-- Markup Estimation using Production and Demand Data: An Application to the US Brewing Industry
-  Autores: Jan De Loecker, Paul T Scott
-  Link: https://doi.org/10.1093/restud/rdag109
-  Data: 2026-09-21
-  Resumo: We compare and combine two distinct approaches to estimating market power in the US brewing industry—one based on production data, the other on demand. Both methods produce similar estimates of average markups and reveal a recent upward trend. We then combine the two approaches in two ways. First, we replace...
+- Monetary Policy Invariance, Hysteresis, and Optimal Inflation
+  Autores: Mirko Abbritti, Agostino Consolo, Sebastian Weber
+  Link: https://doi.org/10.1093/restud/rdag104
+  Data: 2026-09-26
+  Resumo: Standard New Keynesian (NK) models feature an optimal inflation target well below 2%, limited welfare losses from business cycle fluctuations and long-term monetary neutrality. We develop an NK framework with endogenous productivity and downward nominal wage rigidity (DNWR) which challenges these results. The...
