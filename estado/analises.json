@@ -231,278 +231,283 @@
   "5a33110c-e9c0-4381-a137-56d6f2db9a11": "2026-10-02",
   "8a1bb0a0-19ef-4bdd-b49a-37d9e63b944d": "2026-10-02",
   "585ef677-c91f-4142-946c-898279cb08ff": "2026-10-02",
-  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html": "2026-10-02"
+  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html": "2026-10-02",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/measuring-spending-in-the-survey-of-consumer-finances-20261009.html": "2026-10-09",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html": "2026-10-09",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/informal-support-networks-in-the-survey-of-consumer-finances-20261009.html": "2026-10-09",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html": "2026-10-09",
+  "https://libertystreeteconomics.newyorkfed.org/?p=46214": "2026-10-09",
+  "https://libertystreeteconomics.newyorkfed.org/?p=46168": "2026-10-09",
+  "https://libertystreeteconomics.newyorkfed.org/?p=45753": "2026-10-09",
+  "https://libertystreeteconomics.newyorkfed.org/?p=45914": "2026-10-09",
+  "https://libertystreeteconomics.newyorkfed.org/?p=46053": "2026-10-09",
+  "90e6132e-b264-4f3b-812a-20691c45d655": "2026-10-09",
+  "276f06b8-faef-47fa-b744-2fbb2ca719a4": "2026-10-09",
+  "3c0ec2b1-3062-46ab-a328-1a999428943a": "2026-10-09",
+  "58a1245b-1a94-4055-be4e-c52c8d132053": "2026-10-09",
+  "aee286e0-fecf-4ef1-ad4f-ffa344c4c98f": "2026-10-09",
+  "bc55d7ff-3532-4c91-9564-82b67f5f1f92": "2026-10-09",
+  "d50d29e0-5f1c-4ea5-ad69-6f2f503382a7": "2026-10-09",
+  "cd7e31b7-0307-42ab-9f16-ed8004b11e59": "2026-10-09",
+  "0c5bf7d1-61ee-4538-99e0-445ca1facae7": "2026-10-09",
+  "bd376896-1dba-4ba6-a525-6f4c22e65557": "2026-10-09",
+  "f18ec491-24a0-4d80-a4be-13fb3101b525": "2026-10-09",
+  "bacb4e45-3de5-439e-bad0-c6bae01eb2a5": "2026-10-09",
+  "dd1f85df-d687-402b-a538-7b7de00fc4fd": "2026-10-09",
+  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html": "2026-10-09",
+  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html": "2026-10-09",
+  "sitefeeds_48": "2026-10-09"
  },
  "recentes": [
   {
-   "id": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
-   "titulo": "Circular relationships among AI firms",
-   "autores": "Jon Frost, Rudraksh Kansal, Kumar Rishabh, Vatsala Shreeti, Leanne Si Ying Zhang",
-   "link": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
-   "data": "2026-10-01",
-   "resumo": "Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.",
-   "fonte": "BIS Bulletin",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
-   "titulo": "High public debt, NBFIs and the risk of market dysfunction",
-   "autores": "Mathias Drehmann, Sonya Zhu",
-   "link": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
-   "data": "2026-09-29",
-   "resumo": "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large...",
-   "fonte": "BIS Bulletin",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
-   "titulo": "Pricing Sentiment: Measuring Input Cost Pressure from ISM Survey Responses",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/measuring-spending-in-the-survey-of-consumer-finances-20261009.html",
+   "titulo": "Measuring Spending in the Survey of Consumer Finances",
    "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
-   "data": "2026-10-01",
-   "resumo": "Tomaz Cajner , Leland D. Crane , Christopher J. Kurz , Paul E. Soto , and Betsy Vrankovich Recent history has shown that input cost shocks can propagate quickly and broadly across sectors. When supply chain disruptions, commodity price swings, and demand shocks raise the prices firms pay for materials and services,...",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/measuring-spending-in-the-survey-of-consumer-finances-20261009.html",
+   "data": "2026-10-09",
+   "resumo": "Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Payton Crawford and Eve Devens The United States has long lacked comprehensive household spending data across all types of households. Data sources whose primary purpose is to measure spending routinely miss the...",
    "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
+   "visto_em": "2026-10-09"
   },
   {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-aggregates-measuring-manufacturing-subsector-heterogeneity-business-trends-and-outlook-survey-20261001.html",
-   "titulo": "Beyond Aggregates: Measuring Manufacturing Subsector Heterogeneity with the Business Trends and Outlook Survey",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html",
+   "titulo": "Heterogeneity in the Marginal Propensity to Consume among U.S. Households",
    "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-aggregates-measuring-manufacturing-subsector-heterogeneity-business-trends-and-outlook-survey-20261001.html",
-   "data": "2026-10-01",
-   "resumo": "Atreya Bhamidi, Nicole Hoffmann, and Fariha Kamal Real-time monitoring of U.S. manufacturing activity typically relies on high-frequency national aggregates that lack industry detail. In this Note, we assess the Business Trends and Outlook Survey (BTOS), an experimental, biweekly product of the U.S. Census Bureau, as...",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html",
+   "data": "2026-10-09",
+   "resumo": "Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Payton Crawford Precise estimates of marginal propensities to consume (MPCs) are central to understanding economic activity and the effects of economic shocks on households. However, the literature does not yield...",
    "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
+   "visto_em": "2026-10-09"
   },
   {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
-   "titulo": "AI on the Factory Floor: Evidence from Manufacturing Job Postings",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/informal-support-networks-in-the-survey-of-consumer-finances-20261009.html",
+   "titulo": "Informal Support Networks in the Survey of Consumer Finances",
    "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
-   "data": "2026-09-30",
-   "resumo": "Maria D. Tito Artificial intelligence (AI) technologies have the potential to transform production processes and labor markets, yet their ultimate effects on employment, occupations, and skill demand remain uncertain (Acemoglu and Restrepo, 2018). While research continues to explore implications of AI adoption for...",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/informal-support-networks-in-the-survey-of-consumer-finances-20261009.html",
+   "data": "2026-10-09",
+   "resumo": "Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Jack Duncan Informal support networks, the interpersonal connections through which families provide or receive financial and practical assistance, constitute a critical but often invisible component of the U.S....",
    "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
+   "visto_em": "2026-10-09"
   },
   {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html",
-   "titulo": "When the Chips Went Down: Motor Vehicle Production and the 2021-2022 Semiconductor Shortages",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html",
+   "titulo": "Beyond the factory gate: The continued importance of goods production",
    "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html",
-   "data": "2026-09-28",
-   "resumo": "Adrian Hamins-Puertolas and Maria D. Tito The motor vehicle industry suffered severe production disruptions during 2021 and 2022, as semiconductor shortages—triggered by pandemic-era plant closures and shifting demand patterns—brought some assembly lines to a standstill. Having recovered to nearly pre-pandemic levels...",
-   "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-face-value-how-composition-changes-affect-import-unit-values-of-light-vehicles-20260928.html",
-   "titulo": "Beyond Face Value: How Composition Changes Affect Import Unit Values of Light Vehicles",
-   "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-face-value-how-composition-changes-affect-import-unit-values-of-light-vehicles-20260928.html",
-   "data": "2026-09-28",
-   "resumo": "Robin Braun and Maria D. Tito Light vehicles (NAICS 33611) account for approximately 7 percent of U.S. merchandise goods imports, making it an economically significant trade category. Because motor vehicles also receive a sizable weight in the Bureau of Labor Statistics (BLS) Import Price Index, changes in vehicle...",
-   "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html",
-   "titulo": "Decoupling Direct Investment: American Firms’ Retreat from China",
-   "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html",
-   "data": "2026-09-25",
-   "resumo": "Cody Kallen For decades, China was a major destination for foreign direct investment (FDI) by U.S. companies. In the last decade, however, trade tensions, geopolitical risks, and investment screening have interrupted these FDI flows and led firms to shift production toward third countries (Reyes-Heroles et al., 2020).",
-   "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=45165",
-   "titulo": "Navigating Geoeconomic Risk in the U.S. Stock Market",
-   "autores": "",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/navigating-geoeconomic-risk-in-the-u-s-stock-market/",
-   "data": "2026-10-01",
-   "resumo": "Geoeconomic risk—the risk that firms incur valuation losses when countries deploy economic, trade, or financial leverage for geopolitical aims—has become a first-order concern for investors. In this post, based on our recent Staff Report , we document that domestic U.S. stocks expose investors to substantial...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=44167",
-   "titulo": "The Role of Repos in Monetary Policy Implementation",
-   "autores": "Gara Afonso, Jun-Davinci Choi, Gonzalo Cisternas, and Will Riordan",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/09/the-role-of-repos-in-monetary-policy-implementation/",
-   "data": "2026-09-30",
-   "resumo": "In the first two posts of this three-part series, we discussed private market participants that are active in repo markets for profit-making motives. Central banks are also active repo market participants, but their reasons often differ from those of private participants. In today’s post, we discuss how central banks...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=44174",
-   "titulo": "Follow the Cash! Microstructure of Repo Markets",
-   "autores": "Gara Afonso, Jun-Davinci Choi, Gonzalo Cisternas, and Will Riordan",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/09/follow-the-cash-microstructure-of-repo-markets/",
-   "data": "2026-09-29",
-   "resumo": "The repo market in the U.S. is a mosaic of segments with distinct participants and various settlement and clearing practices. Why do large cash lenders typically settle their trades through a third-party agent? Why does the interdealer market clear through a central counterparty? Why do levered investors favor...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=45325",
-   "titulo": "Who’s Borrowing and Lending in Repo Markets?",
-   "autores": "Gara Afonso, Jun-Davinci Choi, Gonzalo Cisternas, and Will Riordan",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/09/whos-borrowing-and-lending-in-repo-markets/",
-   "data": "2026-09-28",
-   "resumo": "Repo markets play a vital role in the U.S. financial system. In this three-part series, we examine who participates in these markets, what trade-offs influence how different repo segments are structured, and why repos matter for monetary policy. Today's post introduces repo transactions, focusing on the major...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "84268ce9-ceb2-453d-8621-fe0491a191da",
-   "titulo": "Navigating geoeconomic risk in the US stock market",
-   "autores": "Matteo Crosignani, Lina Han, Marco Macchiavelli",
-   "link": "https://cepr.org/voxeu/columns/navigating-geoeconomic-risk-us-stock-market",
-   "data": "2026-10-01",
-   "resumo": "Geoeconomic risk has become a first-order concern for investors. This column shows that domestic US stocks expose investors to substantial geoeconomic risk through firms’ global supply-chain relations. Stocks of US suppliers decline sharply after the announcement that export controls target one or more of their...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "cb620c7c-1468-4936-b48d-6b4f21ac43d2",
-   "titulo": "Global imbalances and the China challenge",
-   "autores": "Sébastien Jean, Jean-Pierre Landau",
-   "link": "https://cepr.org/voxeu/columns/global-imbalances-and-china-challenge",
-   "data": "2026-09-30",
-   "resumo": "China's trade surplus is widening, its manufactured exports are surging, and the political backlash is intensifying. This column argues that the widening trade surplus reflects not just macroeconomic imbalances but a growth model aiming at industrial and technological dominance, sustained by high saving, capital...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "92b02667-5e78-4daf-9d8e-82a6b85a4d41",
-   "titulo": "Training novices to think in the age of large language models",
-   "autores": "Chiara Fumagalli, Alfonso Gambardella",
-   "link": "https://cepr.org/voxeu/columns/training-novices-think-age-large-language-models",
-   "data": "2026-09-30",
-   "resumo": "Whether teaching a cognitive skill remains valuable in this era of AI is a crucial question in education and for firms. This column reports on an experiment in which around 1,000 undergraduates in Italy received either (1) causal-reasoning training, (2) access to ChatGPT, (3) both, or (4) neither. While students with...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "548f5443-7a67-4bda-b194-6ecfaec869e5",
-   "titulo": "When Wall Street drifts from Main Street: Consumption as an anchor for stock prices",
-   "autores": "Carlo A. Favero, Alessandro Melone, Sean Myers, Andrea Tamoni",
-   "link": "https://cepr.org/voxeu/columns/when-wall-street-drifts-main-street-consumption-anchor-stock-prices",
-   "data": "2026-09-29",
-   "resumo": "Debate over whether buoyant equity markets reflect durable economic gains or a widening gap between Wall Street and Main Street has intensified with the AI boom. This column argues that aggregate consumption provides a useful real-economy anchor for stock prices. Temporary departures from that anchor predict stock...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "b4ef196e-828e-4028-932b-fcc7412821fc",
-   "titulo": "Beyond flows: How natural gas supply risk fuels inflation",
-   "autores": "Daniele Colombo, Francesco Toni",
-   "link": "https://cepr.org/voxeu/columns/beyond-flows-how-natural-gas-supply-risk-fuels-inflation",
-   "data": "2026-09-29",
-   "resumo": "Europe’s output losses proved limited following the 2022 cutoff of Russian gas flows, yet inflation rose sharply. This column uses weather variation and gas-market events to distinguish gas-demand shocks from interruptions to current flows and news about future availability. A deterioration in expected future gas...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "b04bbe78-b3b8-4616-a814-5f862e1008c2",
-   "titulo": "Changing structure and challenges of the international financial system: Imbalances, currencies, and financial stability",
-   "autores": "Valentina Bruno, Steven B. Kamin, Ángel Ubide, Cédric Tille",
-   "link": "https://cepr.org/voxeu/columns/changing-structure-and-challenges-international-financial-system-imbalances",
-   "data": "2026-09-29",
-   "resumo": "Concerns are growing about the state of the global economic and financial architecture. The 29th Geneva Report on the World Economy focuses on four key pillars of the global economic order – global imbalances, the international role of major currencies and risks to the US dollar’s supremacy, the liquidity and the...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "85edeaab-b293-4c36-8927-0c1285b5966e",
-   "titulo": "Lifting the curtain on the EU’s debt",
-   "autores": "Martin Larch, Alice Lucius",
-   "link": "https://cepr.org/voxeu/columns/lifting-curtain-eus-debt",
-   "data": "2026-09-28",
-   "resumo": "The EU’s far-reaching response to a series of major shocks has turned it into a major borrower on international financial markets. Debt issued by the EU on behalf of its member states now stands at close to 5½% of GDP, almost twice as much as six years ago. This column highlights two crucial issues associated with...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "57892450-50d8-4699-90b4-dabb0a8141a1",
-   "titulo": "Geopolitical risk is reshaping global finance, one bank loan at a time",
-   "autores": "Dennis Reinhardt, Rhiannon Sowerbutts, Julian Reynolds",
-   "link": "https://cepr.org/voxeu/columns/geopolitical-risk-reshaping-global-finance-one-bank-loan-time",
-   "data": "2026-09-28",
-   "resumo": "Geopolitical tensions are increasingly reshaping the flow of trade, investment and capital flows. This column documents that the same process is also reshaping bank lending. Using confidential supervisory data on thousands of international bank lending relationships, the authors show that banks systematically curtail...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "cbbe68d4-0fb6-45b6-803b-6396b86101a6",
-   "titulo": "Better work, not always better workers",
-   "autores": "David Autor, Tanya Rodchenko, Josh Martin, Zanna Iscenko, Scott Strand, David Pearl, Melissa Ferere",
-   "link": "https://cepr.org/voxeu/columns/better-work-not-always-better-workers",
-   "data": "2026-09-28",
-   "resumo": "Professional judgement comes from learning by doing, but AI has the potential to disrupt this learning process. This column explores how randomised access to an AI patent-writing product affects the performance of lawyers on certain writing tasks. Using the AI tool raised the quality of the drafts and compressed...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "821acf44-58ec-4bfc-bac4-a8c3f4647ed0",
-   "titulo": "L'illusion de la cheminée : qui paie réellement pour la neutralité carbone ?",
-   "autores": "Eric Jondeau, Côme Poirier, Gauthier Vermandel",
-   "link": "https://cepr.org/voxeu/columns/lillusion-de-la-cheminee-qui-paie-reellement-pour-la-neutralite-carbone",
-   "data": "2026-09-28",
-   "resumo": "Il est difficile d’imaginer atteindre la neutralité carbone d’ici 2050, comme le prévoit l’Accord de Paris, sans une taxe carbone. Cet article estime que pour atteindre cet objectif par le biais d’une taxe carbone, il faudra une trajectoire fiscale culminant à environ 1 300 dollars par tonne de CO₂, soit dix fois les...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "0d682297-3254-4395-9c63-4b55edd2e24b",
-   "titulo": "Capital inflows boost output, even after accounting for expectations",
-   "autores": "Jongrim Ha, Dohan Kim, M. Ayhan Kose, Francis Warnock",
-   "link": "https://cepr.org/voxeu/columns/capital-inflows-boost-output-even-after-accounting-expectations",
-   "data": "2026-09-27",
-   "resumo": "Emerging market economies that are expected to perform well may attract more foreign capital, making it difficult to establish the causal effects of capital inflows on output. Using professional forecasts to account for expectations about future economic conditions, this column constructs an expectations-based measure...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "5a33110c-e9c0-4381-a137-56d6f2db9a11",
-   "titulo": "The cost of not innovating: Frontier AI models, cyber defence, and EU strategic autonomy",
-   "autores": "Eric Törnqvist, Jerzy Kopiński",
-   "link": "https://cepr.org/voxeu/columns/cost-not-innovating-frontier-ai-models-cyber-defence-and-eu-strategic-autonomy",
-   "data": "2026-09-27",
-   "resumo": "The cyber threat landscape changed dramatically in April 2026 with the emergence of frontier AI models from OpenAI and Anthropic. Access to these models was initially limited, and the US imposed a de facto export ban, since lifted. This column argues that these models turn the EU’s reliance on foreign-controlled...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "8a1bb0a0-19ef-4bdd-b49a-37d9e63b944d",
-   "titulo": "The smokestack illusion: Who really pays for net zero",
-   "autores": "Eric Jondeau, Côme Poirier, Gauthier Vermandel",
-   "link": "https://cepr.org/voxeu/columns/smokestack-illusion-who-really-pays-net-zero",
-   "data": "2026-09-26",
-   "resumo": "Reaching net-zero CO2 emissions by 2050, as prescribed by the Paris Agreement, is hard to imagine without a carbon tax. This column estimates that reaching the goal by carbon taxation will require a tax path that peaks at around $1,300 per tonne of CO2, ten times current prices anywhere, and highlights how industries...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "585ef677-c91f-4142-946c-898279cb08ff",
-   "titulo": "Quantifying financial repression through the lens of portfolio choice: A century of evidence",
-   "autores": "Marijn Bolhuis, Jakree Koosakul, Neil Shenai, Jie Yang",
-   "link": "https://cepr.org/voxeu/columns/quantifying-financial-repression-through-lens-portfolio-choice-century-evidence",
-   "data": "2026-09-25",
-   "resumo": "With public debt at high peacetime levels, how advanced economies can reduce debt burdens is again at the centre of policy debate. This column examines the role of financial repression, perhaps the least studied channel, by applying new quantity-based measures to more than a century of data for 17 advanced economies....",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-10-02"
-  },
-  {
-   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html",
-   "titulo": "How firms plan to finance AI investment- evidence from the SAFE",
-   "autores": "",
-   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html",
    "data": "2026-10-02",
+   "resumo": "Ryan A. Decker Goods-producing industries have accounted for a declining share of U.S. jobs and economic output in recent decades, which has long been a topic of intense policy and research focus. Some commonly cited facts are reported in figure 1.",
+   "fonte": "Fed FEDS Notes",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46214",
+   "titulo": "Prices, Prices, Prices: Overall Inflation and the Costs You Care About",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/prices-prices-prices-overall-inflation-and-the-costs-you-care-about/",
+   "data": "2026-10-09",
+   "resumo": "As fall starts to show itself in cooler weather, I want to discuss a topic that usually raises temperatures: inflation. Like a budget-conscious consumer, the Federal Reserve is highly attuned to changes in the price of goods and services; minimizing such swings is one of the Fed’s primary duties, after all. But how...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46168",
+   "titulo": "AI Adoption and Employment Expectations: Evidence from a Survey of Small Business Owners",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/ai-adoption-and-employment-expectations-evidence-from-a-survey-of-small-business-owners/",
+   "data": "2026-10-08",
+   "resumo": "There is little consensus on the effect of AI adoption on employment. Economy-wide measures of pay and headcount have moved little even as AI adoption has spread rapidly, yet narrower measures document declining hiring for workers at the start of their careers or in AI-exposed occupations . In this post, we revisit...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=45753",
+   "titulo": "Firm Heterogeneity and the Response of Investment to Monetary Policy",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/firm-heterogeneity-and-the-response-of-investment-to-monetary-policy/",
+   "data": "2026-10-07",
+   "resumo": "It is well known that monetary policy affects firms’ investment decisions. But which firms are the most responsive to changes in interest rates? And does this responsiveness vary over time? The literature has given diverse answers to this question, focusing on characteristics such as firm size, age, and financial...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=45914",
+   "titulo": "How Fast Do Tariffs Pass Through into Consumer Prices?",
+   "autores": "Mary Amiti, Sebastian Heise, and David E. Weinstein",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/",
+   "data": "2026-10-06",
+   "resumo": "There has been a lot of interest in how tariffs affect consumer prices (for example, Cavallo et al. 2021 , 2025 ). In this post, we present results from our new research paper that estimates the effects of the 2025-26 tariffs on retail consumer prices. We find that for every percentage point increase in average...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46053",
+   "titulo": "Insured, but Still on the Hook: Who Bears the Most Risk in Homeowner’s Insurance?",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/insured-but-still-on-the-hook-who-bears-the-most-risk-in-homeowners-insurance/",
+   "data": "2026-10-05",
+   "resumo": "In an April post , using millions of homeowners' insurance contracts matched with property-level exposure and disaster risk, we showed that although households are insured, they are still \"on the hook” because deductibles and coverage limits leave homeowners responsible for part of a loss. Because insurers cannot...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "90e6132e-b264-4f3b-812a-20691c45d655",
+   "titulo": "Protecting indigenous cultural resources from within the IP system",
+   "autores": "Alexander Cuntz, Alessio Muscarnera, Egbert Amoncio",
+   "link": "https://cepr.org/voxeu/columns/protecting-indigenous-cultural-resources-within-ip-system",
+   "data": "2026-10-08",
+   "resumo": "Across food, tourism, cosmetics, and luxury goods, indigenous language and heritage increasingly anchor premium market positions, but when it comes to trademarks, few jurisdictions have developed national rules to explicitly protect and preserve traditional knowledge. This column looks at the case of New Zealand,...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "276f06b8-faef-47fa-b744-2fbb2ca719a4",
+   "titulo": "A Mediterranean Community of Human Capital",
+   "autores": "Hakim El Karoui, Marc Reverdin",
+   "link": "https://cepr.org/voxeu/columns/mediterranean-community-human-capital",
+   "data": "2026-10-08",
+   "resumo": "Europe's shrinking workforce is weighing on its productivity and welfare systems. Meanwhile, its southern Mediterranean neighbours currently produce growing numbers of graduates whom domestic labour markets cannot absorb. This column makes the case for a Mediterranean Community of Human Capital, built around joint...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "3c0ec2b1-3062-46ab-a328-1a999428943a",
+   "titulo": "Covered interest parity deviations and financial market frictions: Six decades of evidence",
+   "autores": "Olivier Accominotti, Jason Cen, David Chambers, Victor Degorce",
+   "link": "https://cepr.org/voxeu/columns/covered-interest-parity-deviations-and-financial-market-frictions-six-decades",
+   "data": "2026-10-08",
+   "resumo": "Persistent deviations from the covered interest parity no-arbitrage condition are viewed as evidence of the new and central role of balance sheet constraints and financial market frictions since the Global Financial Crisis. This column argues that covered interest parity deviations are not a recent phenomenon....",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "58a1245b-1a94-4055-be4e-c52c8d132053",
+   "titulo": "Cultural norms matter for macroeconomic development",
+   "autores": "Sriram Balasubramanian",
+   "link": "https://cepr.org/voxeu/columns/cultural-norms-matter-macroeconomic-development",
+   "data": "2026-10-07",
+   "resumo": "Interest in the role of cultural norms, institutions, and development has resurfaced in recent years especially post the 2024 Nobel Prize in Economics. This column revisits Bhutan, which has pursued ‘gross national happiness’ rather than GDP since the 1970s. Four decades of data show that rapid income growth remains...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "aee286e0-fecf-4ef1-ad4f-ffa344c4c98f",
+   "titulo": "The adjustment of the Danish labour market to AI has begun",
+   "autores": "Simone Maria Bonin, Saman Darougheh, Andreas Kuchler",
+   "link": "https://cepr.org/voxeu/columns/adjustment-danish-labour-market-ai-has-begun",
+   "data": "2026-10-07",
+   "resumo": "Policymakers are asking whether generative AI is reshaping labour demand, and the literature has found mixed results so far. This column links Denmark’s official IT-use survey to monthly employer–employee records and compares firms that started using AI in 2023 with those that did not. Early adopters fall behind their...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "bc55d7ff-3532-4c91-9564-82b67f5f1f92",
+   "titulo": "Not all geopolitical shocks are inflationary",
+   "autores": "Marco Pinchetti",
+   "link": "https://cepr.org/voxeu/columns/not-all-geopolitical-shocks-are-inflationary",
+   "data": "2026-10-06",
+   "resumo": "Geopolitical tensions are often seen as a source of inflation. But this is only part of the story. This column shows that geopolitical shocks transmitted through energy markets raise prices while depressing economic activity. But geopolitical shocks unrelated to energy markets reduce inflation instead. These two...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "d50d29e0-5f1c-4ea5-ad69-6f2f503382a7",
+   "titulo": "Worker-managed firms can curb inequality and protect free markets",
+   "autores": "Francesco Caselli",
+   "link": "https://cepr.org/voxeu/columns/worker-managed-firms-can-curb-inequality-and-protect-free-markets",
+   "data": "2026-10-06",
+   "resumo": "Rising income inequality in Western high-income countries threatens democratic governance and social cohesion, and AI risks making it worse. Drawing on a forthcoming book, this column argues for worker-managed firms as a durable remedy. With no external owners taking profits, worker cooperatives protect against the...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "cd7e31b7-0307-42ab-9f16-ed8004b11e59",
+   "titulo": "Venture capital – a global perspective",
+   "autores": "Santiago Reyes Ortega, Kianna Freeman, Pablo Hernando-Kaminsky, Jeremias Huber, Paolo Mauro",
+   "link": "https://cepr.org/voxeu/columns/venture-capital-global-perspective",
+   "data": "2026-10-05",
+   "resumo": "Existing views on what venture capital finances and how its markets are structured are primarily shaped by the experience of the US and a few other high-income economies. This column presents evidence covering nearly 270,000 venture capital-backed startups in over 150 economies to provide a more complete picture....",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "0c5bf7d1-61ee-4538-99e0-445ca1facae7",
+   "titulo": "Apprendre aux débutants à réfléchir à l’ère des grands modèles linguistiques",
+   "autores": "Chiara Fumagalli, Alfonso Gambardella",
+   "link": "https://cepr.org/voxeu/columns/apprendre-aux-debutants-reflechir-lere-des-grands-modeles-linguistiques",
+   "data": "2026-10-05",
+   "resumo": "La question de savoir si l’enseignement des compétences cognitives reste pertinent à l’ère de l’IA est cruciale tant pour le monde de l’éducation que pour les entreprises. Cet article rend compte d’une expérience menée auprès d’environ 1 000 étudiants de premier cycle en Italie, qui ont reçu soit (1) une formation au...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "bd376896-1dba-4ba6-a525-6f4c22e65557",
+   "titulo": "Bonding through crises with nonbank financial institutions",
+   "autores": "Bruno Albuquerque, Melih Firat",
+   "link": "https://cepr.org/voxeu/columns/bonding-through-crises-nonbank-financial-institutions",
+   "data": "2026-10-04",
+   "resumo": "Nonbank financial institutions are often seen as procyclical lenders, cutting credit more sharply than banks during stress, while bond markets can substitute for bank lending when credit supply contracts. This column brings these perspectives together and argues that this cyclicality depends on the function...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "f18ec491-24a0-4d80-a4be-13fb3101b525",
+   "titulo": "The impact of AI and cross-border data regulation on international trade in digital services",
+   "autores": "Ruiqi Sun, Daniel Trefler",
+   "link": "https://cepr.org/voxeu/columns/impact-ai-and-cross-border-data-regulation-international-trade-digital-services",
+   "data": "2026-10-03",
+   "resumo": "AI is transforming digital services, and mobile apps, which routinely reach users far beyond their home markets, show just how global that transformation has become. This column shows that AI makes these products dramatically more attractive, increasing their user base at home and abroad by more than threefold. But...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "bacb4e45-3de5-439e-bad0-c6bae01eb2a5",
+   "titulo": "Strategic sovereignty, social movements, and political agency: Evidence from the US-Israeli military campaign in Iran",
+   "autores": "Sultan Mehmood, Yaroslav Prokhorskoy, Leonard Wantchekon",
+   "link": "https://cepr.org/voxeu/columns/strategic-sovereignty-social-movements-and-political-agency-evidence-us-israeli",
+   "data": "2026-10-02",
+   "resumo": "Military intervention may be undertaken to weaken a hostile regime and strengthen the position of its opponents. This column argues that evidence from the 2026 US-Israeli strikes on Iran points to a different outcome: the strikes left total protest levels broadly unchanged but sharply reoriented mobilisation away from...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "dd1f85df-d687-402b-a538-7b7de00fc4fd",
+   "titulo": "Hiding in the mean: AI is adding jobs and removing them at the same time",
+   "autores": "Benjamin Verschuere, Angus Cameron",
+   "link": "https://cepr.org/voxeu/columns/hiding-mean-ai-adding-jobs-and-removing-them-same-time",
+   "data": "2026-10-02",
+   "resumo": "Estimates of AI's employment effect disagree in size and even in sign. This column argues the disagreement is built into the measurement: AI substitutes for humans on some tasks and complements humans on others, and any single exposure index nets these opposing forces into one number. Classifying US work tasks by what...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html",
+   "titulo": "Why should the ECB care about the unequal effects of climate change?",
+   "autores": "",
+   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html",
+   "data": "2026-10-08",
    "resumo": "",
    "fonte": "ECB Blog",
-   "visto_em": "2026-10-02"
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+   "titulo": "Funding the AI revolution: evidence from euro area sectors",
+   "autores": "",
+   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+   "data": "2026-10-06",
+   "resumo": "",
+   "fonte": "ECB Blog",
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "sitefeeds_48",
+   "titulo": "Redução do Prazo de Atualização do Sistema de Informações de Crédito (SCR)",
+   "autores": "",
+   "link": "https://www.bcb.gov.br/noticiablogbc/48/noticia",
+   "data": "2026-10-06",
+   "resumo": "1) Síntese regulatória e motivação O Sistema de Informações de Crédito (SCR) foi criado pelo Banco Central do Brasil em 2003 como uma central de registro e monitoramento das operações de crédito do Sistema Financeiro Nacional, consolidando informações prestadas mensalmente pelas instituições financeiras para...",
+   "fonte": "Blog do BC",
+   "visto_em": "2026-10-09"
   }
  ]
 }
