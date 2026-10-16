@@ -1,149 +1,161 @@
-# Radar macro | Analises de ponta | atualizado em 2026-10-09
-Itens novos dos ultimos 7 dias: 25
+# Radar macro | Analises de ponta | atualizado em 2026-10-16
+Itens novos dos ultimos 7 dias: 26
+
+## BIS Bulletin (1)
+
+- Chokepoint disruptions and their macroeconomic consequences
+  Autores: Ibrahim Alshehri, Ryan Niladri Banerjee, Michael Chui, Anna Maddux, Ko Munakata, Fabrizio Zampolli
+  Link: https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences
+  Data: 2026-10-15
+  Resumo: Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical chokepoints. Strong substitution effects and the use of inventories have helped to mitigate adverse output effects of chokepoint disruptions, but they often...
 
 ## Fed FEDS Notes (4)
 
-- Measuring Spending in the Survey of Consumer Finances
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/measuring-spending-in-the-survey-of-consumer-finances-20261009.html
+- The Rise of Semiliquid Funds for Retail Investors
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html
+  Data: 2026-10-14
+  Resumo: Logan George and Chaehee Shin Investment funds differ in how investors can access their capital. The redemption rules governing how and when investors can withdraw have evolved endogenously in response to shifting investor demand and regulatory constraints. While the immediate liquidity of open-end mutual funds and...
+
+- Convenience Yields, Risk Premiums, and the Interpretation of Oil Futures Prices During Times of Geopolitical Conflict
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/convenience-yields-risk-premiums-and-the-interpretation-of-oil-futures-prices-during-geo-conflict-20261009.html
   Data: 2026-10-09
-  Resumo: Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Payton Crawford and Eve Devens The United States has long lacked comprehensive household spending data across all types of households. Data sources whose primary purpose is to measure spending routinely miss the...
+  Resumo: Erik Heitfield , Yang-Ho Park and Erfan Danesh Earlier this year the Middle East conflict led to one of the largest global oil supply shocks in history (Bordoff and O'Sullivan, 2026). Past empirical research has found that commodity futures prices provide accurate predictions of future spot prices under normal market...
 
-- Heterogeneity in the Marginal Propensity to Consume among U.S. Households
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html
+- Beyond the Current Account: U.S. Financial Flows and Global Imbalances
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-current-account-u-s-financial-flows-and-global-imbalances-20261009.html
   Data: 2026-10-09
-  Resumo: Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Payton Crawford Precise estimates of marginal propensities to consume (MPCs) are central to understanding economic activity and the effects of economic shocks on households. However, the literature does not yield...
+  Resumo: Cody Kallen and Alexandra Tabova Global imbalances have returned to the center of international policy discussions, including at the G7 and G20. These discussions have traditionally focused on current account (CA) balances and, in particular, on the drivers and consequences of persistent trade surpluses and deficits.
 
-- Informal Support Networks in the Survey of Consumer Finances
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/informal-support-networks-in-the-survey-of-consumer-finances-20261009.html
+- Assessing Monetary Policy Globally: Evidence from LLMs and Semi-structural Models
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/assessing-monetary-policy-globally-evidence-from-llms-and-semi-structural-models-20261009.html
   Data: 2026-10-09
-  Resumo: Aditya Aladangady , Jesse Bricker , Andrew C. Chang , Sarena Goodman , and Gina Li , with assistance from Jack Duncan Informal support networks, the interpersonal connections through which families provide or receive financial and practical assistance, constitute a critical but often invisible component of the U.S....
+  Resumo: WanTing Xu and Diego Vilán Over the past decades, central bank communication has become an increasingly important component of modern monetary policy frameworks. Policy rates, asset purchases, and balance-sheet tools remain central to the transmission of monetary policy, but speeches, press conferences, forward...
 
-- Beyond the factory gate: The continued importance of goods production
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html
-  Data: 2026-10-02
-  Resumo: Ryan A. Decker Goods-producing industries have accounted for a declining share of U.S. jobs and economic output in recent decades, which has long been a topic of intense policy and research focus. Some commonly cited facts are reported in figure 1.
+## NY Fed Liberty Street Economics (2)
 
-## NY Fed Liberty Street Economics (5)
+- Revenue per Worker Is Up. Are Firms Getting a Larger Share?
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/
+  Data: 2026-10-15
+  Resumo: From the Great Recession until 2019, U.S. labor productivity growth disappointed. Nonfarm-business output per hour grew about 1 percent a year from 2010 to 2019, down from 3 percent in the late 1990s. This slowdown was especially pronounced in manufacturing, and it coincided with a slowdown in the growth of revenue...
 
-- Prices, Prices, Prices: Overall Inflation and the Costs You Care About
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/prices-prices-prices-overall-inflation-and-the-costs-you-care-about/
-  Data: 2026-10-09
-  Resumo: As fall starts to show itself in cooler weather, I want to discuss a topic that usually raises temperatures: inflation. Like a budget-conscious consumer, the Federal Reserve is highly attuned to changes in the price of goods and services; minimizing such swings is one of the Fed’s primary duties, after all. But how...
+- Has the AI Boom Impacted the U.S. Current Account?
+  Autores: Julian di Giovanni
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/
+  Data: 2026-10-14
+  Resumo: The AI boom is showing up in different corners of the U.S. economy, including international trade. Imports of semiconductors, servers, and computing equipment have climbed sharply yet the U.S. current account deficit has been largely unchanged. To better understand how the AI boom has not substantially affected the...
 
-- AI Adoption and Employment Expectations: Evidence from a Survey of Small Business Owners
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/ai-adoption-and-employment-expectations-evidence-from-a-survey-of-small-business-owners/
-  Data: 2026-10-08
-  Resumo: There is little consensus on the effect of AI adoption on employment. Economy-wide measures of pay and headcount have moved little even as AI adoption has spread rapidly, yet narrower measures document declining hiring for workers at the start of their careers or in AI-exposed occupations . In this post, we revisit...
+## VoxEU (CEPR) (19)
 
-- Firm Heterogeneity and the Response of Investment to Monetary Policy
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/firm-heterogeneity-and-the-response-of-investment-to-monetary-policy/
-  Data: 2026-10-07
-  Resumo: It is well known that monetary policy affects firms’ investment decisions. But which firms are the most responsive to changes in interest rates? And does this responsiveness vary over time? The literature has given diverse answers to this question, focusing on characteristics such as firm size, age, and financial...
+- The cost of job loss in carbon-intensive sectors: Evidence from Germany
+  Autores: César Barreto, Robert Grundke, Ze’ev Krill
+  Link: https://cepr.org/voxeu/columns/cost-job-loss-carbon-intensive-sectors-evidence-germany
+  Data: 2026-10-15
+  Resumo: In a green transition, workers will have to move from polluting, carbon-intensive sectors to other sectors and firms. To shed light on adjustment costs for workers in the green transition, this column uses German administrative data to estimate the cost of involuntary job displacement for workers in...
 
-- How Fast Do Tariffs Pass Through into Consumer Prices?
-  Autores: Mary Amiti, Sebastian Heise, and David E. Weinstein
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/
-  Data: 2026-10-06
-  Resumo: There has been a lot of interest in how tariffs affect consumer prices (for example, Cavallo et al. 2021 , 2025 ). In this post, we present results from our new research paper that estimates the effects of the 2025-26 tariffs on retail consumer prices. We find that for every percentage point increase in average...
+- The mortality costs of climate change
+  Autores: Adrien Bilal, Diego Känzig, Krzysztof Lisiecki
+  Link: https://cepr.org/voxeu/columns/mortality-costs-climate-change
+  Data: 2026-10-15
+  Resumo: Mortality is one of the most salient consequences of climate change. Existing estimates have largely focused on the direct effects of local heat exposure. This column argues that this perspective can miss an important part of the overall health burden. New evidence based on fluctuations in global temperature suggests...
 
-- Insured, but Still on the Hook: Who Bears the Most Risk in Homeowner’s Insurance?
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/insured-but-still-on-the-hook-who-bears-the-most-risk-in-homeowners-insurance/
-  Data: 2026-10-05
-  Resumo: In an April post , using millions of homeowners' insurance contracts matched with property-level exposure and disaster risk, we showed that although households are insured, they are still "on the hook” because deductibles and coverage limits leave homeowners responsible for part of a loss. Because insurers cannot...
+- Accounting for cross-country income differences: Two decades of progress
+  Autores: David Lagakos, Todd Schoellman
+  Link: https://cepr.org/voxeu/columns/accounting-cross-country-income-differences-two-decades-progress
+  Data: 2026-10-14
+  Resumo: Development accounting is a simple tool with potentially powerful insights. It asks whether the measured differences in inputs between developing and developed countries can account for the gap in GDP per worker. Twenty years ago, Francesco Caselli famously argued that the best estimate was “no”. This column revisits...
 
-## VoxEU (CEPR) (13)
+- Tokenised finance: Towards better markets?
+  Autores: Benoit Nguyen, Imène Rahmouni-Rousseau
+  Link: https://cepr.org/voxeu/columns/tokenised-finance-towards-better-markets
+  Data: 2026-10-14
+  Resumo: Tokenised finance has moved from the margins of crypto markets to the centre of the policy agenda. Central banks, regulators, and market participants are debating how far it could reshape the issuance, trading, and settlement of securities, including what this would mean for financial markets and monetary policy. This...
 
-- Protecting indigenous cultural resources from within the IP system
-  Autores: Alexander Cuntz, Alessio Muscarnera, Egbert Amoncio
-  Link: https://cepr.org/voxeu/columns/protecting-indigenous-cultural-resources-within-ip-system
-  Data: 2026-10-08
-  Resumo: Across food, tourism, cosmetics, and luxury goods, indigenous language and heritage increasingly anchor premium market positions, but when it comes to trademarks, few jurisdictions have developed national rules to explicitly protect and preserve traditional knowledge. This column looks at the case of New Zealand,...
+- Small is beautiful 2050: Europe’s digital economy as a mesh, not a hub
+  Autores: Anselm Küsters
+  Link: https://cepr.org/voxeu/columns/small-beautiful-2050-europes-digital-economy-mesh-not-hub
+  Data: 2026-10-14
+  Resumo: In response to digital dependence, Europe has decided to think bigger. This includes AI gigafactories, tripling data centre capacity, and searching for domestic champions. However, this column argues that the destination for 2050 should be different. For the first time since the railway age, small, open AI models that...
 
-- A Mediterranean Community of Human Capital
-  Autores: Hakim El Karoui, Marc Reverdin
-  Link: https://cepr.org/voxeu/columns/mediterranean-community-human-capital
-  Data: 2026-10-08
-  Resumo: Europe's shrinking workforce is weighing on its productivity and welfare systems. Meanwhile, its southern Mediterranean neighbours currently produce growing numbers of graduates whom domestic labour markets cannot absorb. This column makes the case for a Mediterranean Community of Human Capital, built around joint...
+- The Swiss–Japanese immigration puzzle
+  Autores: Beatrice Weder di Mauro, Toshihiro Okubo, Hillel Rapoport
+  Link: https://cepr.org/voxeu/columns/swiss-japanese-immigration-puzzle
+  Data: 2026-10-14
+  Resumo: Anti-migration politics are advancing across the rich world at very different levels of foreign population. Japan has a foreign-resident share just above 3%, while Switzerland’s foreign-born share is near 30%. Yet both have recently experienced a surge in nationalist politics centred on migration, suggesting that the...
 
-- Covered interest parity deviations and financial market frictions: Six decades of evidence
-  Autores: Olivier Accominotti, Jason Cen, David Chambers, Victor Degorce
-  Link: https://cepr.org/voxeu/columns/covered-interest-parity-deviations-and-financial-market-frictions-six-decades
-  Data: 2026-10-08
-  Resumo: Persistent deviations from the covered interest parity no-arbitrage condition are viewed as evidence of the new and central role of balance sheet constraints and financial market frictions since the Global Financial Crisis. This column argues that covered interest parity deviations are not a recent phenomenon....
+- Connecting payment systems, linking economies
+  Autores: Massimo Ferrari Minesso, Laura Lebastard, Olga Triay Bagur
+  Link: https://cepr.org/voxeu/columns/connecting-payment-systems-linking-economies
+  Data: 2026-10-13
+  Resumo: Several countries are working to interlink their domestic fast payment systems in order to reduce costs and improve the speed and transparency of cross-border payments. This column presents econometric evidence suggesting that countries with interlinked systems trade with each other about 4% more than countries that...
 
-- Cultural norms matter for macroeconomic development
-  Autores: Sriram Balasubramanian
-  Link: https://cepr.org/voxeu/columns/cultural-norms-matter-macroeconomic-development
-  Data: 2026-10-07
-  Resumo: Interest in the role of cultural norms, institutions, and development has resurfaced in recent years especially post the 2024 Nobel Prize in Economics. This column revisits Bhutan, which has pursued ‘gross national happiness’ rather than GDP since the 1970s. Four decades of data show that rapid income growth remains...
+- Financing the AI boom: Winners and losers in corporate bond markets
+  Autores: Marco Albori, Andrea Zaghini
+  Link: https://cepr.org/voxeu/columns/financing-ai-boom-winners-and-losers-corporate-bond-markets
+  Data: 2026-10-13
+  Resumo: The expansion of artificial intelligence has triggered a surge of investment and rising equity values at technology firms. The largest firms, known as ‘hyperscalers’, issued over $100 billion of bonds in 2025, around five times the 2023-2024 annual average. This column compares bond yields for hyperscalers and other...
 
-- The adjustment of the Danish labour market to AI has begun
-  Autores: Simone Maria Bonin, Saman Darougheh, Andreas Kuchler
-  Link: https://cepr.org/voxeu/columns/adjustment-danish-labour-market-ai-has-begun
-  Data: 2026-10-07
-  Resumo: Policymakers are asking whether generative AI is reshaping labour demand, and the literature has found mixed results so far. This column links Denmark’s official IT-use survey to monthly employer–employee records and compares firms that started using AI in 2023 with those that did not. Early adopters fall behind their...
+- Detecting institutional change as it unfolds: Evidence from 120 years of reporting
+  Autores: Michael Callen, Gregory Levy, Saipremnath Muthukumaran, Jonathan Weigel, Noam Yuchtman
+  Link: https://cepr.org/voxeu/columns/detecting-institutional-change-it-unfolds-evidence-120-years-reporting
+  Data: 2026-10-12
+  Resumo: Explaining comparative economic development requires identifying the causes of institutional change. This column uses AI to analyse 120 years of newspaper coverage and produce a new index of uncertainty about a country's core institutions. In the countries studied, nearly every major shift in democracy happened when...
 
-- Not all geopolitical shocks are inflationary
-  Autores: Marco Pinchetti
-  Link: https://cepr.org/voxeu/columns/not-all-geopolitical-shocks-are-inflationary
-  Data: 2026-10-06
-  Resumo: Geopolitical tensions are often seen as a source of inflation. But this is only part of the story. This column shows that geopolitical shocks transmitted through energy markets raise prices while depressing economic activity. But geopolitical shocks unrelated to energy markets reduce inflation instead. These two...
+- Why downturns can make innovation greener
+  Autores: Diego Känzig, Maximilian Konradt, Lixing Wang, Donghai Zhang
+  Link: https://cepr.org/voxeu/columns/why-downturns-can-make-innovation-greener
+  Data: 2026-10-12
+  Resumo: Green innovation is central for the transition to a low-carbon economy, but there are concerns that economic downturns may slow technological progress by reducing firms’ incentives and resources to innovate. This column shows that green and non-green innovation respond very differently to the business cycle. While...
 
-- Worker-managed firms can curb inequality and protect free markets
+- At risk or responsive: Rethinking unemployment policy
+  Autores: Sebastian Ernst, Andreas I. Mueller, Johannes Spinnewijn
+  Link: https://cepr.org/voxeu/columns/risk-or-responsive-rethinking-unemployment-policy
+  Data: 2026-10-12
+  Resumo: Public services increasingly use predictive algorithms to direct scarce support towards those most at risk. But are these also the people who benefit most from intervention? This column explains how to navigate this trade-off and shows why it matters in practice. Job search counselling gets people into work faster,...
+
+- Les entreprises gérées par leurs salariés peuvent réduire les inégalités et préserver le libre marché
   Autores: Francesco Caselli
-  Link: https://cepr.org/voxeu/columns/worker-managed-firms-can-curb-inequality-and-protect-free-markets
-  Data: 2026-10-06
-  Resumo: Rising income inequality in Western high-income countries threatens democratic governance and social cohesion, and AI risks making it worse. Drawing on a forthcoming book, this column argues for worker-managed firms as a durable remedy. With no external owners taking profits, worker cooperatives protect against the...
+  Link: https://cepr.org/voxeu/columns/les-entreprises-gerees-par-leurs-salaries-peuvent-reduire-les-inegalites-et-preserver
+  Data: 2026-10-12
+  Resumo: L’aggravation des inégalités de revenus dans les pays occidentaux à haut revenu menace la gouvernance démocratique et la cohésion sociale, et l’intelligence artificielle risque d’aggraver encore cette situation. S’appuyant sur un ouvrage à paraître, cet article plaide en faveur des entreprises gérées par leurs...
 
-- Venture capital – a global perspective
-  Autores: Santiago Reyes Ortega, Kianna Freeman, Pablo Hernando-Kaminsky, Jeremias Huber, Paolo Mauro
-  Link: https://cepr.org/voxeu/columns/venture-capital-global-perspective
-  Data: 2026-10-05
-  Resumo: Existing views on what venture capital finances and how its markets are structured are primarily shaped by the experience of the US and a few other high-income economies. This column presents evidence covering nearly 270,000 venture capital-backed startups in over 150 economies to provide a more complete picture....
+- Ratings, debt, and deficits: An exploration
+  Autores: Olivier Blanchard, Daniel Leigh, Prachi Mishra
+  Link: https://cepr.org/voxeu/columns/ratings-debt-and-deficits-exploration
+  Data: 2026-10-11
+  Resumo: What matters more for sovereign credit ratings – today’s debt or tomorrow’s deficits? This column explores how ratings weigh the two and finds that ratings place much more emphasis on current debt than on projected fiscal deficits. Compared with the implications of a simple model, ratings differ in three important...
 
-- Apprendre aux débutants à réfléchir à l’ère des grands modèles linguistiques
-  Autores: Chiara Fumagalli, Alfonso Gambardella
-  Link: https://cepr.org/voxeu/columns/apprendre-aux-debutants-reflechir-lere-des-grands-modeles-linguistiques
-  Data: 2026-10-05
-  Resumo: La question de savoir si l’enseignement des compétences cognitives reste pertinent à l’ère de l’IA est cruciale tant pour le monde de l’éducation que pour les entreprises. Cet article rend compte d’une expérience menée auprès d’environ 1 000 étudiants de premier cycle en Italie, qui ont reçu soit (1) une formation au...
+- The size and speed of tariff pass through into consumer prices
+  Autores: Mary Amiti, Sebastian Heise, David Weinstein
+  Link: https://cepr.org/voxeu/columns/size-and-speed-tariff-pass-through-consumer-prices
+  Data: 2026-10-11
+  Resumo: The 2025-26 US tariffs have renewed the question of how much of a tariff reaches consumers, and how quickly. This column traces tariffs through import, domestic producer, and retail prices for US consumer goods. About a quarter of a tariff increase passes through to consumer prices after one year. Roughly two-thirds...
 
-- Bonding through crises with nonbank financial institutions
-  Autores: Bruno Albuquerque, Melih Firat
-  Link: https://cepr.org/voxeu/columns/bonding-through-crises-nonbank-financial-institutions
-  Data: 2026-10-04
-  Resumo: Nonbank financial institutions are often seen as procyclical lenders, cutting credit more sharply than banks during stress, while bond markets can substitute for bank lending when credit supply contracts. This column brings these perspectives together and argues that this cyclicality depends on the function...
+- Financial sanctions and the global payments network
+  Autores: Gregor Matvos, Brent Neiman
+  Link: https://cepr.org/voxeu/columns/financial-sanctions-and-global-payments-network
+  Data: 2026-10-11
+  Resumo: Direct evidence on the effects of financial sanctions remains limited. This column uses correspondent banking data to study how sanctions affect access to global payment networks. The dollar and euro networks offer the most efficient connections to banks in other countries. Furthermore, financial sanctions imposed...
 
-- The impact of AI and cross-border data regulation on international trade in digital services
-  Autores: Ruiqi Sun, Daniel Trefler
-  Link: https://cepr.org/voxeu/columns/impact-ai-and-cross-border-data-regulation-international-trade-digital-services
-  Data: 2026-10-03
-  Resumo: AI is transforming digital services, and mobile apps, which routinely reach users far beyond their home markets, show just how global that transformation has become. This column shows that AI makes these products dramatically more attractive, increasing their user base at home and abroad by more than threefold. But...
+- Fiscal populism and monetary policy rules
+  Autores: Luis I. Jácome, Nicolas Magud, Samuel Pienknagura, Martín Uribe
+  Link: https://cepr.org/voxeu/columns/fiscal-populism-and-monetary-policy-rules
+  Data: 2026-10-10
+  Resumo: Populism may not only have contemporary but also long-term effects on the macroeconomy. Using data for advanced economies and emerging markets since 1960, this column explores the historical links between populist regimes, fiscal monetisation, and inflation, and how these links affect monetary policy in the 21st...
 
-- Strategic sovereignty, social movements, and political agency: Evidence from the US-Israeli military campaign in Iran
-  Autores: Sultan Mehmood, Yaroslav Prokhorskoy, Leonard Wantchekon
-  Link: https://cepr.org/voxeu/columns/strategic-sovereignty-social-movements-and-political-agency-evidence-us-israeli
-  Data: 2026-10-02
-  Resumo: Military intervention may be undertaken to weaken a hostile regime and strengthen the position of its opponents. This column argues that evidence from the 2026 US-Israeli strikes on Iran points to a different outcome: the strikes left total protest levels broadly unchanged but sharply reoriented mobilisation away from...
+- Ideas and firm dynamics when it takes two to tango
+  Autores: Seula Kim, Jane Olmstead-Rumsey, Honghao Wang
+  Link: https://cepr.org/voxeu/columns/ideas-and-firm-dynamics-when-it-takes-two-tango
+  Data: 2026-10-10
+  Resumo: Innovation has increasingly become a team activity, while inventors have become more concentrated in large firms. This column argues that these trends are closely connected. Team production creates genuine scale advantages in innovation, but can also lead the competitive economy to concentrate inventive activity too...
 
-- Hiding in the mean: AI is adding jobs and removing them at the same time
-  Autores: Benjamin Verschuere, Angus Cameron
-  Link: https://cepr.org/voxeu/columns/hiding-mean-ai-adding-jobs-and-removing-them-same-time
-  Data: 2026-10-02
-  Resumo: Estimates of AI's employment effect disagree in size and even in sign. This column argues the disagreement is built into the measurement: AI substitutes for humans on some tasks and complements humans on others, and any single exposure index nets these opposing forces into one number. Classifying US work tasks by what...
+- Financing the AI buildout before the risks go off balance sheet
+  Autores: Stijn Van Nieuwerburgh
+  Link: https://cepr.org/voxeu/columns/financing-ai-buildout-risks-go-balance-sheet
+  Data: 2026-10-09
+  Resumo: The AI boom is usually discussed as a contest over models, chips, and productivity. This column argues that it is also a large physical infrastructure and credit cycle. The policy priority is not to call the peak, but to measure who owns the assets, who owes the debt, and where contingent obligations will land if...
 
-## ECB Blog (2)
-
-- Why should the ECB care about the unequal effects of climate change?
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html
-  Data: 2026-10-08
-
-- Funding the AI revolution: evidence from euro area sectors
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html
-  Data: 2026-10-06
-
-## Blog do BC (1)
-
-- Redução do Prazo de Atualização do Sistema de Informações de Crédito (SCR)
-  Link: https://www.bcb.gov.br/noticiablogbc/48/noticia
-  Data: 2026-10-06
-  Resumo: 1) Síntese regulatória e motivação O Sistema de Informações de Crédito (SCR) foi criado pelo Banco Central do Brasil em 2003 como uma central de registro e monitoramento das operações de crédito do Sistema Financeiro Nacional, consolidando informações prestadas mensalmente pelas instituições financeiras para...
+- Your debt, my inflation: The role of trust in the ECB
+  Autores: Francesco Bianchi, Renato Faccini, Leonardo Melosi, Nils Wehrhöfer
+  Link: https://cepr.org/voxeu/columns/your-debt-my-inflation-role-trust-ecb
+  Data: 2026-10-09
+  Resumo: High public debt in several euro-area countries has renewed the debate over a central question: can fiscal pressures in one member state affect inflation expectations elsewhere by constraining the ECB? This column uses a randomised information experiment with German firms to show that the answer depends on trust in...
