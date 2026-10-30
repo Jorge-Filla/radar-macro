@@ -1,132 +1,121 @@
-# Radar macro | Analises de ponta | atualizado em 2026-10-23
-Itens novos dos ultimos 7 dias: 22
+# Radar macro | Analises de ponta | atualizado em 2026-10-30
+Itens novos dos ultimos 7 dias: 19
 
-## Fed FEDS Notes (3)
+## BIS Bulletin (2)
 
-- Government Bonds’ Safe-Haven Property and Inflationary Pressures
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html
-  Data: 2026-10-16
-  Resumo: Canlin Li and Emre Yoldas Earlier this year, escalation of the conflict in the Middle East resulted in sharp declines in major stock indexes as energy prices rose and the global economic outlook deteriorated, but prices of long-term government bonds in major advanced economies also declined (Figure 1). This prompted...
+- Building AI on credit: structures and spillovers
+  Autores: Mathias Drehmann, Egemen Eren
+  Link: https://www.bis.org/publications/bulletin-140-building-ai-credit--structures-and-spillovers
+  Data: 2026-10-27
+  Resumo: Capital expenditure to build artificial intelligence (AI) infrastructure is growing fast, and a rising share is financed with long-term debt and through complex off-balance sheet arrangements.
 
-- Ripples in the Reserve Pool: Unveiling Liquidity Signals from the Federal Funds Market
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/ripples-in-the-reserve-pool-unveiling-liquidity-signals-from-the-federal-funds-market-20261016.html
-  Data: 2026-10-16
-  Resumo: Sriya Anbil , Sebastian Infante, and Zeynep Senyuz When the Federal Reserve shifted to an ample-reserves framework, many observers started to question the relevance of the fed funds market. With reserves ample or abundant and rates anchored by administered floors, interbank borrowing declined sharply, and the market...
+- Chokepoints in global supply chains: lessons from rare earths and hard disk drives
+  Autores: Ryan Niladri Banerjee, Michael Chui, Leonardo Gambacorta
+  Link: https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives
+  Data: 2026-10-26
+  Resumo: Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoints depend on their underlying nature.
 
-- Introducing Private Credit into the Financial Accounts of the United States
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html
-  Data: 2026-10-16
-  Resumo: Katie Brinkman, Christine Dobridge , Tim Dore , Simon Glossner , Elizabeth Holmquist , Nam Nguyen, Maria Perozek , and Irina Stefanescu Over the past decade, private credit has played an increasingly important role in providing funding to middle-market businesses. While there are several definitions of private credit,...
+## NY Fed Liberty Street Economics (1)
 
-## VoxEU (CEPR) (15)
+- Evaluating New LinkedIn Labor Market Tightness Indicators
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/
+  Data: 2026-10-30
+  Resumo: Measures of labor market tightness (LMT) describe how difficult it is for firms to find workers. The labor market is considered tight if there are few job seekers available relative to job openings, implying stronger wage pressures as employers compete for scarce job seekers. Thus, good measures of LMT are important...
 
-- The returns to viral media
-  Autores: Johannes Böken, Mirko Draca, Nicola Mastrorocco, Arianna Ornaghi
-  Link: https://cepr.org/voxeu/columns/returns-viral-media
-  Data: 2026-10-22
-  Resumo: Social media has lowered the barriers to political communication, allowing politicians to reach large audiences without relying on traditional media. Yet easier access does not imply an equal distribution of attention. This column examines this distinction by linking daily data on Twitter likes and campaign...
+## VoxEU (CEPR) (16)
 
-- Crypto capture of foreign aid
-  Autores: Sumit Agarwal, Peiyi Jin, Eswar Prasad, Daniel Rabetti
-  Link: https://cepr.org/voxeu/columns/crypto-capture-foreign-aid
-  Data: 2026-10-22
-  Resumo: Official development assistance fell by 23% in 2025, the largest drop on record. Aid disbursements have tended to coincide with deposits in offshore banks. This column argues that once the Panama Papers raised the cost of offshore banking, part of that diversion migrated to cryptocurrency. Linking World Bank...
+- Assessing China as a technological innovator
+  Autores: Josh Lerner, Namrata Narain, Dimitris Papanikolaou, Amit Seru, Zunda Winston Xu
+  Link: https://cepr.org/voxeu/columns/assessing-china-technological-innovator
+  Data: 2026-10-30
+  Resumo: The dramatic rise of domestic patent publications by Chinese inventors has raised questions about the extent of Chinese innovations. This column uses a newly assembled dataset of Chinese patents to understand the Chinese innovative ecosystem. The data reveal an innovation system that is more broad-based, more...
 
-- Mind the gap: Bringing EU debt into the Stability and Growth Pact
-  Autores: Astrid Lemmer, Alexander Mahle, Karsten Wendorff
-  Link: https://cepr.org/voxeu/columns/mind-gap-bringing-eu-debt-stability-and-growth-pact
-  Data: 2026-10-21
-  Resumo: EU debt has become a noticeable feature of Europe’s fiscal architecture. However, EU fiscal rules focus solely on national public finances. They have a blind spot for EU debt, which calls their goal of fiscal sustainability into question. This column proposes a simple way to bridge this gap. Under our proposal,...
+- AI to the rescue: How the countries of Europe and Central Asia can grow more prosperous as they grow older
+  Autores: Ivailo V. Izvorski, Filip Jolevski
+  Link: https://cepr.org/voxeu/columns/ai-rescue-how-countries-europe-and-central-asia-can-grow-more-prosperous-they-grow
+  Data: 2026-10-30
+  Resumo: Much of developing Europe and Central Asia is ageing fast, and its workforce is starting to shrink. This column argues that artificial intelligence can partly offset this demographic challenge by (1) augmenting the skills of many in the workforce while automating tasks for which workers are increasingly scarce; (2)...
 
-- Establishment-level evidence on California’s fast-food minimum wage
-  Autores: Vitor Melo, David Neumark, Liam Sigaud, Gary A. Wagner
-  Link: https://cepr.org/voxeu/columns/establishment-level-evidence-californias-fast-food-minimum-wage
-  Data: 2026-10-21
-  Resumo: The standard prediction is that a higher minimum wage reduces employment among low-wage workers. This column examines the effect of a rise in the minimum wage in California for workers at both large and small fast-food chains. Among smaller chains, employment, the number of establishments, and openings fell, while...
+- Buying innovation vs buying protection: What we know about public procurement of innovation
+  Autores: Olga Chiappinelli, Leonardo M. Giuffrida, Giancarlo Spagnolo
+  Link: https://cepr.org/voxeu/columns/buying-innovation-vs-buying-protection-what-we-know-about-public-procurement
+  Data: 2026-10-30
+  Resumo: Europe is turning public procurement into an instrument of industrial policy. The Industrial Accelerator Act and the proposed Public Procurement Act would let public buyers favour European suppliers in strategic sectors, and Beijing has already threatened retaliation. This column reviews what economic research so far...
 
-- From Kyiv with love (and savings): A defence win-win for Europe and Ukraine
-  Autores: Torbjörn Becker, Yuriy Gorodnichenko
-  Link: https://cepr.org/voxeu/columns/kyiv-love-and-savings-defence-win-win-europe-and-ukraine
-  Data: 2026-10-21
-  Resumo: Europe is rearming at a historic pace, while military support for Ukraine is still negotiated package by package. This column compares what one euro of defence spending buys in Ukraine and in the rest of Europe. Ukrainian soldiers, howitzers and drones cost a fraction of their European equivalents and can be delivered...
+- Company wage policy in a low-wage labour market
+  Autores: Giulia Giupponi, Stephen Machin
+  Link: https://cepr.org/voxeu/columns/company-wage-policy-low-wage-labour-market
+  Data: 2026-10-29
+  Resumo: In many countries, minimum wage policies allow employers to pay young workers less than adults, and the UK is now debating how fast to phase out its lower youth minima. But do employers actually use the room that age-specific minimum wages give them? This column uses the introduction of the UK National Living Wage,...
 
-- Investment screening reshapes rather than shrinks foreign investment
-  Autores: Feicheng Wang, Vera Eichenauer
-  Link: https://cepr.org/voxeu/columns/investment-screening-reshapes-rather-shrinks-foreign-investment
-  Data: 2026-10-20
-  Resumo: Driven by national security concerns, a growing number of countries screen foreign investment in an expanding range of sectors, yet evidence on the economic effects of such screening is scarce. This column uses new sector-level data for 43 OECD and EU countries to show that screening reduces the number of cross-border...
+- The real-economy case for capital markets integration: Cross-border shareholders and firm investment resilience
+  Autores: Elena Banu, Lea Best, Francesca Vinci
+  Link: https://cepr.org/voxeu/columns/real-economy-case-capital-markets-integration-cross-border-shareholders-and-firm
+  Data: 2026-10-29
+  Resumo: Europe’s push for deeper capital markets assumes that cross-border equity ownership matters. This column shows that it does. Euro area listed firms remain heavily owned by domestic investors. When COVID-19 struck, firms in the hardest-hit sectors with more domestically concentrated shareholders cut investment more,...
 
-- Lower capital requirements are no shortcut to European competitiveness
-  Autores: Suzanne Vissers, Henrik Zaunbrecher
-  Link: https://cepr.org/voxeu/columns/lower-capital-requirements-are-no-shortcut-european-competitiveness
-  Data: 2026-10-20
-  Resumo: The European banking sector is known for high regulatory complexity, market fragmentation, and uneven implementation of international standards. However, this column argues that across-the-board reductions in capital requirements are not the solution. European requirements are not uniformly higher than US...
+- Powerful pacifism and currency dominance: What 150 years of international monetary system regime switches say about the US dollar’s future
+  Autores: Michael Bordo, Cécile Bastidon
+  Link: https://cepr.org/voxeu/columns/powerful-pacifism-and-currency-dominance-what-150-years-international-monetary-system
+  Data: 2026-10-28
+  Resumo: The 20th century shift from sterling to the dollar is often cited as evidence that currency dominance is not forever. This column presents a nonlinear model of the international monetary system calibrated on historical events. Shifts in dominance require large, simultaneous combinations of shocks, with democracy and...
 
-- Assainissement budgétaire : coûts temporaires ou séquelles durables
-  Autores: Luiz de Mello, Joao Tovar Jalles
-  Link: https://cepr.org/voxeu/columns/assainissement-budgetaire-couts-temporaires-ou-sequelles-durables
-  Data: 2026-10-20
-  Resumo: La dette publique atteint ou frôle des niveaux records dans l’ensemble des pays de l’OCDE, ce qui accentue la pression exercée sur les gouvernements pour qu’ils rétablissent la viabilité budgétaire à terme. Cet article s’appuie sur de nouvelles données comparatives entre pays qui montrent que les coûts en termes de...
+- Not your average firm: Heterogeneous cross-border financial allocations
+  Autores: Juan Carluccio, Liliana Varela
+  Link: https://cepr.org/voxeu/columns/not-your-average-firm-heterogeneous-cross-border-financial-allocations
+  Data: 2026-10-28
+  Resumo: International financial integration is often measured through national totals. Yet these totals can conceal very different experiences across firms. Using comprehensive French microdata, this column shows that most financially internationalised firms raise foreign equity without investing abroad, while a small group...
 
-- What happens to innovation after Big Tech buys a startup
-  Autores: Florian Ederer, Regina Seibel, Timothy S. Simcoe
-  Link: https://cepr.org/voxeu/columns/what-happens-innovation-after-big-tech-buys-startup
-  Data: 2026-10-19
-  Resumo: Concerns abound that ‘killer acquisitions’ by tech giants could deter startup entry and stifle innovation. This column analyses patent data before and after 1,200 acquisitions by eight technology giants between 1995 and 2020. On average, the ‘Big Eight’ firms appear to invest in the acquired technology rather than...
+- Adult social care can be better value than the health care we already fund
+  Autores: Joan Costa-i-Font, Sergi Jiménez-Martín, Cristina Vilaplana Prieto
+  Link: https://cepr.org/voxeu/columns/adult-social-care-can-be-better-value-health-care-we-already-fund
+  Data: 2026-10-27
+  Resumo: Health programmes must clear cost-effectiveness thresholds, but social care faces no such test. This column uses Spain's 2007 long-term care reform to show that access to cash subsidies and publicly funded home help raised life satisfaction, reduced loneliness, and increased survival, at a cost per quality-adjusted...
 
-- Taming original sin redux: The role of benchmark-driven flows
-  Autores: Serkan Arslanalp, Stijn Claessens, Daniela Klingebiel
-  Link: https://cepr.org/voxeu/columns/taming-original-sin-redux-role-benchmark-driven-flows
-  Data: 2026-10-19
-  Resumo: Emerging market capital flows remain highly sensitive to global shocks. This column analyses foreign investors in emerging market local-currency sovereign bonds depending on whether they are benchmarked to J.P. Morgan’s main local-currency government bond index or not. Benchmarked investors have increased their share...
+- How agreements between suppliers and retailers can weaken competition
+  Autores: Zhonglin Li, Hsin-Tien Tiffany Tsai
+  Link: https://cepr.org/voxeu/columns/how-agreements-between-suppliers-and-retailers-can-weaken-competition
+  Data: 2026-10-27
+  Resumo: Agreements between manufacturers and retailers can affect competition across brands and stores. This column documents retail price patterns in the US consumer battery industry and uses a model estimated from purchase data to explore two potential mechanisms: changes in downstream retail pricing and changes in upstream...
 
-- Here, there, and everywhere: Remote work and the employment of disabled and older workers in the UK
-  Autores: Ian Burn, Melissa Gentry, Joanna Lahey
-  Link: https://cepr.org/voxeu/columns/here-there-and-everywhere-remote-work-and-employment-disabled-and-older-workers-uk
-  Data: 2026-10-18
-  Resumo: Disabled and older adults have lower employment rates than other workers. Policymakers increasingly point to remote work as a way to keep these groups attached to the labour market. This column uses the pandemic-driven rise in working from home in the UK as a quasi-experiment to explore remote work’s impacts on...
+- Les services sociaux destinés aux adultes peuvent offrir un meilleur rapport qualité-prix que les soins de santé que nous finançons déjà
+  Autores: Joan Costa-i-Font, Sergi Jiménez-Martín, Cristina Vilaplana Prieto
+  Link: https://cepr.org/voxeu/columns/les-services-sociaux-destines-aux-adultes-peuvent-offrir-un-meilleur-rapport-qualite
+  Data: 2026-10-27
+  Resumo: Les programmes de santé doivent respecter des seuils de rentabilité, mais les services sociaux ne sont soumis à aucun critère de ce type. Cet article s'appuie sur la réforme espagnole de 2007 relative aux soins de longue durée pour montrer que l'accès à des aides financières et à une aide à domicile financée par les...
 
-- Forward guidance and the limits of public information
-  Autores: Thomas Lustenberger, Enzo Rossi
-  Link: https://cepr.org/voxeu/columns/forward-guidance-and-limits-public-information
-  Data: 2026-10-18
-  Resumo: When nominal interest rates hit the effective lower bound, central banks turned to unconventional measures, with forward guidance emerging as a cornerstone of monetary policy. Drawing on economic literature and data on interest rate forecasts, this column assesses the impact of forward guidance on interest rate...
+- Private equity beyond the target: How buyouts reshape supply chains
+  Autores: Olivier De Jonghe, Cédric Huylebroek
+  Link: https://cepr.org/voxeu/columns/private-equity-beyond-target-how-buyouts-reshape-supply-chains
+  Data: 2026-10-26
+  Resumo: The importance of private equity for euro area firms is increasing, with annual growth rates in assets under management exceeding 10%. Private equity buyouts affect more than just the firms being acquired. Using comprehensive data for Belgium, this column shows that the sales volumes of suppliers grow faster when...
 
-- Letting AI agents write econometric code
-  Autores: Sebastian Galiani, Federico A. López, Raul A. Sosa
-  Link: https://cepr.org/voxeu/columns/letting-ai-agents-write-econometric-code
-  Data: 2026-10-17
-  Resumo: Large language models increasingly write the code behind empirical research. This column reports a benchmark of 40 econometric tasks in Stata, R, and Python. For each task, two leading models write a script, as a chatbot that never runs it and as an agent that runs and revises it. Letting the models run their code...
+- Washing away the US: Tariff evasion on the other side of the US–China trade war
+  Autores: Huijia Liu, Enze Xie, Linhui Yu, Miaojie Yu
+  Link: https://cepr.org/voxeu/columns/washing-away-us-tariff-evasion-other-side-us-china-trade-war
+  Data: 2026-10-26
+  Resumo: Debates about tariff evasion have focused on Chinese goods entering the US. This column examines the reverse flow and finds that China’s retaliatory tariffs on imports from the US also induced evasion, especially through the misreporting of US-origin goods as originating from other third countries. Trade data and...
 
-- Fiscal consolidation: Temporary costs versus lasting scars
-  Autores: Luiz de Mello, Joao Tovar Jalles
-  Link: https://cepr.org/voxeu/columns/fiscal-consolidation-temporary-costs-versus-lasting-scars
-  Data: 2026-10-16
-  Resumo: Public debt is at or near record highs across the OECD, increasing the pressure on governments to restore fiscal sustainability over time. This column draws on new cross-country evidence showing that the output costs of fiscal consolidation are modest and short-lived on average, and that lasting scars are hard to...
+- Oil shocks no longer hit the US economy as they used to
+  Autores: Diego Känzig, James Stock, Luca Zanotti
+  Link: https://cepr.org/voxeu/columns/oil-shocks-no-longer-hit-us-economy-they-used
+  Data: 2026-10-24
+  Resumo: Recent disruptions to global oil markets, from Russia’s invasion of Ukraine to the war in Iran, have revived fears of stagflation. This column shows that the shale revolution has fundamentally changed how the US economy responds to oil shocks. As the country has shifted from a major petroleum importer to a net...
 
-- Never let a good crisis go to waste: Term limits and banking reforms
-  Autores: Orkun Saka, Yuemei Ji, Clement Minaudier
-  Link: https://cepr.org/voxeu/columns/never-let-good-crisis-go-waste-term-limits-and-banking-reforms
-  Data: 2026-10-16
-  Resumo: Financial crises routinely trigger sweeping overhauls of financial regulation, but whose interests do these reforms serve? Using data on financial policies in 88 democracies between 1973 and 2015, this column shows that leaders facing a binding term limit roll back financial liberalisation roughly three times more...
+- Historic monetary tightening, benign output dynamics: Rising R-stars across the Atlantic
+  Autores: Mátyás Farkas, Zoltan Jakab, Jesper Lindé
+  Link: https://cepr.org/voxeu/columns/historic-monetary-tightening-benign-output-dynamics-rising-r-stars-across-atlantic
+  Data: 2026-10-23
+  Resumo: Nominal interest rates increased significantly in the US and euro area following the post-pandemic inflation surge, yet economic activity and labour markets remained resilient. This column finds that accounting for policy expectations implies a larger increase in the natural rate of interest, r*, than standard...
 
-## ECB Blog (3)
+- Changes in the health and longevity of the elderly in the US
+  Autores: Liran Einav, Amy Finkelstein
+  Link: https://cepr.org/voxeu/columns/changes-health-and-longevity-elderly-us
+  Data: 2026-10-23
+  Resumo: Spending on public pensions through Social Security and on elderly healthcare through Medicare accounted for over one-third of federal expenditures in the US by 2024. This column explores how improvements in elderly health and life expectancy affected the relative finances of Social Security and Medicare. The elderly...
 
-- Resilience of the euro area economy – weathering one shock, preparing for the next
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261021~1c5ec8f223.en.html
-  Data: 2026-10-21
-
-- Has food inflation lost its bite?
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261020~b21516b402.en.html
-  Data: 2026-10-20
-
-- A Nobel Prize for microeconomic foundations of macroeconomic stabilisation
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261019~b833d15fce.en.html
-  Data: 2026-10-19
-
-## Blog do BC (1)
-
-- Como trabalhadores com diferentes tipos de crédito se reinserem no mercado de trabalho após uma demissão? ¹
-  Link: https://www.bcb.gov.br/noticiablogbc/49/noticia
-  Data: 2026-10-21
-  Resumo: Por que isso importa? O endividamento das famílias é um tema recorrente em política econômica: sabese que o volume agregado de dívida das famílias se relaciona com o desempenho do emprego e da atividade (Mian, Sufi e Verner, 2017). Mas nem toda dívida é igual. Um financiamento imobiliário e um empréstimo consignado...
+- Chasing far-right does not pay for the centre-right parties: Evidence from Germany’s 2025 election
+  Autores: Nina Nikiforova
+  Link: https://cepr.org/voxeu/columns/chasing-far-right-does-not-pay-centre-right-parties-evidence-germanys-2025-election
+  Data: 2026-10-23
+  Resumo: Establishment parties are often urged to win voters over from populist parties by shifting their policy positions towards them. Based on the 2025 German federal election, this column simulates what would happen when the centre-right CDU changes its policies and the populist radical-right AfD responds. If the AfD stood...
