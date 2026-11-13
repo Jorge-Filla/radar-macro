@@ -1,310 +1,263 @@
-# Radar macro | Fronteira do conhecimento | atualizado em 2026-11-06
-Itens novos dos ultimos 7 dias: 52
+# Radar macro | Fronteira do conhecimento | atualizado em 2026-11-13
+Itens novos dos ultimos 7 dias: 43
 
-## NBER Working Papers (15)
+## NBER Working Papers (7)
 
-- Can Home Visits Re-Engage Chronically Absent Students? Evidence from the LEAP Program
-  Autores: Eric Brunner, Shangyue Jiang, Stephen Ross
-  Link: https://www.nber.org/papers/w35961
-  Resumo: Beginning in the summer of 2021, the state of Connecticut launched the Learner Engagement and Attendance Program (LEAP) where home visits by school personnel were conducted with students identified as chronically absent from Connecticut’s 15 most disadvantaged school districts. Home visits were designed to connect...
+- Unconventional Monetary Policy and Deposit Retention
+  Autores: Philip Strahan, Tuo Yang
+  Link: https://www.nber.org/papers/w35985
+  Resumo: The two dimensions of unconventional monetary policy — holding the short rate at the zero-lower bound (ZLB) and quantitative easing (QE) — shifted deposit composition toward more interest-sensitive customers. The ZLB drew these customers by creating rate compression, which limited the benefit of searching for...
 
-- Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios
-  Autores: Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova, Marjorie Santos
-  Link: https://www.nber.org/papers/w35962
-  Resumo: This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements...
+- The Hidden Sharpe Ratio
+  Autores: Mikhail Chernov, Bryan T. Kelly, Semyon Malamud, Johannes Schwab
+  Link: https://www.nber.org/papers/w35988
+  Resumo: We estimate the maximal Sharpe ratio in large cross-sections of assets directly, without constructing the efficient portfolio. Covariance estimation in this setting requires regularization, which suppresses the contribution of small-eigenvalue directions. Our estimator progressively recovers this contribution,...
 
-- Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India
-  Autores: Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka, Gagandeep S. Sachdeva
-  Link: https://www.nber.org/papers/w35963
-  Resumo: Affirmative action programs are often criticized because of concerns that they result in lower worker productivity and efficiency losses. We study the relative productivity of workers benefiting from an aggressive affirmative action policy in a setting where hiring constraints are mandated upon employers and are...
+- Clearing the Fog: Price Transparency, Market Churn, and Consumer Welfare in Short-Term Rentals
+  Autores: Ginger Zhe Jin, Liad Wagman, Jingyi Xing
+  Link: https://www.nber.org/papers/w35989
+  Resumo: We study California's short-term lodging price transparency law (AB 537), which from July 1, 2024 required Airbnb and other providers to advertise fee-inclusive prices. Using Coarsened Exact Matching to compare Airbnb listings in San Diego and San Francisco with those in Seattle and Chicago, we find that all-in...
 
-- Saving for the Machines
-  Autores: Jesús Fernández-Villaverde
-  Link: https://www.nber.org/papers/w35964
-  Resumo: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the growth boom associated...
+- Peer Influence in College Applications
+  Autores: Ana M. Gazmuri, Elena Prager
+  Link: https://www.nber.org/papers/w35993
+  Resumo: This paper studies how exposure to peers affects college application behavior. We use neighbors who attend different high schools to mitigate concerns about common shocks. Using granular classroom-level data, we find that exposure to peers who have applied to a program increases application rates. Consistent with an...
 
-- Public R&D and the Automation of Manufacturing: Evidence from the Space Race
-  Autores: Apoorva Babbar, Shawn Kantor, Alexander Whalley, Jingyuan Zeng
-  Link: https://www.nber.org/papers/w35966
-  Resumo: This paper examines how public research and development shaped the direction of technological change during the Cold War–era Space Race and its consequences for US manufacturing. While prior research has documented the effects of public R&D on innovation and economic growth, less is known about whether...
+- (In)Credible Development RCTs: False Discoveries, Low Power, and a Solution
+  Autores: Qingyuan Chai, Kevin Lang, Liang Zhong
+  Link: https://www.nber.org/papers/w35999
+  Resumo: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark...
 
-- Aggregate-Surplus Maximizing Monetary Policy
-  Autores: David Baqaee, Ariel Burstein, Joao Guerreiro
-  Link: https://www.nber.org/papers/w35967
-  Resumo: We study optimal monetary policy in a general heterogeneous-agent New Keynesian (HANK) economy. Instead of maximizing a social welfare function, the policymaker maximizes the joint surplus of all households, without taking a stance on how that surplus should be distributed. This is the policy that maximizes resources...
+- Vigilance, Risk Vulnerability, and the Precautionary Augment
+  Autores: Miles S. Kimball, Vincent A. Mastantuno
+  Link: https://www.nber.org/papers/w36001
+  Resumo: Risk raises the expected marginal utility of a prudent agent. We define this proportional change as the precautionary augment, which measures risk-induced changes in the marginal value of saving, the Lucas Tree risk-free rate, and asset prices in a derivative-saturated market where market-state securities provide...
 
-- The Effects of Monetary Policy on Macroeconomic Expectations: High-Frequency Evidence from Prediction Markets
-  Autores: Eric T. Swanson, Wang Renxuan, Yanbin Wu
-  Link: https://www.nber.org/papers/w35968
-  Resumo: When the Federal Reserve raises interest rates, standard macroeconomic models and VARs predict that output, employment, and inflation should fall over the next several quarters. However, monthly-frequency professional macroeconomic forecast revisions are sometimes positively correlated with Fed interest rate changes,...
+- The Main Monetary Policy Shock
+  Autores: Christoph Boehm, Husang Kim, T. Niklas Kroner
+  Link: https://www.nber.org/papers/w36004
+  Resumo: We propose a novel procedure to identify a main monetary policy (MMP) shock as the linear combination of monetary policy surprises that best explains macroeconomic fluctuations. Implemented with two standard high-frequency yield-curve surprises and the Boehm and Kroner (2024) non-yield shock, the MMP shock explains...
 
-- Pollution Monitoring and the Pricing of Environmental Risk in Firms
-  Autores: Namrata Kala, Jalal Sani, Nemit Shroff, Pengdong Zhang
-  Link: https://www.nber.org/papers/w35969
-  Resumo: Pricing firms’ environmental risk is central to ensuring that capital is efficiently allocated. We examine whether an increase in the salience of pollution information affects the beliefs and perceived valuations of financially sophisticated agents—financial analysts—regarding the environmental risks faced by the...
+## BIS Working Papers (4)
 
-- Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India
-  Autores: Andrew D. Foster, Mark R. Rosenzweig
-  Link: https://www.nber.org/papers/w35972
-  Resumo: We develop a quantifiable general-equilibrium model of village governance, motivated by India’s democratization, to study how political institutions shape public goods provision and economic development. The model features two groups, landowners and landless workers, with different preferences over public goods such...
+- "Eppur si muove": Convergence Within and Between Countries
+  Autores: Giovanni Lombardo
+  Link: https://www.bis.org/publications/working-paper-1396-eppur-si-muove-convergence-within-and-between-countries
+  Data: 2026-11-13
+  Resumo: Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026) reply that such regressions cannot measure catch-up when countries head toward different moving destinations.
 
-- Risk and Return in Government Bonds
-  Autores: Matteo Leombroni, Carolin Pflueger, Adi Sunderam
-  Link: https://www.nber.org/papers/w35973
-  Resumo: Does the compensation investors require for holding government bonds vary with their risk? We measure expected excess returns using market yields and professional forecasts of future yields, showing that they are tightly linked to a standard measure of risk: bonds’ betas with respect to the stock market. In a...
+- MaRCo@BIS: AI-agentic econometric analysis for central bankers
+  Autores: Marco Jacopo Lombardi, Taejin Park, Fernando Perez-Cruz
+  Link: https://www.bis.org/publications/working-paper-1395-marcobis-ai-agentic-econometric-analysis-central-bankers
+  Data: 2026-11-12
+  Resumo: This paper introduces MaRCo@BIS, the MAcroeconometric Research Companion: a framework of plain-text workflow files, a verified dictionary of canonical model specifications and a tested reference library, read by an off-the-shelf agentic coding environment.
 
-- The Global Office: How Globalisation’s Frontier is Shifting from Factories to Offices
-  Autores: Richard Baldwin
-  Link: https://www.nber.org/papers/w35975
-  Resumo: This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing much faster. A heatmap of trade in intermediates shows that the Factory is bloc-shaped and dominated...
+- Ready-to-run global liquidity stress tests for banks and banking systems
+  Autores: Christian Schmieder, Min Wei, Li Lian Ong
+  Link: https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems
+  Data: 2026-11-11
+  Resumo: Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, the ability to quickly gauge banks’ liquidity risks could prove useful especially during periods of market stress, but also to assess differences in liquidity...
 
-- Manufacturing Renaissance Meets Time-Inconsistent Tariffs
-  Autores: Christoph Boehm, Andrei A. Levchenko, Wei Xiang
-  Link: https://www.nber.org/papers/w35976
-  Resumo: We analyze optimal tariffs in a dynamic version of the Venables (1987) framework with a time-to-build lag in firm creation. In this environment, trade protection is driven by the desire to increase firm creation at home at the expense of the foreign trade partner. When firm creation takes time, the benefits of...
+- US monetary policy, macroeconomic news and the global secular decline of interest rates
+  Autores: Boris Hofmann, Zehao Li, Steve Pak Yeung Wu
+  Link: https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates
+  Data: 2026-11-10
+  Resumo: The global secular decline in long-term interest rates since the 1990s has been largely driven by cumulative yield changes during U.S. monetary policy announcement windows (FOMC windows).
 
-- Fixed/Floating Interest Rate Parity
-  Autores: Matthias Fleckenstein, Sven Klingler, Francis A. Longstaff
-  Link: https://www.nber.org/papers/w35977
-  Resumo: We present a new no-arbitrage relation which we denote as fixed/floating interest rate parity. This relation can be viewed as a domestic version of covered interest rate parity. We test this relation using fixed-rate bonds and floating-rate notes in the multi-trillion U.S. agency debt market and document significant...
+## ECB Working Papers (3)
 
-- Demand-Driven Inflation
-  Autores: Domenico Giannone, Giorgio Primiceri
-  Link: https://www.nber.org/papers/w35980
-  Resumo: Post-covid inflation was predominantly driven by unexpectedly strong demand forces---both in the United States and in the Euro Area. We establish this result using a sequence of structural VARs with progressively richer specifications, interpret it through the lens of standard AD-AS analysis and an estimated DSGE...
+- The macroeconomic effects of defence spending: what impact beyond GDP?
+  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf
+  Data: 2026-11-12
+  Resumo: This paper estimates the macroeconomic effects of defence spending for a panel of up to 27 EU member states over 1999–2025 using Panel Local Projections. We look beyond the output multiplier that dominates the literature to trace the price implications of defence spending and the demand-side channels through which...
 
-- Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance
-  Autores: Christian Conrad, Julius Theodor Schoelkopf, Michael Weber, Frank Brueckbauer
-  Link: https://www.nber.org/papers/w35981
-  Resumo: Professional forecasters' heterogeneous narratives about how inflation affects stock markets in 2023 rationalize their high disagreement regarding quantitative expectations for 12-month-ahead inflation and stock returns in December 2022. Professional forecasters causally update their return expectations in...
+- The real and financial effects of local corporate tax increases: evidence from linked firm–bank data
+  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf
+  Data: 2026-11-11
+  Resumo: We study how local corporate tax increases affect firms’ financing and real activity. In Portugal, municipalities independently set a surtax on corporate income, generating plausibly exogenous variation across space and time. We link the universe of corporate balance sheets and profit-and-loss statements to loan-level...
 
-## BIS Working Papers (3)
-
-- Gaining (and losing) currency: a global database of currencies, 1850-2026
-  Autores: Iñaki Aldasoro, Jon Frost, Rudraksh Kansal, Catherine R Schenk
-  Link: https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026
-  Data: 2026-11-06
-  Resumo: Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But the path to this arrangement has not been smooth: currencies have come and gone, in line with political changes, periods of hyperinflation or currency reforms...
-
-- Scenarios for future banking: implications for profitability, liquidity and solvency
-  Autores: Christian Schmieder, Renzo Corrias, Oliver Wünsch
-  Link: https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency
-  Data: 2026-11-04
-  Resumo: Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather than forecasts.
-
-- Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947
-  Autores: Raphael Auer
-  Link: https://www.bis.org/publications/working-paper-1390-prewar-us-business-cycles-under-uncertainty-reconstructing-quarterly-gdp-1947
-  Data: 2026-11-03
-  Resumo: Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To investigate uncertainty in these reconstructions, this paper systematically compares specifications drawn from the literature for reconstructing quarterly GDP...
-
-## ECB Working Papers (4)
-
-- Deep-π*: a neural network estimate of trend inflation
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf
-  Data: 2026-11-04
-  Resumo: Most empirical models of trend inflation treat it as a latent random walk driven by unobserved shocks, so they cannot say which economic conditions move it. Deep- π*makes the innovations to the trend a possibly nonlinear function of a large number of macroeconomic indicators, estimated with neural networks, so that...
-
-- Debt maturity and government spending multipliers
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3306~028a82bc67.en.pdf
-  Data: 2026-11-03
-  Resumo: Government spending effectiveness depends critically on how it is financed. Using state dependent SVAR models and local projections on post-war US data, we show that fiscal expansions financed with short-term debt generate significantly larger output multipliers than those financed with long-term debt. This difference...
-
-- Elastic in cash, inelastic in repo: hedge funds in the treasury and repo markets
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3305~877e68c2b7.en.pdf
-  Data: 2026-11-03
-  Resumo: The functioning of sovereign bond markets is closely intertwined with repo markets, where investors finance long positions and source bonds for short sales. We show, theoretically and empirically, how conditions in the cash bond market fundamentally shape repo rates: When demand for cash bonds exceeds available...
-
-- ECB perception of non-banks: a machine learning-based approach
-  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf
-  Data: 2026-11-02
-  Resumo: This paper studies the European Central Bank’s (ECB) perception of non-bank financial intermediaries (NBFIs) and how this perception is publicly communicated. We construct a perception index based on ECB speeches over the period 1998–2025. Sentiment in references to non-banks is classified by a large language model...
+- Unlocking supervisory effectiveness in credit risk: insights from the ECB’s supervisory findings and measures
+  Link: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3308~a6e82e37aa.en.pdf
+  Data: 2026-11-09
+  Resumo: This paper provides an assessment of supervisory effectiveness in credit risk using confidential data from ECB Banking Supervision. The analysis covers 8,106 supervisory measures issued and closed between 2016 and 2025. A central contribution is the construction of a measure level indicator of supervisory...
 
 ## Fed FEDS Papers (2)
 
-- Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges
-  Link: https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm
-  Data: 2026-11-02
-  Resumo: Krzysztof Wozniak Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about their impact on consumer choice, competition, and fairness. This paper explores how sensitivity to such fees varies across consumers, use cases, and competitive settings, and whether...
+- Artificial Intelligence and the U.S. Economy: Current Evidence
+  Link: https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm
+  Data: 2026-11-12
+  Resumo: Nick Carollo , Leland D. Crane , Daniel Garcia Molina , and Joseph Nichols We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S. macroeconomy. Specifically, we document the boom in data center capital investment, the current rate of adoption of AI tools in the economy,...
 
-- Measuring Consumption with Credit Card Data: Benchmarking and Beyond
-  Link: https://www.federalreserve.gov/econres/feds/measuring-consumption-with-credit-card-data-benchmarking-and-beyond.htm
-  Data: 2026-10-30
-  Resumo: Aditya Aladangady , Ricardo Duque Gabriel , and Carlo Wix We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards in the Federal Reserve’s Y-14M reports, covering over 3,000 U.S. counties since 2014. We first show that the data closely track...
+- Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations
+  Link: https://www.federalreserve.gov/econres/feds/costly-misdemeanours-labour-market-effects-of-low-level-drink-driving-violations.htm
+  Data: 2026-11-10
+  Resumo: Kabir Dasgupta , Marco Francesconi, Jonathan James Linda Kirkpatrick, and Alexander Plum This paper estimates the causal effect of a drink-driving conviction on labour market outcomes. Using linked administrative data and variation in the timing of first convictions in a staggered difference-in-differences design, we...
 
 ## arXiv Econometria (econ.EM) (12)
 
-- Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting
-  Autores: Junyu Chen, Likai Chen, Weining Wang
-  Link: https://arxiv.org/abs/2611.08160
-  Data: 2026-11-05
-  Resumo: Attention-based time series forecasters commonly group consecutive observations into patches. Patch length is known to have a substantial impact on forecasting performance, yet its selection remains largely empirical. We develop a theoretical framework that explains why patch length matters for forecasting accuracy...
+- Localizing Mean Shifts in High-Dimensional Vector Autoregressive Models
+  Autores: Hongqiang Sun, Sayar Karmakar, George Michailidis
+  Link: https://arxiv.org/abs/2611.16556
+  Data: 2026-11-12
+  Resumo: We study the localization of mean changes in high-dimensional vector autoregressions (VARs) when the autoregressive dynamics remain common across regimes. We develop a three-step procedure that first obtains preliminary change-point estimates from the raw series ignoring the dependence structure, then estimates a...
 
-- Neural Score-Driven Volatility and Risk Forecasting
-  Autores: Qianli Zhao, Chao Wang, Minh-Ngoc Tran, Richard Gerlach
-  Link: https://arxiv.org/abs/2611.05778
+- A Sensitivity Framework for Assessing External Validity
+  Autores: Ariel Boyarsky, Naoki Egami, Hongseok Namkoong
+  Link: https://arxiv.org/abs/2611.16242
+  Data: 2026-11-12
+  Resumo: Assessing the external validity of experimental results is a pervasive challenge in causal inference as internally valid findings need not generalize beyond sites in which the experiments were conducted. Since the number of sites is often smaller than the number of site-level variables that moderate causal effects, we...
+
+- Introducing and Repealing an EV Subsidy: Evidence from New Zealand's Clean Car Discount
+  Autores: Fabian Dunker, Jyotsna Garg
+  Link: https://arxiv.org/abs/2611.15947
+  Data: 2026-11-11
+  Resumo: New Zealand's Clean Car Discount (CCD) was a feebate scheme that offered rebates for low-emission vehicles from July 2021, added fees for high-emission vehicles from April 2022, and was abolished at the end of December 2023. Shortly afterwards, road user charges were introduced for electric vehicles (EVs). We study...
+
+- Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV
+  Autores: Endong Wang, Ren Zhang
+  Link: https://arxiv.org/abs/2611.14434
+  Data: 2026-11-10
+  Resumo: Cross-sectional designs are widely used to estimate dynamic partial-equilibrium effects of an aggregate treatment. We show analytically that these estimates are biased when exposures to the treatment and to aggregate confounders are correlated or the confounders feed back into the treatment. This paper develops the...
+
+- Backtesting High-Dimensional Expected Shortfall
+  Autores: Zaichao Du, Juan Carlos Escanciano, Pei Pei
+  Link: https://arxiv.org/abs/2611.13882
+  Data: 2026-11-10
+  Resumo: Forecast evaluation increasingly uses high-dimensional predictors, but estimation and regularization of large predictive models can distort conventional backtests. This issue is particularly important for forecasting downside risk, where the signal-to-noise ratio is low. We develop out-of-sample Expected Shortfall...
+
+- Prediction Inference for Hybrid Models on Realized Volatility Forecasting
+  Autores: Kyle Parrella, Kejin Wu
+  Link: https://arxiv.org/abs/2611.13212
+  Data: 2026-11-09
+  Resumo: GARCH-LSTM hybrid models have become increasingly popular in the volatility forecasting literature. To date, these models have almost exclusively focused on point estimation and accuracy measures such as RMSE and MAPE, while failing to assess the uncertainty of these point estimates. We approach this gap in two ways....
+
+- Identification, estimation, and robust inference of structural autoregressions for multidimensional data
+  Autores: Bernhard van der Sluis
+  Link: https://arxiv.org/abs/2611.13169
+  Data: 2026-11-09
+  Resumo: Many modern datasets such as cross-country panels have a multidimensional structure. Conventional approaches on structural vector autoregressions for identifying structural shocks are not directly suited to these settings where data are naturally organized as matrices or tensors, since the number of parameters grows...
+
+- Bayesian precision factor models for high-dimensional macroeconomic time series
+  Autores: Peter Dunson
+  Link: https://arxiv.org/abs/2611.12368
+  Data: 2026-11-09
+  Resumo: Series in a macroeconomic panel are almost all correlated with one another, which makes correlation a poor guide to which pairs are directly linked. For example, Treasury rates at different maturities are all highly correlated, yet a short and a long rate may be related only through the rates at maturities between...
+
+- Polynomial-Preserving Processes and Volatility Modelling in Discrete Time
+  Autores: Maciej Augustyniak, Alexandru Badescu, Zekun Zhang
+  Link: https://arxiv.org/abs/2611.10928
+  Data: 2026-11-07
+  Resumo: This paper develops a discrete-time framework for volatility modelling and derivative pricing based on polynomial preservation. The framework provides exact moments of arbitrary order and serial cross-moments of variance and return processes over any finite horizon through finite-dimensional matrix representations....
+
+- Panel Local Projections with Missing Data
+  Autores: Yubo Tao
+  Link: https://arxiv.org/abs/2611.10372
+  Data: 2026-11-07
+  Resumo: A panel local projection can remain identified even when missing data leave no complete regression case. We recover the projection over specified dates by combining factor-based conditional means with idiosyncratic covariances from observed pairs. Under strong factors in the auxiliary panel, sufficient factor...
+
+- Instant Payments After a Betting Ban: Evidence from Brazil
+  Autores: Rafael Voigtel, Guilherme Vianna
+  Link: https://arxiv.org/abs/2611.08859
+  Data: 2026-11-06
+  Resumo: Brazil has been facing major problems with delinquency, household debt, high interest rates, consumption, and access to credit. Betting has emerged in public debate as a possible contributing factor. On September 25, 2026, the federal government banned betting nationwide. We investigate how the ban affected instant...
+
+- Price-Volume Correlations Are Always Zero
+  Autores: Victor Olkhov
+  Link: https://arxiv.org/abs/2611.08528
   Data: 2026-11-04
-  Resumo: We develop a score-driven volatility model in which no particular parametric innovation distribution needs to be specified. The proposed method relies on a lightweight neural network to represent the negative score of the innovation density. By integrating and normalizing the learned score and imposing location-scale...
+  Resumo: We argue that the use of the empirical time series of values, volumes, and prices of consecutive trades made during the averaging interval to calculate the price-volume correlation in a way that follows the definition of correlation always gives zero correlation. We show that the usual expression for the empirical...
 
-- PanelGP: A Probabilistic Factor Model for Asset-Return Panels
-  Autores: Andrea Ruglioni, Damir Filipovic
-  Link: https://arxiv.org/abs/2611.04040
-  Data: 2026-11-02
-  Resumo: We develop PanelGP, a conditional factor model for large panels of stock returns in which firm characteristics determine the factor loadings and economic conditions determine the expected factors. Both relations are estimated nonparametrically with Gaussian-process priors. The kernel choice nests instrumented...
+## IMF Working Papers (6)
 
-- Specification LASSO and a Flexible Characteristics-Based Asset Pricing Model
-  Autores: Chaohua Dong, Shuyi Ge, Shaoran Li, Wen Su
-  Link: https://arxiv.org/abs/2611.03391
-  Data: 2026-11-02
-  Resumo: This paper studies a partially linear semiparametric additive model that allows for interactions among variables in high-dimensional settings. We propose the Specification LASSO (S-LASSO), a two-step method that integrates LASSO and Adaptive Group LASSO to simultaneously perform variable selection and model...
+- Monetary Policy Under Network-Level Bottlenecks
+  Autores: Galip Kemal Ozhan, Nick Sander, Sebastian Wende, Sihwan Yang
+  Link: https://doi.org/10.5089/9798229065931.001
+  Data: 2026-11-06
+  Resumo: This paper studies monetary policy in the presence of temporary, sector-level supply bottlenecks within a rich production-network framework. We first show that binding sectoral constraints steepen the aggregate supply curve and alter the inflation-output trade-off when they interact with shifts in demand. Our main...
 
-- Conditional expectile-based value-at-risk: Semiparametric estimation and inference
-  Autores: Yuhan Ma, Heng Peng, Feipeng Zhang
-  Link: https://arxiv.org/abs/2611.02716
-  Data: 2026-11-02
-  Resumo: Conditional expectile-based value-at-risk (EVaR) has attracted increasing attention in financial risk management owing to its desirable theoretical properties. However, existing estimation methods for conditional EVaR either rely on potentially misspecified parametric models or suffer from the curse of dimensionality...
+- Household Vulnerability, Bank Solvency, and Policy Design in the Middle East War
+  Autores: Claudio Barbieri, Rafel Moyà Porcel, Laura Valderrama
+  Link: https://doi.org/10.5089/9798229064088.001
+  Data: 2026-11-06
+  Resumo: We develop a framework that links household balance sheets, bank solvency, and consumption to quantify the transmission of macroeconomic shocks and the effects of policy interventions. Using the 2023 Household Finance and Consumption Survey and supervisory bank-level data for 20 euro area countries, we project...
 
-- Looking Forward to Constructing Better Causal Comparisons
-  Autores: Augusto Cerqua
-  Link: https://arxiv.org/abs/2611.02061
-  Data: 2026-11-01
-  Resumo: Constructing credible comparison groups is a central challenge in observational causal inference. Conventional approaches assess comparability through observed characteristics or pre-treatment outcome trajectories, although causal identification depends on unobserved untreated potential outcomes after treatment. We...
+- A Flexible Composite Term Structure of Inflation Expectations
+  Autores: Yan Carriere-Swallow, Jason Lu, Ken Teoh
+  Link: https://doi.org/10.5089/9798229064262.001
+  Data: 2026-11-06
+  Resumo: We develop a flexible methodology for estimating a real-time term structure of inflation expectations from heterogeneous survey- and market-based sources. Our Nelson-Siegel Internally Consistent Expectations model extends the standard dynamic Nelson-Siegel state-space model by imposing a restriction that forecasts of...
 
-- Does Calibration Pick the Right Model? Likelihood Evidence from Income Risk
-  Autores: Jiuyi Cheng, Alexis Akira Toda
-  Link: https://arxiv.org/abs/2611.02029
-  Data: 2026-11-01
-  Resumo: Quantitative macroeconomics typically disciplines models by matching selected moments. We show how finite-state hidden Markov approximations make likelihood estimation and model selection feasible for nonlinear, non-Gaussian latent processes on short panels, without simulation. We illustrate the method with PSID...
+- From Calibration to Estimation
+  Autores: Andrés González Gómez, Juan David Prada Sarmiento
+  Link: https://doi.org/10.5089/9798229065016.001
+  Data: 2026-11-06
+  Resumo: Quarterly Projection Models (QPMs) are widely used at central banks but rarely estimated by full Bayesian methods, because rational-expectations solvers and shock-variance priors resist gradient-based inference. We develop a workf low pairing the structure-preserving doubling algorithm, automatic dif ferentiation and...
 
-- Learning AI Agents, Market Makers, and Stress in Automated Markets
-  Autores: Irene Aldridge
-  Link: https://arxiv.org/abs/2611.01799
-  Data: 2026-11-01
-  Resumo: Automated markets increasingly route order flow from learning trading agents through automated market makers (AMMs). We model trader archetypes as AI agents defined by their reward functions and analyze the feedback they create on a constant-product AMM. Herd-dominated and arbitrage-dominated markets of equal size...
+- IMFNow
+  Autores: Hany Abdel-Latif, Samuele Centorrino, Max-Sebastian Dovi
+  Link: https://doi.org/10.5089/9798229065092.001
+  Data: 2026-11-06
+  Resumo: Nowcasting GDP in low-income and fragile economies poses a set of problems that bind at once: short and noisy samples, ragged-edge releases, non-stationary regressors, model-selection uncertainty, the need to communicate uncertainty and attribution to non-technical audiences, and frequent within-quarter updates....
 
-- When Does $N$ Buy Precision? Heterogeneous Responses to Aggregate Shocks in Micro Panels
-  Autores: Mahmut Ablay, Mengshan Xu, Endong Wang
-  Link: https://arxiv.org/abs/2611.00677
-  Data: 2026-10-31
-  Resumo: Panel local projections (panel LPs), valued for their flexibility and robustness, are widely used to estimate heterogeneous responses to aggregate shocks from micro data. This paper, however, highlights the potential of panel vector autoregressions (panel VARs) and characterizes the trade-off between the efficiency of...
+- Divide and Indebt
+  Autores: Davide Furceri, Marcos Poplawski Ribeiro, Ervin Prifti
+  Link: https://doi.org/10.5089/9798229063265.001
+  Data: 2026-11-06
+  Resumo: This paper quantifies the macro-fiscal consequences of geoeconomic fragmentation using the Geopolitical Fragmentation Index of Fernández Villaverde, Mineyama, and Song (2024). Using a panel of 90 economies over 1990−2022, we identify structural fragmentation shocks in a panel SVAR and trace their dynamic effects...
 
-- xtlp: A new Stata command for panel local projection
-  Autores: Shu Shen, Ziwei Mei, Liugang Sheng, Zhentao Shi
-  Link: https://arxiv.org/abs/2610.41428
-  Data: 2026-10-30
-  Resumo: Panel local projection (LP) estimated with fixed effects (FEs) is widely used to evaluate the dynamic effects of economic shocks across countries or regions. However, FE estimation of panel LP models is subject to Nickell bias arising from the predictive structure of LP specifications, even when lagged dependent...
+## Journal of Monetary Economics (3)
 
-- Identification through Heteroskedasticity in One Lemma: Partial Identification, an Eigenvalue Construction, and a Caution on Rank Tests
-  Autores: George Milunovich
-  Link: https://arxiv.org/abs/2610.41361
-  Data: 2026-10-30
-  Resumo: This teaching note unifies known results on identification through heteroskedasticity, under volatility regimes, GARCH, stochastic volatility and covariate-driven variances, in one lemma with a short linear-algebra proof. A shock is identified up to sign and labelling if and only if no other shock shares its variance...
+- Cash transfers in developing countries: Local multipliers, aggregate effects, and external adjustment
+  Autores: Arthur Mendes, Wataru Miyamoto, Thuy Lan Nguyen, Steven Pennings
+  Link: https://doi.org/10.1016/j.jmoneco.2026.104022
+  Data: 2026-11-10
 
-- Convolution Skew-$t$ Distributions
-  Autores: Xinxian Chen, Peter Reinhard Hansen, Chen Tong
-  Link: https://arxiv.org/abs/2610.41171
-  Data: 2026-10-30
-  Resumo: We introduce the convolution skew-$t$ (CST) distribution, which combines independent standardized skew-$t$ subvectors through a general loading matrix to accommodate heterogeneous tails, directional asymmetry, and non-elliptical dependence. We establish identification and develop likelihood inference using analytical...
+- Dollar pricing, inflation, and search frictions
+  Autores: Andres Drenik, Diego J. Perez
+  Link: https://doi.org/10.1016/j.jmoneco.2026.104023
+  Data: 2026-11-07
 
-## IMF Working Papers (9)
+- The inflationary effects of fiscal stimulus
+  Autores: Shlok Goyal, Avi Lipton, Borui N. Zhu
+  Link: https://doi.org/10.1016/j.jmoneco.2026.104007
+  Data: 2026-11-06
 
-- Nowcasting Economic Activity in Afghanistan
-  Autores: Hany Abdel-Latif, Abdullah Alhassan, Karim Badr, Iyke Maduako
-  Link: https://doi.org/10.5089/9798229064903.001
-  Data: 2026-10-31
-  Resumo: Sound economic policy formulation requires high frequency economic activity data. This is particularly challenging in low-income, fragile, and conflict-affected states, such as Afghanistan, where quarterly GDP data is unavailable and annual GDP figures are published with considerable delays. This paper utilizes an...
+## Quarterly Journal of Economics (3)
 
-- Alternative Trade Corridors of the GCC
-  Autores: Mitchell Boice, Ken Miyajima
-  Link: https://doi.org/10.5089/9798229064873.001
-  Data: 2026-10-31
-  Resumo: We provide the first quantitative general-equilibrium assessment of the trade and welfare effects of the India–Middle East–Europe Economic Corridor (IMEC), a proposed rail-to-sea trade route through the Arabian Peninsula. We translate changes in transit times and transportation cost into bilateral trade costs and use...
+- Labor Market Tightness and the Reversal of Inequality Trends in Germany
+  Autores: Christian Dustmann, Martin Friedrich, Carl Gergs, Uta Schönberg
+  Link: https://doi.org/10.1093/qje/qjag057
+  Data: 2026-11-10
+  Resumo: Germany experienced a sharp rise in wage inequality over the two decades leading up to the Great Recession. However, a remarkable trend reversal occurred in 2010—well before the introduction of the minimum wage in 2015—when wages at the bottom of the distribution began to grow more rapidly than those higher up. This...
 
-- Global Pension Reform Database 1952 – 2025
-  Autores: Yudong Rao, Boele Bonthuis
-  Link: https://doi.org/10.5089/9798229064040.001
-  Data: 2026-10-30
-  Resumo: This paper introduces the Global Pension Reform Database (GPRD), the first dataset to provide systematic coverage of pension reforms across 142 advanced, emerging, and developing economies from 1952 to 2025. Leveraging artificial intelligence (AI) through a ring-fenced, locally hosted large language model (LLM), we...
+- Channeled Attention and Stable Errors
+  Autores: Tristan Gagnon-Bartsch, Matthew Rabin, Joshua Schwartzstein
+  Link: https://doi.org/10.1093/qje/qjag055
+  Data: 2026-11-09
+  Resumo: People persist in mistaken beliefs even in settings with high stakes, abundant data, and repeated opportunities to learn—settings where standard arguments imply they should correct their errors. We develop an attention-based framework for understanding why errors persist. When a person channels his attention through...
 
-- Are European Firms Financially Constrained?
-  Autores: Luis Brandão-Marques, Alexandra Fotiou, Lea Havemeister, Richard Varghese
-  Link: https://doi.org/10.5089/9798229063906.001
-  Data: 2026-10-30
-  Resumo: We examine if European firms face binding financial constraints that explain Europe’s persistent scale-up gap. Using corporate tax changes as exogenous shocks and a "debt test", we analyze 7 million predominantly private firms across 20 euro area countries (2000–2022). A higher corporate tax rate increases the value...
+- When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets
+  Autores: Parinitha Sastry, Ishita Sen, Ana-Maria Tenekedjieva
+  Link: https://doi.org/10.1093/qje/qjag053
+  Data: 2026-11-07
+  Resumo: This paper uses a range of natural experiments to show how mispricing of climate risk in mortgages and property insurance creates large taxpayer exposures and leads to excess credit flows to risky areas. Our central finding is that the government-sponsored enterprises’ (GSEs) policies for evaluating property insurers...
 
-- A Global DSGE Model for Oil-Dependent Economies
-  Autores: Haytem Troug, Francis Vitek
-  Link: https://doi.org/10.5089/9798229063852.001
-  Data: 2026-10-30
-  Resumo: This paper develops a global DSGE model linking oil-dependent economies to the systemic economies, and applies it to the GCC countries. The model features a range of nominal and real rigidities, extensive macrofinancial linkages, and diverse spillover transmission channels. Its modular structure also encompasses...
+## Review of Economic Studies (3)
 
-- On the Role and Effectiveness of Fiscal Rules and Independent Fiscal Councils
-  Autores: Roel Beetsma, Waikei Lam, Erik Leonards, Marcos Poplawski Ribeiro, Alexandra Solovyeva
-  Link: https://doi.org/10.5089/9798229063388.001
-  Data: 2026-10-30
-  Resumo: Fiscal rules and fiscal councils are often adopted independently: many countries operate under fiscal rules without a fiscal council, while fiscal councils are frequently established only after a fiscal rule is already in place, suggesting that the two institutions may contribute differently to fiscal discipline. This...
+- Fertility and Family Leave Policies in Germany: Optimal Policy Design in a Dynamic Framework
+  Autores: Hanna Wang
+  Link: https://doi.org/10.1093/restud/rdag124
+  Data: 2026-11-06
+  Resumo: I develop and estimate a life-cycle discrete-choice model of fertility and female labour supply to study the optimal design of a range of child-related policies. First, I examine two German reforms that introduced wage-contingent parental leave payments and expanded access to low-cost public childcare. I find that...
 
-- Options for Tax System Reform in Asia and the Pacific
-  Autores: Ikuo Saito, Jimena Acedo, Ruud de Mooij, Chenghong Wang, Ross Warwick
-  Link: https://doi.org/10.5089/9798229063678.001
-  Data: 2026-10-30
-  Resumo: Asian and Pacific economies face mounting fiscal pressures from high and rising debt and interest rates and significant spending needs in light of successive shocks. In the coming years, these fiscal strains will likely be exacerbated by the fiscal implications of structural trends in demography, technology,...
+- Optimal Policy Rules in HANK
+  Autores: Alisdair McKay, Christian K Wolf
+  Link: https://doi.org/10.1093/restud/rdag069
+  Data: 2026-11-05
+  Resumo: We characterize optimal policy rules in a business-cycle model with nominal rigidities and heterogeneous households. The policymaker has access to two instruments: the short-term nominal rate, and lump-sum transfer payments. A policymaker with a traditional dual mandate that targets aggregates uses the same policy...
 
-- The Macroeconomic Impact of AI Access Disruptions
-  Autores: Gonzalo Huertas
-  Link: https://doi.org/10.5089/9798229063340.001
-  Data: 2026-10-30
-  Resumo: This paper estimates the macroeconomic impact from a sudden cutoff in a country’s access to frontier AI services, once that country has grown to rely on them as an input to its economy. Applied through the production network framework of Baqaee and Farhi (2019) and calibrated to a representative small open economy,...
-
-- Deconstructing the Stablecoin Sandwich
-  Autores: Andre Reslow, Edona Reshidi, Andrew Usher, Jeanne Verrier, Marcello Miccoli
-  Link: https://doi.org/10.5089/9798229064927.001
-  Data: 2026-10-30
-  Resumo: Stablecoins are presented as a low-cost alternative to traditional cross-border payment channels, but evidence to support this claim remains limited. We develop a cost accounting framework that traces the full “stablecoin sandwich'”: fiat in, stablecoin transfer, fiat out. We manually collect data on costs from...
-
-## BCB Trabalhos para Discussao (5)
-
-- Asymmetric Information and Search Frictions in Auto Loans (TD 656)
-  Autores: Davi Doneda Mittelstadt, Bernardus Van Doornik
-  Link: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP656.pdf
-  Data: 2026-10-31
-  Resumo: We estimate a structural model of endogenous search and loan size choice to quantify how asymmetric information and search frictions jointly distort the auto loan market. Using administrative data from the Central Bank of Brazil, we observe the universe of loan contracts and, crucially, the specific set of lenders...
-
-- Measuring Financial Restrictions of Brazilian Private Firms with Microdata: a Contract Theory Approach (TD 655)
-  Autores: Fernando Nascimento de Oliveira
-  Link: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP655.pdf
-  Data: 2026-10-31
-  Resumo: This study develops original measures of financial constraints for a sample of 6,215 private firms in Brazil spanning the period from 2012 to 2022. To construct these metrics, I utilize a granular dataset comprising 11,967,603 loan contracts between these firms and financial institutions. Following theoretical...
-
-- How Do Individuals Respond to an Offshore Tax Amnesty? (TD 654)
-  Autores: Davi Bhering, Bernardus Van Doornik
-  Link: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP654.pdf
-  Data: 2026-10-31
-  Resumo: This paper analyzes how offshore wealth responds to greater transparency. We exploit Brazil’s 2016 offshore tax amnesty, implemented just before a global agreement intro duced automatic third-party reporting of foreign financial accounts. Disclosure was substantial and concentrated among the very wealthy. However,...
-
-- Open Finance Adoption and Financial Inclusion: experimental evidence from microentrepreneurs (TD 653)
-  Autores: Giorgia Barboni, Lucas A. Mariani, Jose Renato Haas Ornelas, Bernardo Ricca
-  Link: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP653.pdf
-  Data: 2026-10-31
-  Resumo: Does improving knowledge about open finance increase its adoption and lead to greater financial inclusion? We implement a randomized experiment that provides Brazilian microentrepreneurs with targeted information about open finance. The intervention increases open finance adoption by more than 7 percentage points, a...
-
-- Timing Matters: evidence from government benefit schedules (TD 652)
-  Autores: Marco Bonomo, Filipe Correia, Lucas Iten Teixeira, Felipe Tomkowski
-  Link: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP652.pdf
-  Data: 2026-10-31
-  Resumo: We study how the calendar timing of income affects credit card borrowing and delin quency. In a model of present-biased consumers with fixed monthly expenses, liq uidity declines over the paycycle, leading to greater reliance on short-term credit among households paid later in the month. Using administrative microdata...
-
-## Journal of Monetary Economics (1)
-
-- From servers to rates: AI, ICT capital, and the natural rate
-  Autores: Giovanni Melina, Stefania Villa
-  Link: https://doi.org/10.1016/j.jmoneco.2026.104016
-  Data: 2026-11-02
-
-## Quarterly Journal of Economics (1)
-
-- Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data
-  Autores: Pierre-Loup Beauregard, Thomas Lemieux, Derek Messacar, Raffaele Saggio
-  Link: https://doi.org/10.1093/qje/qjag054
-  Data: 2026-11-03
-  Resumo: We use Canadian matched employer-employee data to assess the sources of the union pay premium. After controlling for worker heterogeneity using the two-way fixed effects approach of Abowd, Kramarz, and Margolis (AKM), we find that unionized firms pay about 15 log points more than non-unionized firms. Forty percent of...
+- Competition in Markups: A Theory of the Lerner Index in Networks and General Equilibrium
+  Autores: Lingxuan Wu
+  Link: https://doi.org/10.1093/restud/rdag123
+  Data: 2026-11-05
+  Resumo: What determines demand elasticities and markups in production networks, where firms' demand and pricing are interdependent? I propose competition in markups, an equilibrium concept in which firms choose markups, taking other firms' markups as given. In partial equilibrium with vertical structures, it links upstream...
