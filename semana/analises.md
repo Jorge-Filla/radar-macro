@@ -1,130 +1,150 @@
-# Radar macro | Analises de ponta | atualizado em 2026-11-06
-Itens novos dos ultimos 7 dias: 21
+# Radar macro | Analises de ponta | atualizado em 2026-11-13
+Itens novos dos ultimos 7 dias: 25
 
-## Fed FEDS Notes (1)
+## Fed FEDS Notes (4)
 
-- Treasury Issuance and Dealer Balance Sheets
-  Link: https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html
-  Data: 2026-10-30
-  Resumo: Jonathan Glicoes, Lubomir Petrasek , Zack Saravay , and Mary Tian Primary dealers play an important role as intermediaries in Treasury securities and repo markets, and demand for their intermediation rises on issuance dates. Recent increases in Treasury issuance have raised questions about dealers' capacity to meet...
+- A Common Pattern behind Diverging Fortunes: U.S. Tariffs and Exports from Canada and Mexico
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html
+  Data: 2026-11-09
+  Resumo: Chris Avalos, Musa Orak , and Avani Pradhan The 2025 U.S. tariff increases were followed by sharply different export outcomes in Canada and Mexico. Comparing the 12 months ending in April 2026 with calendar year 2024, Canadian goods exports to the United States fell about 10 percent, while Mexican exports rose about...
+
+- U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html
+  Data: 2026-11-09
+  Resumo: Katie Brinkman, Christine Dobridge , Tim Dore , Simon Glossner , Elizabeth Holmquist , Nam Nguyen, Maria Perozek , and Irina Stefanescu The expansion of private credit has become one of the most significant developments in financial markets over the past decade. Yet, estimates of the size of the market vary...
+
+- Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html
+  Data: 2026-11-09
+  Resumo: Colin Weiss This note reviews several publicized gold reserve relocations by central banks in the Netherlands, France, and Germany since 2013 and any concurrent changes in their U.S. dollar reserve allocations. Generally, the choice of where to custody gold reserves may in part reflect the perceived risk of sanctions...
+
+- The Effect of Oil Prices on Core Inflation: Recent Evidence from the Advanced Economies
+  Link: https://www.federalreserve.gov/econres/notes/feds-notes/the-effect-of-oil-prices-on-core-inflation-recent-evidence-from-the-advanced-economies-20261109.html
+  Data: 2026-11-09
+  Resumo: Andrea De Michelis , Musa Orak , Avani Pradhan, and Albert Queralto Elevated oil prices and heightened geopolitical uncertainty have renewed interest in a longstanding policy question: do supply shocks like oil-price increases pose a transitory or a persistent threat to price stability? This note sheds light on this...
 
 ## NY Fed Liberty Street Economics (3)
 
-- The U.S. Oil Sector’s Role in Restraining Prices
-  Autores: Thomas Klitgaard
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/
-  Data: 2026-11-05
-  Resumo: The start of the Middle East conflict in early 2026 caused an unprecedented drop in global petroleum supply. In response, oil prices jumped—but not to unprecedentedly high levels. The U.S. oil sector was a key factor in moderating the shock. For one, its steady increases in drilling helped create a large oversupply in...
+- Banking System Vulnerability: 2026 Update
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/
+  Data: 2026-11-12
+  Resumo: As in previous years, we provide in this post an update on the vulnerability of the U.S. banking system based on four analytical models that capture different aspects of this vulnerability. We use data through 2026:Q2 to update our analysis and discuss how the vulnerability measures have changed since our last update...
 
-- How Market Position Shapes Credit Card Interest Rates
-  Autores: Kyle Herkenhoff and Juan M. Morelli
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/
-  Data: 2026-11-04
-  Resumo: Why is it that two borrowers who look much alike can be offered very different rates when applying for a credit card? In a recent paper , we address this question by examining how the rate offered changes when the lender’s funding cost falls. Data on 14 million newly issued cards show that when a lender's funding...
+- A Look at the Wider Divide in Credit Card Delinquency by Income
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/
+  Data: 2026-11-10
+  Resumo: Credit card delinquency rose sharply between 2022 and 2024, and the increase was steepest among borrowers in lower-income neighborhoods. Here, we check in on credit card performance by neighborhood income and trace when the borrowers who are now struggling with their payments were issued cards. We find that during the...
 
-- How Do Banking Supervisors Deal with Failing Banks?
-  Autores: Sergio Correia, Stephan Luck, and Emil Verner
-  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
-  Data: 2026-11-02
-  Resumo: In this post, we discuss insights from a recent staff report on the role of banking supervision in identifying and disciplining failing banks. We show that bank failures typically result from supervisory closure decisions based on hard information about book equity. Yet hard information is itself partly produced by...
+- Has U.S. Monetary Policy Really Improved? A 150‑Year Perspective
+  Link: https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/
+  Data: 2026-11-09
+  Resumo: Has U.S. monetary policy actually improved over time? Or was the apparent success of the modern Federal Reserve mostly the result of more favorable economic conditions and better luck? In this post, we summarize our paper , * which develops a framework for comparing monetary policy across different economic...
 
-## VoxEU (CEPR) (13)
+## VoxEU (CEPR) (15)
 
-- Labour market origins of experimentation and growth: Why Europe is falling behind
-  Autores: Renato Faccini, Seho Kim, Javier Miranda
-  Link: https://cepr.org/voxeu/columns/labour-market-origins-experimentation-and-growth-why-europe-falling-behind
-  Data: 2026-11-06
-  Resumo: Europe’s innovation gap with the US and China lies in breakthrough rather than incremental innovation. This column argues that part of the explanation is the labour market. Breakthroughs come from risky experimentation and experiments often fail and cost workers their jobs. When job loss is costly, workers demand a...
+- AI and the geography of expert work: Evidence from radiology
+  Autores: Marco Francesconi, Xiaoyu Xia
+  Link: https://cepr.org/voxeu/columns/ai-and-geography-expert-work-evidence-radiology
+  Data: 2026-11-13
+  Resumo: Forecasts of the effect of AI on jobs usually start from the tasks a machine can perform. Radiology, the medical specialty most exposed to AI, points to a different margin. This column uses US Medicare data for 2013–2024 to show that as AI tools spread, radiologists did not read more scans and the profession kept...
 
-- Coming of age under populists: The zero-sum legacy of populist rule
-  Autores: Nicolas Ajzenman, Cevat Giray Aksoy, Harry Pickard
-  Link: https://cepr.org/voxeu/columns/coming-age-under-populists-zero-sum-legacy-populist-rule
-  Data: 2026-11-06
-  Resumo: Populist governments are known to leave lasting economic and institutional scars. This column examines a less visible legacy: whether growing up under populist rule changes how citizens see the world. Combining data on populist leaders with surveys of more than 260,000 people in 53 countries, it shows that people...
+- Transportation bottlenecks and aggregate shocks
+  Autores: Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou, Yixin Zhou
+  Link: https://cepr.org/voxeu/columns/transportation-bottlenecks-and-aggregate-shocks
+  Data: 2026-11-13
+  Resumo: A barrage of transportation disruptions has affected the global economy in recent years. This column examines how transportation bottlenecks interact with aggregate shocks, comparing the Commodity Supercycle of the 2000s and the post-pandemic Great Supply Chain Disruption. The spike in freight rates for dry bulk...
 
-- Easy money does not win elections
-  Autores: Yao Chen, Felix Ward, Florian van Genderen
-  Link: https://cepr.org/voxeu/columns/easy-money-does-not-win-elections
-  Data: 2026-11-05
-  Resumo: Politicians have long pressed central banks for lower interest rates in the belief that easy money wins elections. This column tests that premise using 385 parliamentary and presidential elections in 18 countries between 1900 and 2020. It finds no evidence that easy money helps incumbents. The most likely electoral...
+- AI – Master and Commander: Lessons from graduate student projects and the need for an AI-enriched contract
+  Autores: Francesco Paolo Mongelli, Farah Tohme
+  Link: https://cepr.org/voxeu/columns/ai-master-and-commander-lessons-graduate-student-projects-and-need-ai-enriched
+  Data: 2026-11-12
+  Resumo: Can artificial intelligence extend students’ analytical capabilities without displacing their independent judgement? This column reports on a pilot study in a graduate seminar investigating weaknesses in European integration. An ‘AI-enriched contract’ required three elements for students’ presentations: an independent...
 
-- Monetary policy in times of high public debt
-  Autores: Stéphane Dupraz, Anna Rogantini Picco
-  Link: https://cepr.org/voxeu/columns/monetary-policy-times-high-public-debt
-  Data: 2026-11-05
-  Resumo: High public debt around the globe has revived concerns that it could undo central banks’ ability to control inflation. Higher debt can lead to higher spending and increase inflation if households do not fully save debt-financed transfers. This column argues that central banks can still control inflation in these...
+- Reading the economy from earnings calls with generative AI
+  Autores: Manish Jha, Jialin Qian, Michael Weber, Baozhong Yang
+  Link: https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai
+  Data: 2026-11-12
+  Resumo: Official statistics are getting harder to collect and can arrive late. This column uses generative AI to read managers’ economic outlooks from more than 120,000 corporate earnings calls in the US. The resulting score predicts GDP, employment, and wages beyond the next quarter and carries information that professional...
 
-- Bank executive pay: Compensation design can help reduce excessive risk-taking
-  Autores: Gaston Gelos, Bertrand Rime, Kevin Tracol
-  Link: https://cepr.org/voxeu/columns/bank-executive-pay-compensation-design-can-help-reduce-excessive-risk-taking
-  Data: 2026-11-04
-  Resumo: Bankers may benefit from the upside of risk-taking through bonuses, while taxpayers may ultimately bear the costs when things go badly wrong. After the Global Financial Crisis, regulators set out to change how bank executives are paid. This column examines how compensation practices have evolved since then and how...
+- The short- and long-run effects of railroads on Mexico–US migration
+  Autores: David Escamilla-Guerrero, Giovanni Peri
+  Link: https://cepr.org/voxeu/columns/short-and-long-run-effects-railroads-mexico-us-migration
+  Data: 2026-11-11
+  Resumo: Large infrastructure investments, such as railroads, in migrant-sending countries can reduce emigration costs and increase local development, with ambiguous effects on net emigration rates. This column examines how the construction of Mexico’s railroad network between 1880 and 1910 shaped migration to the US over more...
 
-- Job seekers’ beliefs and preferences over wages and benefits: Experimental evidence from online job boards
-  Autores: Andreas Beerli, Stefano Fiorin, Andreas Gulyas, Daniel Kopp, Mahsa Khoshnama, Michael Siegenthaler
-  Link: https://cepr.org/voxeu/columns/job-seekers-beliefs-and-preferences-over-wages-and-benefits-experimental-evidence
-  Data: 2026-11-04
-  Resumo: From employer wage-setting power to the consequences of pay transparency and the role of benefits in compensation inequality, many core questions about labour markets hinge on how job seekers respond to wage and benefit differences across job ads. Combining a field experiment on over 100 Swiss job boards with a...
+- Trust beyond face-to-face contact: AI and the future of finance
+  Autores: Charles Goodhart, Ly Hoang Vu
+  Link: https://cepr.org/voxeu/columns/trust-beyond-face-face-contact-ai-and-future-finance
+  Data: 2026-11-11
+  Resumo: Every institution in modern finance exists to manufacture and maintain trust across society. This column argues that artificial intelligence poses new threats to trust which can fundamentally endanger the financial system. Deepfakes and voice cloning make it hard to verify identity or trust visual and audio evidence....
 
-- Repo is the new dollar safe asset
-  Autores: Miguel Chumbo, Arvind Krishnamurthy
-  Link: https://cepr.org/voxeu/columns/repo-new-dollar-safe-asset
-  Data: 2026-11-03
-  Resumo: US Treasuries have long been the benchmark dollar safe asset, and the convenience yield they command is the price the world pays for dollar liquidity. This column shows that the convenience yield on ten-year Treasuries relative to corporate bonds has collapsed from around 60 to 10 basis points since 2019, while the...
+- Little gain for American patients, real harm for European ones: Why Europe must answer the US' most-favoured-nation pricing as a Union
+  Autores: Frank Vandenbroucke, Gloria Ghéquière
+  Link: https://cepr.org/voxeu/columns/little-gain-american-patients-real-harm-european-ones-why-europe-must-answer-us-most
+  Data: 2026-11-10
+  Resumo: The US administration ties the prices it pays for medicines to those paid abroad and justifies this ‘most-favoured-nation’ policy with the claim that Americans subsidise low prices in Europe. This column describes how the available evidence shows that most-favoured nation risks imposing substantial costs on European...
 
-- A network approach to geopolitics
-  Autores: Ernest Liu, Bennett Smith-Worthington, Stephen Redding, David Yang
-  Link: https://cepr.org/voxeu/columns/network-approach-geopolitics
-  Data: 2026-11-03
-  Resumo: In international affairs, what a country does depends on its own interests and on what its partners do. This column uses data on political institutions and UN voting to recover the network of geopolitical influence. The network tracks major shifts in international politics since the 1960s and reveals three notions of...
+- Making work pay for married mothers: Two simple fixes to US tax credits
+  Autores: Viola Garstenauer, Nawid Siassi
+  Link: https://cepr.org/voxeu/columns/making-work-pay-married-mothers-two-simple-fixes-us-tax-credits
+  Data: 2026-11-10
+  Resumo: Only about two-thirds of US mothers with young children are in the labour force. For many low-income married mothers, taking a job barely pays: most face participation tax rates above 25%, rising to 60% once childcare costs are counted. This column argues that lifting the caps on the childcare credit and basing the...
 
-- L'essor avant l'effondrement : des « années folles » à la Grande Dépression
-  Autores: Harold Cole, Stefano Cravero, Jeremy Greenwood
-  Link: https://cepr.org/voxeu/columns/lessor-avant-leffondrement-des-annees-folles-la-grande-depression
-  Data: 2026-11-03
-  Resumo: L'essor des investissements dans les technologies d'intelligence artificielle suscite des inquiétudes quant à l'éventualité d'une bulle spéculative. Cet article soutient que l'essor des années 1920 et la Grande Dépression offrent des enseignements utiles. Au cours des années 1920, l’innovation en matière de procédés a...
+- Scolarisation des enfants réfugiés : effets à long terme de l’intégration par rapport à la séparation
+  Autores: Caterina Pavese, Simon ter Meulen, Ludger Woessmann
+  Link: https://cepr.org/voxeu/columns/scolarisation-des-enfants-refugies-effets-long-terme-de-lintegration-par-rapport-la
+  Data: 2026-11-10
+  Resumo: Les enfants réfugiés nouvellement arrivés doivent-ils intégrer immédiatement le système scolaire ordinaire ou fréquenter d’abord des écoles séparées ? En prenant l’exemple des Pays-Bas, cet article montre que ce choix implique un compromis majeur à long terme : l’intégration directe réduit le niveau de réussite...
 
-- Stablecoins and the macroeconomy: Bank disintermediation versus fiscal space
-  Autores: Boris Hofmann, Matthias Kaldorf, Matthias Rottner
-  Link: https://cepr.org/voxeu/columns/stablecoins-and-macroeconomy-bank-disintermediation-versus-fiscal-space
-  Data: 2026-11-02
-  Resumo: Stablecoins compete with banks for households’ holdings of safe and liquid assets, while creating additional demand for government debt. Building on a novel quantitative macroeconomic model, this column discusses how widespread stablecoin adoption affects the macroeconomy. In the baseline scenario, large-scale...
+- The Global Office: Globalisation’s frontier is shifting from factories to offices
+  Autores: Richard Baldwin
+  Link: https://cepr.org/voxeu/columns/global-office-globalisations-frontier-shifting-factories-offices
+  Data: 2026-11-09
+  Resumo: Service value chains are expanding faster than industrial ones, yet their geography is strikingly different: a US-centred star rather than regional blocs. This column documents the shift from factories to offices and argues that differences in production processes call for new theory, new empirical approaches, and new...
 
-- When judges move markets: Ideological shifts in the Supreme Court and macroeconomic expectations
-  Autores: Thomas Drechsel, Naixin Zhang
-  Link: https://cepr.org/voxeu/columns/when-judges-move-markets-ideological-shifts-supreme-court-and-macroeconomic
-  Data: 2026-11-01
-  Resumo: Courts increasingly shape economic policy. This column studies unexpected deaths of US Supreme Court Justices as quasi-experimental shifts in the Court’s ideological balance. High-frequency asset price responses reveal that a more conservative Court is associated with lower inflation expectations, lower activity...
+- Energy labels, feebates and standards: Lessons from the EU’s 2021 reform
+  Autores: Toker Doganoglu, Lukasz Grzybowski, Frank Verboven
+  Link: https://cepr.org/voxeu/columns/energy-labels-feebates-and-standards-lessons-eus-2021-reform
+  Data: 2026-11-09
+  Resumo: The European Commission is simplifying the rules around the EU energy label. This column uses product-level sales data on refrigerators in Belgium, France, Germany, and Poland to evaluate the impact on energy use of the 2021 switch from the inflated A+++/A++/A+ scale to a more informative A–G scale. Although consumers...
 
-- The boom before the bust: From the Roaring Twenties to the Great Depression
-  Autores: Harold Cole, Stefano Cravero, Jeremy Greenwood
-  Link: https://cepr.org/voxeu/columns/boom-bust-roaring-twenties-great-depression
-  Data: 2026-10-31
-  Resumo: The investment boom in artificial intelligence technologies has raised concerns about a potential bubble. This column argues that the 1920s boom and the Great Depression offer useful lessons. During the 1920s, process innovation grew rapidly, while product innovation stagnated. In turn, process innovation fuelled an...
+- Similarity is not exposure: Measuring spillovers from US–China trade frictions
+  Autores: Pol Antràs, Adrian Kulesza, Andrea Presbitero
+  Link: https://cepr.org/voxeu/columns/similarity-not-exposure-measuring-spillovers-us-china-trade-frictions
+  Data: 2026-11-09
+  Resumo: The redirection of Chinese exports away from the US has fuelled concerns about its spillovers to other countries. This column shows why trade-basket similarity can be a misleading measure of exposure and introduces four simple, theory-consistent indices: export competition, import competition, consumer gains, and...
 
-- Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises
-  Autores: Marco Reuter
-  Link: https://cepr.org/voxeu/columns/stablecoins-vehicle-dollarisation-evidence-capital-controls-and-currency-crises
-  Data: 2026-10-31
-  Resumo: Stablecoins could make payments and remittances cheaper and faster, but policymakers worry they could also help residents, particularly in emerging markets, circumvent capital controls and move savings into US dollars. This column introduces estimates of stablecoin flows and holdings for 188 countries, built from...
+- When wording changes what we find: The impact of inflation expectations on spending
+  Autores: Tiziana Assenza, Stefanie Huber, Anna Mogilevskaja, Tobias Schmidt
+  Link: https://cepr.org/voxeu/columns/when-wording-changes-what-we-find-impact-inflation-expectations-spending
+  Data: 2026-11-08
+  Resumo: How households’ inflation expectations affect their spending is a central question for researchers and policymakers alike. Yet empirical evidence remains mixed. This column shows that the consumption question researchers choose can change the sign and strength of the estimated relationship. Questions about spending...
 
-## ECB Blog (3)
+- The concentration of AI spending
+  Autores: Ivan Yotzov, Jose Maria Barrero, Nicholas Bloom, Philip Bunn, Steven Davis, Kevin Foster, Aaron Jalca, Brent Meyer, Paul Mizen, Michael Navarrete, Gregory...
+  Link: https://cepr.org/voxeu/columns/concentration-ai-spending
+  Data: 2026-11-07
+  Resumo: AI use is spreading rapidly, but much less is known about businesses spending on AI. This column uses new survey evidence to estimate total AI spending in 2026 at around $280 billion in the US and $25 billion in the UK. Spending per employee is expected to increase by more than 40% in both countries compared with...
 
-- Christine Lagarde: A warning from Europe's hot summer
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html
-  Data: 2026-11-04
+- Schooling refugee children: Long-run effects of integration versus separation
+  Autores: Caterina Pavese, Simon ter Meulen, Ludger Woessmann
+  Link: https://cepr.org/voxeu/columns/schooling-refugee-children-long-run-effects-integration-versus-separation
+  Data: 2026-11-07
+  Resumo: Should newly arrived refugee children immediately enter mainstream schools or first attend separated schools? Using the setting of the Netherlands, this column shows that the choice involves a major trade-off in the long run: direct integration reduces educational attainment, but it increases cultural assimilation as...
 
-- SEPA: Europe’s unsung hero
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261103~b8d18d23bf.en.html
-  Data: 2026-11-03
+## ECB Blog (2)
 
-- Catching the repricing wave: insights from daily online supermarket prices
-  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html
-  Data: 2026-11-02
+- Reading the room: what Reddit tells us about retail investor sentiment
+  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html
+  Data: 2026-11-12
+
+- How the sovereign debt crisis shaped wealth inequality in the euro area
+  Link: https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html
+  Data: 2026-11-11
 
 ## Blog do BC (1)
 
-- Ecossistema de Banking-as-a-Service brasileiro: considerações sobre resiliência operacional
-  Link: https://www.bcb.gov.br/noticiablogbc/50/noticia
-  Data: 2026-11-04
-  Resumo: 1. Premissas consideradas na análise do ecossistema de Bank-as-a-Service no Brasil O Banco Central do Brasil (BCB) realizou um levantamento em junho de 2026 com o objetivo de identificar os relacionamentos existentes entre instituições prestadoras de serviços de BaaS (prestadoras de BaaS) e entidades tomadoras de...
+- Retropolação de Dados do Mercado de Trabalho
+  Link: https://www.bcb.gov.br/noticiablogbc/51/noticia
+  Data: 2026-11-10
+  Resumo: Introdução Indicadores de mercado de trabalho são fundamentais para acompanhar a conjuntura e apoiar a formulação de política econômica. No Brasil, a Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD-C), do Instituto Brasileiro de Geografia e Estatística (IBGE), fornece algumas das principais métricas do...

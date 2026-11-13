@@ -344,218 +344,283 @@
   "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html": "2026-11-06",
   "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261103~b8d18d23bf.en.html": "2026-11-06",
   "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html": "2026-11-06",
-  "sitefeeds_50": "2026-11-06"
+  "sitefeeds_50": "2026-11-06",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html": "2026-11-13",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html": "2026-11-13",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html": "2026-11-13",
+  "https://www.federalreserve.gov/econres/notes/feds-notes/the-effect-of-oil-prices-on-core-inflation-recent-evidence-from-the-advanced-economies-20261109.html": "2026-11-13",
+  "https://libertystreeteconomics.newyorkfed.org/?p=46764": "2026-11-13",
+  "https://libertystreeteconomics.newyorkfed.org/?p=47419": "2026-11-13",
+  "https://libertystreeteconomics.newyorkfed.org/?p=46756": "2026-11-13",
+  "7939f285-cd1d-4d2c-9b00-ba29a95a810f": "2026-11-13",
+  "0b26c1eb-5211-41f9-ac5b-8b945a6b75ca": "2026-11-13",
+  "027405ab-48f5-4cc6-ab5b-04c6a857dd68": "2026-11-13",
+  "2c85d677-fbe5-4ab8-8420-d6388c67253d": "2026-11-13",
+  "e93be721-7dca-4c5d-947a-3389d17596ba": "2026-11-13",
+  "2fbcecfa-93a4-4e4e-9b82-3f1895249eef": "2026-11-13",
+  "cff94b87-4d05-4e0e-abb7-bcf715bf85b8": "2026-11-13",
+  "d5a4d991-1ae4-4a00-bd15-c2d23bea63ad": "2026-11-13",
+  "de3b4339-0cbe-432e-8169-e06884636b9e": "2026-11-13",
+  "539f8502-48b3-41b9-8c57-54956614b41c": "2026-11-13",
+  "445a4561-2222-4f64-99ed-b4d740ae2f14": "2026-11-13",
+  "e025c3dd-9f6f-46fb-9ce7-0a7ea14b7de0": "2026-11-13",
+  "5738cdc5-e83c-49f2-abf4-2e27563f9de1": "2026-11-13",
+  "5e11471c-4f88-4dba-943d-150c2d7d304c": "2026-11-13",
+  "da9e5468-ce42-4115-ab73-9e04e5c724fc": "2026-11-13",
+  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html": "2026-11-13",
+  "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html": "2026-11-13",
+  "sitefeeds_51": "2026-11-13"
  },
  "recentes": [
   {
-   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
-   "titulo": "Treasury Issuance and Dealer Balance Sheets",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html",
+   "titulo": "A Common Pattern behind Diverging Fortunes: U.S. Tariffs and Exports from Canada and Mexico",
    "autores": "",
-   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/treasury-issuance-and-dealer-balance-sheets-20261030.html",
-   "data": "2026-10-30",
-   "resumo": "Jonathan Glicoes, Lubomir Petrasek , Zack Saravay , and Mary Tian Primary dealers play an important role as intermediaries in Treasury securities and repo markets, and demand for their intermediation rises on issuance dates. Recent increases in Treasury issuance have raised questions about dealers' capacity to meet...",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/a-common-pattern-behind-diverging-fortunes-u-s-tariffs-and-exports-from-canada-and-mexico-20261109.html",
+   "data": "2026-11-09",
+   "resumo": "Chris Avalos, Musa Orak , and Avani Pradhan The 2025 U.S. tariff increases were followed by sharply different export outcomes in Canada and Mexico. Comparing the 12 months ending in April 2026 with calendar year 2024, Canadian goods exports to the United States fell about 10 percent, while Mexican exports rose about...",
    "fonte": "Fed FEDS Notes",
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-13"
   },
   {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46569",
-   "titulo": "The U.S. Oil Sector’s Role in Restraining Prices",
-   "autores": "Thomas Klitgaard",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
-   "data": "2026-11-05",
-   "resumo": "The start of the Middle East conflict in early 2026 caused an unprecedented drop in global petroleum supply. In response, oil prices jumped—but not to unprecedentedly high levels. The U.S. oil sector was a key factor in moderating the shock. For one, its steady increases in drilling helped create a large oversupply in...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46251",
-   "titulo": "How Market Position Shapes Credit Card Interest Rates",
-   "autores": "Kyle Herkenhoff and Juan M. Morelli",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/",
-   "data": "2026-11-04",
-   "resumo": "Why is it that two borrowers who look much alike can be offered very different rates when applying for a credit card? In a recent paper , we address this question by examining how the rate offered changes when the lender’s funding cost falls. Data on 14 million newly issued cards show that when a lender's funding...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "https://libertystreeteconomics.newyorkfed.org/?p=44700",
-   "titulo": "How Do Banking Supervisors Deal with Failing Banks?",
-   "autores": "Sergio Correia, Stephan Luck, and Emil Verner",
-   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
-   "data": "2026-11-02",
-   "resumo": "In this post, we discuss insights from a recent staff report on the role of banking supervision in identifying and disciplining failing banks. We show that bank failures typically result from supervisory closure decisions based on hard information about book equity. Yet hard information is itself partly produced by...",
-   "fonte": "NY Fed Liberty Street Economics",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "0af51157-fce3-4c8a-a5df-8befbb3d706f",
-   "titulo": "Labour market origins of experimentation and growth: Why Europe is falling behind",
-   "autores": "Renato Faccini, Seho Kim, Javier Miranda",
-   "link": "https://cepr.org/voxeu/columns/labour-market-origins-experimentation-and-growth-why-europe-falling-behind",
-   "data": "2026-11-06",
-   "resumo": "Europe’s innovation gap with the US and China lies in breakthrough rather than incremental innovation. This column argues that part of the explanation is the labour market. Breakthroughs come from risky experimentation and experiments often fail and cost workers their jobs. When job loss is costly, workers demand a...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "c74eb9ed-29d8-4619-a02c-7a299b85eccd",
-   "titulo": "Coming of age under populists: The zero-sum legacy of populist rule",
-   "autores": "Nicolas Ajzenman, Cevat Giray Aksoy, Harry Pickard",
-   "link": "https://cepr.org/voxeu/columns/coming-age-under-populists-zero-sum-legacy-populist-rule",
-   "data": "2026-11-06",
-   "resumo": "Populist governments are known to leave lasting economic and institutional scars. This column examines a less visible legacy: whether growing up under populist rule changes how citizens see the world. Combining data on populist leaders with surveys of more than 260,000 people in 53 countries, it shows that people...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "976c82d5-1766-42fb-b04d-e0631dd71d91",
-   "titulo": "Easy money does not win elections",
-   "autores": "Yao Chen, Felix Ward, Florian van Genderen",
-   "link": "https://cepr.org/voxeu/columns/easy-money-does-not-win-elections",
-   "data": "2026-11-05",
-   "resumo": "Politicians have long pressed central banks for lower interest rates in the belief that easy money wins elections. This column tests that premise using 385 parliamentary and presidential elections in 18 countries between 1900 and 2020. It finds no evidence that easy money helps incumbents. The most likely electoral...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "bec4bffa-6963-4974-9af6-0e5c431ac216",
-   "titulo": "Monetary policy in times of high public debt",
-   "autores": "Stéphane Dupraz, Anna Rogantini Picco",
-   "link": "https://cepr.org/voxeu/columns/monetary-policy-times-high-public-debt",
-   "data": "2026-11-05",
-   "resumo": "High public debt around the globe has revived concerns that it could undo central banks’ ability to control inflation. Higher debt can lead to higher spending and increase inflation if households do not fully save debt-financed transfers. This column argues that central banks can still control inflation in these...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "dd88a5f9-f0ef-45af-8c24-ad9bf444b9fe",
-   "titulo": "Bank executive pay: Compensation design can help reduce excessive risk-taking",
-   "autores": "Gaston Gelos, Bertrand Rime, Kevin Tracol",
-   "link": "https://cepr.org/voxeu/columns/bank-executive-pay-compensation-design-can-help-reduce-excessive-risk-taking",
-   "data": "2026-11-04",
-   "resumo": "Bankers may benefit from the upside of risk-taking through bonuses, while taxpayers may ultimately bear the costs when things go badly wrong. After the Global Financial Crisis, regulators set out to change how bank executives are paid. This column examines how compensation practices have evolved since then and how...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "9bf98fa2-1a03-4bb4-a724-e3bf2e209dac",
-   "titulo": "Job seekers’ beliefs and preferences over wages and benefits: Experimental evidence from online job boards",
-   "autores": "Andreas Beerli, Stefano Fiorin, Andreas Gulyas, Daniel Kopp, Mahsa Khoshnama, Michael Siegenthaler",
-   "link": "https://cepr.org/voxeu/columns/job-seekers-beliefs-and-preferences-over-wages-and-benefits-experimental-evidence",
-   "data": "2026-11-04",
-   "resumo": "From employer wage-setting power to the consequences of pay transparency and the role of benefits in compensation inequality, many core questions about labour markets hinge on how job seekers respond to wage and benefit differences across job ads. Combining a field experiment on over 100 Swiss job boards with a...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "1904ba14-783e-4e97-a120-73e09074900f",
-   "titulo": "Repo is the new dollar safe asset",
-   "autores": "Miguel Chumbo, Arvind Krishnamurthy",
-   "link": "https://cepr.org/voxeu/columns/repo-new-dollar-safe-asset",
-   "data": "2026-11-03",
-   "resumo": "US Treasuries have long been the benchmark dollar safe asset, and the convenience yield they command is the price the world pays for dollar liquidity. This column shows that the convenience yield on ten-year Treasuries relative to corporate bonds has collapsed from around 60 to 10 basis points since 2019, while the...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "020f551f-ee30-47ba-b1db-fefc0c648242",
-   "titulo": "A network approach to geopolitics",
-   "autores": "Ernest Liu, Bennett Smith-Worthington, Stephen Redding, David Yang",
-   "link": "https://cepr.org/voxeu/columns/network-approach-geopolitics",
-   "data": "2026-11-03",
-   "resumo": "In international affairs, what a country does depends on its own interests and on what its partners do. This column uses data on political institutions and UN voting to recover the network of geopolitical influence. The network tracks major shifts in international politics since the 1960s and reveals three notions of...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "a6b70a76-80e1-423b-a723-bdf4cc736edb",
-   "titulo": "L'essor avant l'effondrement : des « années folles » à la Grande Dépression",
-   "autores": "Harold Cole, Stefano Cravero, Jeremy Greenwood",
-   "link": "https://cepr.org/voxeu/columns/lessor-avant-leffondrement-des-annees-folles-la-grande-depression",
-   "data": "2026-11-03",
-   "resumo": "L'essor des investissements dans les technologies d'intelligence artificielle suscite des inquiétudes quant à l'éventualité d'une bulle spéculative. Cet article soutient que l'essor des années 1920 et la Grande Dépression offrent des enseignements utiles. Au cours des années 1920, l’innovation en matière de procédés a...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "c4577e03-03b6-4199-91f5-c8bb99addf2f",
-   "titulo": "Stablecoins and the macroeconomy: Bank disintermediation versus fiscal space",
-   "autores": "Boris Hofmann, Matthias Kaldorf, Matthias Rottner",
-   "link": "https://cepr.org/voxeu/columns/stablecoins-and-macroeconomy-bank-disintermediation-versus-fiscal-space",
-   "data": "2026-11-02",
-   "resumo": "Stablecoins compete with banks for households’ holdings of safe and liquid assets, while creating additional demand for government debt. Building on a novel quantitative macroeconomic model, this column discusses how widespread stablecoin adoption affects the macroeconomy. In the baseline scenario, large-scale...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "762a0b6d-2a86-45c6-8501-2119768c7478",
-   "titulo": "When judges move markets: Ideological shifts in the Supreme Court and macroeconomic expectations",
-   "autores": "Thomas Drechsel, Naixin Zhang",
-   "link": "https://cepr.org/voxeu/columns/when-judges-move-markets-ideological-shifts-supreme-court-and-macroeconomic",
-   "data": "2026-11-01",
-   "resumo": "Courts increasingly shape economic policy. This column studies unexpected deaths of US Supreme Court Justices as quasi-experimental shifts in the Court’s ideological balance. High-frequency asset price responses reveal that a more conservative Court is associated with lower inflation expectations, lower activity...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "7ab22ee3-8b70-4d9b-bc73-a13d2cf2c2b4",
-   "titulo": "The boom before the bust: From the Roaring Twenties to the Great Depression",
-   "autores": "Harold Cole, Stefano Cravero, Jeremy Greenwood",
-   "link": "https://cepr.org/voxeu/columns/boom-bust-roaring-twenties-great-depression",
-   "data": "2026-10-31",
-   "resumo": "The investment boom in artificial intelligence technologies has raised concerns about a potential bubble. This column argues that the 1920s boom and the Great Depression offer useful lessons. During the 1920s, process innovation grew rapidly, while product innovation stagnated. In turn, process innovation fuelled an...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "73f128f4-4288-4f79-9f57-9b65dc95b613",
-   "titulo": "Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises",
-   "autores": "Marco Reuter",
-   "link": "https://cepr.org/voxeu/columns/stablecoins-vehicle-dollarisation-evidence-capital-controls-and-currency-crises",
-   "data": "2026-10-31",
-   "resumo": "Stablecoins could make payments and remittances cheaper and faster, but policymakers worry they could also help residents, particularly in emerging markets, circumvent capital controls and move savings into US dollars. This column introduces estimates of stablecoin flows and holdings for 188 countries, built from...",
-   "fonte": "VoxEU (CEPR)",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html",
-   "titulo": "Christine Lagarde: A warning from Europe's hot summer",
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
+   "titulo": "U.S. Private Credit Vehicles: Institutional Structure and Aggregate Balance Sheets",
    "autores": "",
-   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html",
-   "data": "2026-11-04",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/u-s-private-credit-vehicles-institutional-structure-and-aggregate-balance-sheets-20261109.html",
+   "data": "2026-11-09",
+   "resumo": "Katie Brinkman, Christine Dobridge , Tim Dore , Simon Glossner , Elizabeth Holmquist , Nam Nguyen, Maria Perozek , and Irina Stefanescu The expansion of private credit has become one of the most significant developments in financial markets over the past decade. Yet, estimates of the size of the market vary...",
+   "fonte": "Fed FEDS Notes",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
+   "titulo": "Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?",
+   "autores": "",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/gold-reserve-relocations-are-they-always-bad-news-for-u-s-dollar-reserves-20261109.html",
+   "data": "2026-11-09",
+   "resumo": "Colin Weiss This note reviews several publicized gold reserve relocations by central banks in the Netherlands, France, and Germany since 2013 and any concurrent changes in their U.S. dollar reserve allocations. Generally, the choice of where to custody gold reserves may in part reflect the perceived risk of sanctions...",
+   "fonte": "Fed FEDS Notes",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://www.federalreserve.gov/econres/notes/feds-notes/the-effect-of-oil-prices-on-core-inflation-recent-evidence-from-the-advanced-economies-20261109.html",
+   "titulo": "The Effect of Oil Prices on Core Inflation: Recent Evidence from the Advanced Economies",
+   "autores": "",
+   "link": "https://www.federalreserve.gov/econres/notes/feds-notes/the-effect-of-oil-prices-on-core-inflation-recent-evidence-from-the-advanced-economies-20261109.html",
+   "data": "2026-11-09",
+   "resumo": "Andrea De Michelis , Musa Orak , Avani Pradhan, and Albert Queralto Elevated oil prices and heightened geopolitical uncertainty have renewed interest in a longstanding policy question: do supply shocks like oil-price increases pose a transitory or a persistent threat to price stability? This note sheds light on this...",
+   "fonte": "Fed FEDS Notes",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46764",
+   "titulo": "Banking System Vulnerability: 2026 Update",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
+   "data": "2026-11-12",
+   "resumo": "As in previous years, we provide in this post an update on the vulnerability of the U.S. banking system based on four analytical models that capture different aspects of this vulnerability. We use data through 2026:Q2 to update our analysis and discuss how the vulnerability measures have changed since our last update...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=47419",
+   "titulo": "A Look at the Wider Divide in Credit Card Delinquency by Income",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/",
+   "data": "2026-11-10",
+   "resumo": "Credit card delinquency rose sharply between 2022 and 2024, and the increase was steepest among borrowers in lower-income neighborhoods. Here, we check in on credit card performance by neighborhood income and trace when the borrowers who are now struggling with their payments were issued cards. We find that during the...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://libertystreeteconomics.newyorkfed.org/?p=46756",
+   "titulo": "Has U.S. Monetary Policy Really Improved? A 150‑Year Perspective",
+   "autores": "",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
+   "data": "2026-11-09",
+   "resumo": "Has U.S. monetary policy actually improved over time? Or was the apparent success of the modern Federal Reserve mostly the result of more favorable economic conditions and better luck? In this post, we summarize our paper , * which develops a framework for comparing monetary policy across different economic...",
+   "fonte": "NY Fed Liberty Street Economics",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "7939f285-cd1d-4d2c-9b00-ba29a95a810f",
+   "titulo": "AI and the geography of expert work: Evidence from radiology",
+   "autores": "Marco Francesconi, Xiaoyu Xia",
+   "link": "https://cepr.org/voxeu/columns/ai-and-geography-expert-work-evidence-radiology",
+   "data": "2026-11-13",
+   "resumo": "Forecasts of the effect of AI on jobs usually start from the tasks a machine can perform. Radiology, the medical specialty most exposed to AI, points to a different margin. This column uses US Medicare data for 2013–2024 to show that as AI tools spread, radiologists did not read more scans and the profession kept...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "0b26c1eb-5211-41f9-ac5b-8b945a6b75ca",
+   "titulo": "Transportation bottlenecks and aggregate shocks",
+   "autores": "Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou, Yixin Zhou",
+   "link": "https://cepr.org/voxeu/columns/transportation-bottlenecks-and-aggregate-shocks",
+   "data": "2026-11-13",
+   "resumo": "A barrage of transportation disruptions has affected the global economy in recent years. This column examines how transportation bottlenecks interact with aggregate shocks, comparing the Commodity Supercycle of the 2000s and the post-pandemic Great Supply Chain Disruption. The spike in freight rates for dry bulk...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "027405ab-48f5-4cc6-ab5b-04c6a857dd68",
+   "titulo": "AI – Master and Commander: Lessons from graduate student projects and the need for an AI-enriched contract",
+   "autores": "Francesco Paolo Mongelli, Farah Tohme",
+   "link": "https://cepr.org/voxeu/columns/ai-master-and-commander-lessons-graduate-student-projects-and-need-ai-enriched",
+   "data": "2026-11-12",
+   "resumo": "Can artificial intelligence extend students’ analytical capabilities without displacing their independent judgement? This column reports on a pilot study in a graduate seminar investigating weaknesses in European integration. An ‘AI-enriched contract’ required three elements for students’ presentations: an independent...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "2c85d677-fbe5-4ab8-8420-d6388c67253d",
+   "titulo": "Reading the economy from earnings calls with generative AI",
+   "autores": "Manish Jha, Jialin Qian, Michael Weber, Baozhong Yang",
+   "link": "https://cepr.org/voxeu/columns/reading-economy-earnings-calls-generative-ai",
+   "data": "2026-11-12",
+   "resumo": "Official statistics are getting harder to collect and can arrive late. This column uses generative AI to read managers’ economic outlooks from more than 120,000 corporate earnings calls in the US. The resulting score predicts GDP, employment, and wages beyond the next quarter and carries information that professional...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "e93be721-7dca-4c5d-947a-3389d17596ba",
+   "titulo": "The short- and long-run effects of railroads on Mexico–US migration",
+   "autores": "David Escamilla-Guerrero, Giovanni Peri",
+   "link": "https://cepr.org/voxeu/columns/short-and-long-run-effects-railroads-mexico-us-migration",
+   "data": "2026-11-11",
+   "resumo": "Large infrastructure investments, such as railroads, in migrant-sending countries can reduce emigration costs and increase local development, with ambiguous effects on net emigration rates. This column examines how the construction of Mexico’s railroad network between 1880 and 1910 shaped migration to the US over more...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "2fbcecfa-93a4-4e4e-9b82-3f1895249eef",
+   "titulo": "Trust beyond face-to-face contact: AI and the future of finance",
+   "autores": "Charles Goodhart, Ly Hoang Vu",
+   "link": "https://cepr.org/voxeu/columns/trust-beyond-face-face-contact-ai-and-future-finance",
+   "data": "2026-11-11",
+   "resumo": "Every institution in modern finance exists to manufacture and maintain trust across society. This column argues that artificial intelligence poses new threats to trust which can fundamentally endanger the financial system. Deepfakes and voice cloning make it hard to verify identity or trust visual and audio evidence....",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "cff94b87-4d05-4e0e-abb7-bcf715bf85b8",
+   "titulo": "Little gain for American patients, real harm for European ones: Why Europe must answer the US' most-favoured-nation pricing as a Union",
+   "autores": "Frank Vandenbroucke, Gloria Ghéquière",
+   "link": "https://cepr.org/voxeu/columns/little-gain-american-patients-real-harm-european-ones-why-europe-must-answer-us-most",
+   "data": "2026-11-10",
+   "resumo": "The US administration ties the prices it pays for medicines to those paid abroad and justifies this ‘most-favoured-nation’ policy with the claim that Americans subsidise low prices in Europe. This column describes how the available evidence shows that most-favoured nation risks imposing substantial costs on European...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "d5a4d991-1ae4-4a00-bd15-c2d23bea63ad",
+   "titulo": "Making work pay for married mothers: Two simple fixes to US tax credits",
+   "autores": "Viola Garstenauer, Nawid Siassi",
+   "link": "https://cepr.org/voxeu/columns/making-work-pay-married-mothers-two-simple-fixes-us-tax-credits",
+   "data": "2026-11-10",
+   "resumo": "Only about two-thirds of US mothers with young children are in the labour force. For many low-income married mothers, taking a job barely pays: most face participation tax rates above 25%, rising to 60% once childcare costs are counted. This column argues that lifting the caps on the childcare credit and basing the...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "de3b4339-0cbe-432e-8169-e06884636b9e",
+   "titulo": "Scolarisation des enfants réfugiés : effets à long terme de l’intégration par rapport à la séparation",
+   "autores": "Caterina Pavese, Simon ter Meulen, Ludger Woessmann",
+   "link": "https://cepr.org/voxeu/columns/scolarisation-des-enfants-refugies-effets-long-terme-de-lintegration-par-rapport-la",
+   "data": "2026-11-10",
+   "resumo": "Les enfants réfugiés nouvellement arrivés doivent-ils intégrer immédiatement le système scolaire ordinaire ou fréquenter d’abord des écoles séparées ? En prenant l’exemple des Pays-Bas, cet article montre que ce choix implique un compromis majeur à long terme : l’intégration directe réduit le niveau de réussite...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "539f8502-48b3-41b9-8c57-54956614b41c",
+   "titulo": "The Global Office: Globalisation’s frontier is shifting from factories to offices",
+   "autores": "Richard Baldwin",
+   "link": "https://cepr.org/voxeu/columns/global-office-globalisations-frontier-shifting-factories-offices",
+   "data": "2026-11-09",
+   "resumo": "Service value chains are expanding faster than industrial ones, yet their geography is strikingly different: a US-centred star rather than regional blocs. This column documents the shift from factories to offices and argues that differences in production processes call for new theory, new empirical approaches, and new...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "445a4561-2222-4f64-99ed-b4d740ae2f14",
+   "titulo": "Energy labels, feebates and standards: Lessons from the EU’s 2021 reform",
+   "autores": "Toker Doganoglu, Lukasz Grzybowski, Frank Verboven",
+   "link": "https://cepr.org/voxeu/columns/energy-labels-feebates-and-standards-lessons-eus-2021-reform",
+   "data": "2026-11-09",
+   "resumo": "The European Commission is simplifying the rules around the EU energy label. This column uses product-level sales data on refrigerators in Belgium, France, Germany, and Poland to evaluate the impact on energy use of the 2021 switch from the inflated A+++/A++/A+ scale to a more informative A–G scale. Although consumers...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "e025c3dd-9f6f-46fb-9ce7-0a7ea14b7de0",
+   "titulo": "Similarity is not exposure: Measuring spillovers from US–China trade frictions",
+   "autores": "Pol Antràs, Adrian Kulesza, Andrea Presbitero",
+   "link": "https://cepr.org/voxeu/columns/similarity-not-exposure-measuring-spillovers-us-china-trade-frictions",
+   "data": "2026-11-09",
+   "resumo": "The redirection of Chinese exports away from the US has fuelled concerns about its spillovers to other countries. This column shows why trade-basket similarity can be a misleading measure of exposure and introduces four simple, theory-consistent indices: export competition, import competition, consumer gains, and...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "5738cdc5-e83c-49f2-abf4-2e27563f9de1",
+   "titulo": "When wording changes what we find: The impact of inflation expectations on spending",
+   "autores": "Tiziana Assenza, Stefanie Huber, Anna Mogilevskaja, Tobias Schmidt",
+   "link": "https://cepr.org/voxeu/columns/when-wording-changes-what-we-find-impact-inflation-expectations-spending",
+   "data": "2026-11-08",
+   "resumo": "How households’ inflation expectations affect their spending is a central question for researchers and policymakers alike. Yet empirical evidence remains mixed. This column shows that the consumption question researchers choose can change the sign and strength of the estimated relationship. Questions about spending...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "5e11471c-4f88-4dba-943d-150c2d7d304c",
+   "titulo": "The concentration of AI spending",
+   "autores": "Ivan Yotzov, Jose Maria Barrero, Nicholas Bloom, Philip Bunn, Steven Davis, Kevin Foster, Aaron Jalca, Brent Meyer, Paul Mizen, Michael Navarrete, Gregory Thwaites",
+   "link": "https://cepr.org/voxeu/columns/concentration-ai-spending",
+   "data": "2026-11-07",
+   "resumo": "AI use is spreading rapidly, but much less is known about businesses spending on AI. This column uses new survey evidence to estimate total AI spending in 2026 at around $280 billion in the US and $25 billion in the UK. Spending per employee is expected to increase by more than 40% in both countries compared with...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "da9e5468-ce42-4115-ab73-9e04e5c724fc",
+   "titulo": "Schooling refugee children: Long-run effects of integration versus separation",
+   "autores": "Caterina Pavese, Simon ter Meulen, Ludger Woessmann",
+   "link": "https://cepr.org/voxeu/columns/schooling-refugee-children-long-run-effects-integration-versus-separation",
+   "data": "2026-11-07",
+   "resumo": "Should newly arrived refugee children immediately enter mainstream schools or first attend separated schools? Using the setting of the Netherlands, this column shows that the choice involves a major trade-off in the long run: direct integration reduces educational attainment, but it increases cultural assimilation as...",
+   "fonte": "VoxEU (CEPR)",
+   "visto_em": "2026-11-13"
+  },
+  {
+   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html",
+   "titulo": "Reading the room: what Reddit tells us about retail investor sentiment",
+   "autores": "",
+   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261112~a4c8b903d9.en.html",
+   "data": "2026-11-12",
    "resumo": "",
    "fonte": "ECB Blog",
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-13"
   },
   {
-   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261103~b8d18d23bf.en.html",
-   "titulo": "SEPA: Europe’s unsung hero",
+   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html",
+   "titulo": "How the sovereign debt crisis shaped wealth inequality in the euro area",
    "autores": "",
-   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261103~b8d18d23bf.en.html",
-   "data": "2026-11-03",
+   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html",
+   "data": "2026-11-11",
    "resumo": "",
    "fonte": "ECB Blog",
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-13"
   },
   {
-   "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
-   "titulo": "Catching the repricing wave: insights from daily online supermarket prices",
+   "id": "sitefeeds_51",
+   "titulo": "Retropolação de Dados do Mercado de Trabalho",
    "autores": "",
-   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
-   "data": "2026-11-02",
-   "resumo": "",
-   "fonte": "ECB Blog",
-   "visto_em": "2026-11-06"
-  },
-  {
-   "id": "sitefeeds_50",
-   "titulo": "Ecossistema de Banking-as-a-Service brasileiro: considerações sobre resiliência operacional",
-   "autores": "",
-   "link": "https://www.bcb.gov.br/noticiablogbc/50/noticia",
-   "data": "2026-11-04",
-   "resumo": "1. Premissas consideradas na análise do ecossistema de Bank-as-a-Service no Brasil O Banco Central do Brasil (BCB) realizou um levantamento em junho de 2026 com o objetivo de identificar os relacionamentos existentes entre instituições prestadoras de serviços de BaaS (prestadoras de BaaS) e entidades tomadoras de...",
+   "link": "https://www.bcb.gov.br/noticiablogbc/51/noticia",
+   "data": "2026-11-10",
+   "resumo": "Introdução Indicadores de mercado de trabalho são fundamentais para acompanhar a conjuntura e apoiar a formulação de política econômica. No Brasil, a Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD-C), do Instituto Brasileiro de Geografia e Estatística (IBGE), fornece algumas das principais métricas do...",
    "fonte": "Blog do BC",
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-13"
   }
  ]
 }
